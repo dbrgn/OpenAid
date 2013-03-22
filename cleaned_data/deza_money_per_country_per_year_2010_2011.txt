@@ -1,0 +1,3 @@
+Source: http://www.deza.admin.ch/en/Home/Countries
+
+Scraped using script in scripts/deza-scraper folder.

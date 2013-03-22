@@ -1,0 +1,1308 @@
+{
+  "Afghanistan": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.14", 
+        "Federal Office for Migration (FOM)": "0.04", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "\u2013"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "3.52", 
+        "Bilateral development cooperation": "16.52"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.08", 
+        "Federal Office for Migration (FOM)": "\u2013", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.03"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "3.11", 
+        "Bilateral development cooperation": "14.39"
+      }
+    }
+  }, 
+  "Madagascar": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.14"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.25", 
+        "Bilateral development cooperation": "4.44"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.11"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.70", 
+        "Bilateral development cooperation": "5.50"
+      }
+    }
+  }, 
+  "Bangladesh": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.02", 
+        "FDFA Human Security Division and Directorate of International Law": "\u2013"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.67", 
+        "Bilateral development cooperation": "24.75"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.01", 
+        "FDFA Human Security Division and Directorate of International Law": "0.01"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.61", 
+        "Bilateral development cooperation": "18.18"
+      }
+    }
+  }, 
+  "Bhutan": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {}, 
+      "SDC": {
+        "Humanitarian aid": "\u2013", 
+        "Bilateral development cooperation": "3.07"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {}, 
+      "SDC": {
+        "Humanitarian aid": "\u2013", 
+        "Bilateral development cooperation": "1.50"
+      }
+    }
+  }, 
+  "Mekong (Vietnam, Laos, Cambodia, Myanmar)": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "12.96"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.09", 
+        "FDFA Human Security Division and Directorate of International Law": "0.33", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.71"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "7", 
+        "Bilateral development cooperation": "35.23"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "19.96"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.12", 
+        "FDFA Human Security Division and Directorate of International Law": "0.41", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.80"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "5.17", 
+        "Bilateral development cooperation": "26.21"
+      }
+    }
+  }, 
+  "Sudan": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "0.03"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "1.74", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "\u2013"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "10.38", 
+        "Bilateral development cooperation": "0.70"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "2.40", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.81"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "12.29", 
+        "Bilateral development cooperation": "0.39"
+      }
+    }
+  }, 
+  "Serbia": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "4.67"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.10", 
+        "FDFA Human Security Division and Directorate of International Law": "0.11", 
+        "Federal Office for Migration (FOM)": "0.44"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "8.01", 
+        "Humanitarian aid": "\u2013"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "2.73"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.09", 
+        "FDFA Human Security Division and Directorate of International Law": "0.18", 
+        "Federal Office for Migration (FOM)": "1.26"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "7.59", 
+        "Humanitarian aid": "\u2013"
+      }
+    }
+  }, 
+  "Nepal": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "\u2013", 
+        "FDFA Human Security Division and Directorate of International Law": "1.24", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.22"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.09", 
+        "Bilateral development cooperation": "32.16"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.02", 
+        "FDFA Human Security Division and Directorate of International Law": "0.97", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.68"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.50", 
+        "Bilateral development cooperation": "25.70"
+      }
+    }
+  }, 
+  "Mongolia": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.10", 
+        "FDFA Human Security Division and Directorate of International Law": "0.05"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "\u2013", 
+        "Bilateral development cooperation": "13.33"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.12", 
+        "FDFA Human Security Division and Directorate of International Law": "\u2013"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "\u2013", 
+        "Bilateral development cooperation": "11.65"
+      }
+    }
+  }, 
+  "Peru": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "7.54"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.12"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.93", 
+        "Bilateral development cooperation": "8.36"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "8.38"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.12"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.55", 
+        "Bilateral development cooperation": "10.37"
+      }
+    }
+  }, 
+  "Bolivia": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.08", 
+        "FDFA Human Security Division and Directorate of International Law": "0.01"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.05", 
+        "Bilateral development cooperation": "22.27"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.12", 
+        "FDFA Human Security Division and Directorate of International Law": "0.08"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.43", 
+        "Bilateral development cooperation": "17.84"
+      }
+    }
+  }, 
+  "Burkina Faso": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "8.00"
+      }, 
+      "Other Federal Offices": {}, 
+      "SDC": {
+        "Humanitarian aid": "1.63", 
+        "Bilateral development cooperation": "14.40"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "8.61"
+      }, 
+      "Other Federal Offices": {}, 
+      "SDC": {
+        "Humanitarian aid": "3.70", 
+        "Bilateral development cooperation": "13.83"
+      }
+    }
+  }, 
+  "Benin": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "\u2013"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.12", 
+        "Bilateral development cooperation": "8.49"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.02"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.30", 
+        "Bilateral development cooperation": "11.53"
+      }
+    }
+  }, 
+  "Central Asia (Kyrgyzstan, Tajikistan, Uzbekistan)": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "17.59"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.15", 
+        "FDFA Human Security Division and Directorate of International Law": "1.00", 
+        "Federal Office for the Environment (FOEN)": "0.74", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "\u2013"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "25.03", 
+        "Humanitarian aid": "1.01", 
+        "Bilateral development cooperation": "0.14"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "16.14"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.21", 
+        "FDFA Human Security Division and Directorate of International Law": "0.93", 
+        "Federal Office for the Environment (FOEN)": "0.86", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.10"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "22.90", 
+        "Humanitarian aid": "3.29", 
+        "Bilateral development cooperation": "0.03"
+      }
+    }
+  }, 
+  "Cuba": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "Federal Department of Foreign Affairs FDFA (Political Affairs Division IV and other)": "0.01", 
+        "State Secretariat for Education and Research (SER)": "0.14"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "\u2013", 
+        "Bilateral development cooperation": "5.17"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "Federal Department of Foreign Affairs FDFA (Political Affairs Division IV and other)": "0.06", 
+        "State Secretariat for Education and Research (SER)": "0.11"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.04", 
+        "Bilateral development cooperation": "3.57"
+      }
+    }
+  }, 
+  "Iraq, Jordan, Syria, Lebanon": {
+    "2011": {
+      "SDCa": {
+        "Humanitarian aid": "15.13", 
+        "Bilateral development cooperation": "2.64"
+      }, 
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.06", 
+        "FDFA Human Security Division and Directorate of International Law": "0.45", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.04"
+      }
+    }, 
+    "2010": {
+      "SDCa": {
+        "Humanitarian aid": "15.09", 
+        "Bilateral development cooperation": "1.86"
+      }, 
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "0.30"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.05", 
+        "FDFA Human Security Division and Directorate of International Law": "0.60", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.10"
+      }
+    }
+  }, 
+  "Moldova (Republic)": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.06"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "7.26", 
+        "Humanitarian aid": "0.03"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.06"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "7.68", 
+        "Humanitarian aid": "0.38"
+      }
+    }
+  }, 
+  "Bosnia and Herzegovina": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "8.31"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.04", 
+        "FDFA Human Security Division and Directorate of International Law": "1.67", 
+        "Federal Office for Migration (FOM)": "1.08", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "4.13"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "8.47", 
+        "Humanitarian aid": "0.09"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "2.69"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.03", 
+        "FDFA Human Security Division and Directorate of International Law": "2.06", 
+        "Federal Office for Migration (FOM)": "0.55", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "3.78"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "10.07", 
+        "Humanitarian aid": "0.01"
+      }
+    }
+  }, 
+  "Haiti": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.12"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "6.83", 
+        "Bilateral development cooperation": "6.06"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.23"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "8.00", 
+        "Bilateral development cooperation": "5.00"
+      }
+    }
+  }, 
+  "Southern Caucasus (Georgia, Armenia, Azerbaijan)": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "3.46"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.28", 
+        "Federal Office for Migration (FOM)": "\u2013", 
+        "Federal Office for the Environment (FOEN)": "0.01", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.02"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "8.98", 
+        "Humanitarian aid": "6.05"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "1.61"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.37", 
+        "Federal Office for Migration (FOM)": "0.08", 
+        "Federal Office for the Environment (FOEN)": "0.02", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "\u2013"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "8.79", 
+        "Humanitarian aid": "4.03"
+      }
+    }
+  }, 
+  "Ukraine": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "4.44"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.11", 
+        "FDFA Human Security Division and Directorate of International Law": "\u2013", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.04"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "5.41", 
+        "Humanitarian aid": "0.14"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "9.63"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.11", 
+        "FDFA Human Security Division and Directorate of International Law": "0.21", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "\u2013"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "5.52", 
+        "Humanitarian aid": "0.16"
+      }
+    }
+  }, 
+  "Liberia": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.51"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "4.93", 
+        "Bilateral development cooperation": "1.45"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.25"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "3.36", 
+        "Bilateral development cooperation": "1.25"
+      }
+    }
+  }, 
+  "Libya": {
+    "2011": {
+      "\n\n\n\n\nState Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "0.00"
+      }, 
+      "State Secretariat for Education and Research (SER)": {}, 
+      "Political Affairs Division IV (PAIV)": {
+        "Conflict transformation and Human Rights": "0.23"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "4.10", 
+        "Bilateral development cooperation": "0.00"
+      }
+    }, 
+    "2010": {
+      "\n\n\n\n\nState Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "0.00"
+      }, 
+      "State Secretariat for Education and Research (SER)": {}, 
+      "Political Affairs Division IV (PAIV)": {
+        "Conflict transformation and Human Rights": ".."
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.15", 
+        "Bilateral development cooperation": "0.00"
+      }
+    }
+  }, 
+  "Tanzania": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "1.86"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.15", 
+        "FDFA Human Security Division and Directorate of International Law": "0.04"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.31", 
+        "Bilateral development cooperation": "20.94"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "1.56"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.19", 
+        "FDFA Human Security Division and Directorate of International Law": "0.20"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.32", 
+        "Bilateral development cooperation": "14.64"
+      }
+    }
+  }, 
+  "Macedonia": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "0.44"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.18", 
+        "FDFA Human Security Division and Directorate of International Law": "0.08", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.06"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "5.97", 
+        "Humanitarian aid": "\u2013"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "4.26"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.09", 
+        "FDFA Human Security Division and Directorate of International Law": "0.10", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.11"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "6.31", 
+        "Humanitarian aid": "\u2013"
+      }
+    }
+  }, 
+  "North Korea": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.52"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "5.56", 
+        "Bilateral development cooperation": "2.84"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.32"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "4.97", 
+        "Bilateral development cooperation": "3.66"
+      }
+    }
+  }, 
+  "Occupied Palestinian Territory": {
+    "2011": {
+      "SDCa": {
+        "Humanitarian aid": "7.33", 
+        "Bilateral development cooperation": "13.81"
+      }, 
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "1.23"
+      }
+    }, 
+    "2010": {
+      "SDCa": {
+        "Humanitarian aid": "7.43", 
+        "Bilateral development cooperation": "11.99"
+      }, 
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "1.55"
+      }
+    }
+  }, 
+  "South Sudan": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.21", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "1.10"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "4.28", 
+        "Bilateral development cooperation": "0.47"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "\u2013", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "\u2013"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "\u2013", 
+        "Bilateral development cooperation": "\u2013"
+      }
+    }
+  }, 
+  "Mali": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.76", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.12"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.13", 
+        "Bilateral development cooperation": "18.08"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.44", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.11"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.60", 
+        "Bilateral development cooperation": "14.72"
+      }
+    }
+  }, 
+  "Central America (Nicaragua, Honduras)": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "3.59"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.07", 
+        "FDFA Human Security Division and Directorate of International Law": "0.45", 
+        "Federal Office for the Environment (FOEN)": "0.01"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "2.75", 
+        "Bilateral development cooperation": "33.24"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "14.04"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.07", 
+        "FDFA Human Security Division and Directorate of International Law": "0.43", 
+        "Federal Office for the Environment (FOEN)": "0.11"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.97", 
+        "Bilateral development cooperation": "25.01"
+      }
+    }
+  }, 
+  "Yemen": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.15"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "5.52", 
+        "Bilateral development cooperation": "0.60"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "\u2013"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "4.26", 
+        "Bilateral development cooperation": "\u2013"
+      }
+    }
+  }, 
+  "South Africa and southern Africa": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "2.84"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.04", 
+        "FDFA Human Security Division and Directorate of International Law": "0.04"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "7.41", 
+        "Bilateral development cooperation": "24.49"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "2.80"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.06", 
+        "FDFA Human Security Division and Directorate of International Law": "0.30"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "8.30", 
+        "Bilateral development cooperation": "18.94"
+      }
+    }
+  }, 
+  "Pakistan": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {}, 
+      "SDC": {
+        "Humanitarian aid": "7.34", 
+        "Bilateral development cooperation": "9.23"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {}, 
+      "SDC": {
+        "Humanitarian aid": "11.01", 
+        "Bilateral development cooperation": "11.21"
+      }
+    }
+  }, 
+  "Albania": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Other": "\u2013", 
+        "Economic Cooperation and Development": "3.33"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.05", 
+        "FDFA Human Security Division and Directorate of International Law": "0.09", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.03"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "7.31", 
+        "Humanitarian aid": "\u2013"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Other": "0.33", 
+        "Economic Cooperation and Development": "5.83"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.06", 
+        "FDFA Human Security Division and Directorate of International Law": "\u2013", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "\u2013"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "7.98", 
+        "Humanitarian aid": "0.10"
+      }
+    }
+  }, 
+  "Angola": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {}, 
+      "SDC": {
+        "Humanitarian aid": "0.51", 
+        "Bilateral development cooperation": "\u2013"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {}, 
+      "SDC": {
+        "Humanitarian aid": "0.37", 
+        "Bilateral development cooperation": "\u2013"
+      }
+    }
+  }, 
+  "Chad": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.11"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "2.11", 
+        "Bilateral development cooperation": "8.25"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.04"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "3.58", 
+        "Bilateral development cooperation": "10.24"
+      }
+    }
+  }, 
+  "Kosovo": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "1.56"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.08", 
+        "FDFA Human Security Division and Directorate of International Law": "4.35", 
+        "Federal Office for Migration (FOM)": "0.55", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "37.50"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "10.15", 
+        "Humanitarian aid": "0.06", 
+        "Bilateral development cooperation": "0.10"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "3.43"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.05", 
+        "FDFA Human Security Division and Directorate of International Law": "4.74", 
+        "Federal Office for Migration (FOM)": "0.95", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "37.02"
+      }, 
+      "SDC": {
+        "Cooperation with Eastern Europe and CIS": "10.84", 
+        "Humanitarian aid": "\u2013", 
+        "Bilateral development cooperation": "0.04"
+      }
+    }
+  }, 
+  "Egypt": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "6.33"
+      }, 
+      "Political Affairs Division (PA)": {
+        "Division Human Rights": "0.60"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.48", 
+        "Bilateral development cooperation": "3.56"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "6.84"
+      }, 
+      "Political Affairs Division (PA)": {
+        "Division Human Rights": "0.82"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "", 
+        "Bilateral development cooperation": "0.39"
+      }
+    }
+  }, 
+  "India": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "0.15"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.46"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.24", 
+        "Bilateral development cooperation": "6.67"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "0.31"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.46"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.07", 
+        "Bilateral development cooperation": "7.60"
+      }
+    }
+  }, 
+  "Great Lakes (Rwanda - Burundi - Democratic Republic of Congo)": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "Other contributions": "1.51", 
+        "FDFA Human Security Division and Directorate of International Law": "2.31", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "1.07"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "8.37", 
+        "Bilateral development cooperation": "20.99"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "Other contributions": "\u2013", 
+        "FDFA Human Security Division and Directorate of International Law": "3.04", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.81"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "8.23", 
+        "Bilateral development cooperation": "12.90"
+      }
+    }
+  }, 
+  "Marocco": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)\u00a0": {
+        "Economic Cooperation and Development": "0.09"
+      }, 
+      "Federal Office for Migration (FOM)": {}, 
+      "Political Affairs Division (PA)\u00a0": {
+        "Division\u00a0Human Rights": ""
+      }, 
+      "SDC": {
+        "Humanitarian aid": "3.49", 
+        "Bilateral development cooperation": "0.12"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)\u00a0": {
+        "Economic Cooperation and Development": "0.04"
+      }, 
+      "Federal Office for Migration (FOM)": {}, 
+      "Political Affairs Division (PA)\u00a0": {
+        "Division\u00a0Human Rights": ""
+      }, 
+      "SDC": {
+        "Humanitarian aid": "2.52", 
+        "Bilateral development cooperation": "0.04"
+      }
+    }
+  }, 
+  "Mozambique": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "5.26"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "\u2013"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.34", 
+        "Bilateral development cooperation": "19.73"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "8.64"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.01"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.08", 
+        "Bilateral development cooperation": "19.90"
+      }
+    }
+  }, 
+  "Tunisia": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "3.55"
+      }, 
+      "Political Affairs Division (PA)": {
+        "Division Human Rights": "0.74"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "0.28", 
+        "Bilateral development cooperation": "9.24"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "1.02"
+      }, 
+      "Political Affairs Division (PA)": {
+        "Division Human Rights": "0.85"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.00", 
+        "Bilateral development cooperation": "7.73"
+      }
+    }
+  }, 
+  "Colombia": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "3.99"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.19", 
+        "FDFA Human Security Division and Directorate of International Law": "1.71"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "8.22", 
+        "Bilateral development cooperation": "0.69"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "2.59"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.28", 
+        "FDFA Human Security Division and Directorate of International Law": "2.42"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "6.95", 
+        "Bilateral development cooperation": "0.19"
+      }
+    }
+  }, 
+  "Sri Lanka": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.02", 
+        "FDFA Human Security Division and Directorate of International Law": "0.65"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "7.86", 
+        "Bilateral development cooperation": "0.50"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "State Secretariat for Education and Research (SER)": "0.05", 
+        "FDFA Human Security Division and Directorate of International Law": "0.85"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "7.77", 
+        "Bilateral development cooperation": "1.10"
+      }
+    }
+  }, 
+  "Niger": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.36"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "1.35", 
+        "Bilateral development cooperation": "13.92"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.13"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "4.50", 
+        "Bilateral development cooperation": "13.25"
+      }
+    }
+  }, 
+  "Horn of Africa (Somalia, Ethiopia, Kenya)": {
+    "2011": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "1.0", 
+        "Federal Office for Migration (FOM)": "0.3", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.4"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "21.5", 
+        "Bilateral development cooperation": "2.3"
+      }
+    }, 
+    "2010": {
+      "State Secretariat for Economic Affairs (SECO)": {
+        "Economic Cooperation and Development": "\u2013"
+      }, 
+      "Other Federal Offices": {
+        "FDFA Human Security Division and Directorate of International Law": "0.59", 
+        "Federal Office for Migration (FOM)": "0.09", 
+        "Federal Department of Defence, Civil Protection and Sport (DDPS)": "0.33"
+      }, 
+      "SDC": {
+        "Humanitarian aid": "36.36", 
+        "Bilateral development cooperation": "0.23"
+      }
+    }
+  }
+}
