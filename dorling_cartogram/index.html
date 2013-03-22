@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+ 
+path {
+  fill: none;
+  stroke: #888;
+  stroke-width: .5px;
+}
+ 
+.cantons {
+  fill: #efefef;
+  stroke: none;
+}
+
+.canton-boundary {
+  stroke-width: 1px;  
+}
+
+.land-boundary {
+  stroke-width: 2px;
+}
+ 
+.municipality-boundary {
+  stroke: #aaa;
+}
+ 
+</style>
+<body>
+<script src="d3.v3.min.js"></script>
+<script src="topojson.v0.min.js"></script>
+<script>
+ 
+var width = 960,
+    height = 500;
+
+var projection = d3.geo.albers()
+    .rotate([0, 0])
+    .center([8.43, 46.8])
+    .scale(13600);
+ 
+var path = d3.geo.path()
+    .projection(projection);
+
+var force = d3.layout.force()
+    .charge(0)
+    .gravity(0)
+    .size([width, height]);
+ 
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var update;
+ 
+d3.json("switzerland.topo.json", function(error, topology) {
+
+    svg.append("path")
+        .datum(topojson.object(topology, topology.objects["swiss-cantons"]))
+        .attr("d", path)
+        .attr("class", "cantons");
+   
+    /*svg.append("path")
+        .datum(topojson.mesh(topology, topology.objects["swiss-municipalities"], function(a, b) { return a.properties.bfsNo !== b.properties.bfsNo }))
+        .attr("d", path)
+        .attr("class", "municipality-boundary");*/
+   
+    svg.append("path")
+        .datum(topojson.mesh(topology, topology.objects["swiss-cantons"], function(a, b) { return a.properties.no !== b.properties.no}))
+        .attr("d", path)
+        .attr("class", "canton-boundary");
+  
+    svg.append("path")
+        .datum(topojson.mesh(topology, topology.objects["swiss-cantons"], function(a, b) { return a.properties.no === b.properties.no; }))
+        .attr("d", path)
+        .attr("class", "land-boundary");
+
+});
+
+d3.json("switzerland.geo.json", function(error, cantons) {
+
+    var idToNode = {};
+    var links = [];
+
+    var nodes = cantons.features.map(function(d) {
+        var xy = projection(d3.geo.centroid(d));
+        return idToNode[d.id] = {
+            x: xy[0],
+            y: xy[1],
+            gravity: {x: xy[0], y: xy[1]},
+            //r: Math.sqrt(data[+d.id] * 5000),
+            r: 20,
+            //value: data[+d.id]
+            value: "42"
+        };
+    });
+
+    svg.selectAll("circle")
+        .data(nodes)
+      .enter()
+        .append("circle")
+        .style("fill", "#667")
+        .attr("cx", function (d) { return d.x; })
+        .attr("cy", function (d) { return d.y; })
+        .attr("r", function (d) { return d.r; });
+});
+ 
+</script>
