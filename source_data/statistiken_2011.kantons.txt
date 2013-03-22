@@ -1,0 +1,27 @@
+Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
+Total	27'655	112	27'766	32'103	642	32'745
+Aargau	1'205	-	1'205	1'220	10	1'230
+Appenzell	A.Rh.	132	-	132	130	-	130
+Basel-Landschaft	1'253	-	1'253	1'253	-	1'253
+Basel-Stadt	1'615	20	1'635	1'650	-	1'650
+Bern	2'299	-	2'299	2'559	-	2'559
+Fribourg	1'095	52	1'147	1'010	61	1'071
+Genève	15'148	-	15'148	14'760	118	14'879
+Glarus	189	-	189	125	-	125
+Graubünden	77	8	85	117	8	125
+Jura	374	-	374	320	-	320
+Luzern	95	-	95	95	-	95
+Neuchâtel	360	-	360	305	-	305
+Nidwalden	18	-	18	59	-	59
+Obwalden	15	-	15	27	-	27
+Schaffhausen	155	-	155	173	-	173
+Schwyz	48	-	48	160	-	160
+Solothurn	80	-	80	75	-	75
+St.Gallen	238	20	258	338	-	338
+Thurgau	90	-	90	150	-	150
+Ticino	183	5	188	269	5	274
+Uri	46	4	50	112	-	112
+Valais	475	-	475	292	-	292
+Vaud	1'781	3	1'784	1'584	-	1'584
+Zug	140	-	140	725	40	765
+Zürich	545	-	545	4'595	400	4'995
