@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!-- todo durch min libraries ersetzen -->
+        <link type="text/css" rel="stylesheet" href="css/bootstrap-responsive.css"/>
+        <link type="text/css" rel="stylesheet" href="css/bootstrap.css"/>
+    </head>
+    <body>
+        <h1>OpenAid</h1>
+        <div style="position:absolute;bottom:0;font-size:18px;">
+            <!--  <input type="checkbox" id="voronoi"> <label for="voronoi">show Voronoi</label> -->
+        </div>
+        <script type="text/javascript" src="js/d3.v3.min.js"></script>
+        <script type="text/javascript" src="js/d3.csv.js"></script>
+        <!-- <script type="text/javascript" src="js/d3.geo.js"></script> -->
+        <script type="text/javascript" src="js/d3.geom.js"></script>
+        <script type="text/javascript" src="js/openAid.income.js"></script>
+        <script type="text/javascript" src="js/openAid.outcome.js"></script>
+        <script>
+            var width = 960, height = 500;
+
+            var projection = d3.geo.mercator()
+                    .center([0, 5])
+                    .scale(900)
+                    .rotate([-180, 0]);
+
+            var svg = d3.select("body").append("svg")
+                    .attr("width", width)
+                    .attr("height", height);
+
+            var path = d3.geo.path().projection(projection);
+
+            var g = svg.append("g");
+
+// load and display the World
+            d3.json("data/world.topo.json", function(error, topology) {
+                g.selectAll("path")
+                        .data(topojson.object(topology, topology.objects.countries)
+                        .geometries)
+                        .enter()
+                        .append("path")
+                        .attr("d", path)
+            });
+        </script>
+    </body>
+</html>
