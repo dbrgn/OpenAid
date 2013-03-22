@@ -1,5 +1,5 @@
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Total	27'655	112	27'766	32'103	642	32'745
+name	dev_2011	sudest_2011	total_2011	dev_2010	sudest_2010	total_2010
+	27'655	112	27'766	32'103	642	32'745
 Aargau	1'205	-	1'205	1'220	10	1'230
 Appenzell	A.Rh.	132	-	132	130	-	130
 Basel-Landschaft	1'253	-	1'253	1'253	-	1'253

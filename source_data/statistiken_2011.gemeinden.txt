@@ -1,278 +1,238 @@
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Total	14'577	388	14'965	15'475	568	16'043
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Aargau	200	11	211	229	1	230
-Aarau	80	-	80	80	-	80
-Auw	1	-	1	1	-	1
-Baden	37	-	37	50	-	50
-Berikon	-	-	-	5	-	5
-Buchs (AG)	4	-	4	9	-	9
-Lenzburg	-	-	-	5	-	5
-Möhlin	5	-	5	5	-	5
-Neuenhof	-	-	-	5	-	5
-Niederrohrdorf	-	-	-	5	-	5
-Obersiggenthal	18	-	18	37	-	37
-Reinach (AG)	3	1	4	-	1	1
-Rheinfelden	5	-	5	13	-	13
-Staufen	..	..	..	7	-	7
-Wettingen	40	10	50	..	..	..
-Windisch	4	-	4	4	-	4
-Würenlos	3	-	3	4	-	4
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Basel-Landschaft	240	4	244	280	14	294
-Arlesheim	50	-	50	82	-	82
-Binningen	51	4	55	66	4	70
-Bottmingen	39	-	39	39	-	39
-Liestal	..	..	..	6	-	6
-Münchenstein	..	..	..	5	-	5
-Oberwil (BL)	18	-	18	..	..	..
-Pfeffingen	20	-	20	20	-	20
-Reinach (BL)	45	-	45	40	10	50
-Tenniken	2	-	2	2	-	2
-Therwil	15	-	15	20	-	20
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Basel-Stadt	283	182	465	305	167	472
-Bettingen	20	-	20	20	-	20
-Riehen	263	182	445	285	167	452
-Bern	671	44	715	861	57	917
-Aarberg	4	-	4	4	-	4
-Belp	4	-	4	6	-	6
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Bern	180	-	180	293	-	293
-Biel/Bienne	16	-	16	16	-	16
-Bolligen	11	-	11	12	1	13
-Burgdorf	1	-	1	5	-	5
-Guttannen	4	-	4	5	-	5
-Heimberg	30	-	30	28	3	31
-Hindelbank	1	-	1	..	..	..
-Ittigen	78	-	78	80	-	80
-Jegenstorf	8	-	8	10	1	10
-Konolfingen	1	-	1	2	-	2
-Köniz	12	-	12	..	..	..
-Lyss	23	-	23	16	-	16
-Moosseedorf	-	-	-	3	-	3
-Moutier	12	7	19	10	10	20
-Muri bei Bern	60	-	60	70	-	70
-Münsingen	152	-	152	201	-	201
-Oberdiessbach	1	-	1	1	-	1
-Ostermundigen	5	2	7	9	4	13
-Saanen	12	-	12	29	1	29
-Spiez	15	-	15	15	-	15
-Steffisburg	25	-	25	25	-	25
-Thun	-	34	34	-	39	39
-Urtenen-Schönbühl	3	-	3	4	-	4
-Wohlen bei Bern	5	-	5	7	-	7
-Zollikofen	10	-	10	10	-	10
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Fribourg	45	-	45	32	-	32
-Bulle	15	-	15	-	-	-
-Düdingen	8	-	8	11	-	11
-Farvagny	..	..	..	1	-	1
-Fribourg	17	-	17	17	-	17
-Muntelier	2	-	2	2	-	2
-Rechthalten	1	-	1	1	-	1
-Rossens (FR)	2	-	2	..	..	..
-St. Ursen	-	-	-	1	-	1
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Genève	8'738	52	8'790	6'278	271	6'550
-Aire-la-Ville	22	-	22	16	-	16
-Anières	46	-	46	90	-	90
-Avully	10	6	16	13	6	19
-Avusy	124	-	124	..	..	..
-Bardonnex	58	-	58	59	-	59
-Bellevue	67	-	67	64	-	64
-Bernex	165	-	165	177	2	179
-Carouge (GE)	739	-	739	735	2	737
-Cartigny	22	-	22	52	-	52
-Chancy	..	..	..	7	-	7
-Choulex	25	-	25	26	-	26
-Chêne-Bourg	147	-	147	..	..	..
-Collex-Bossy	32	-	32	24	-	24
-Collonge-Bellerive	110	-	110	120	-	120
-Cologny	314	5	319	359	15	374
-Confignon	85	-	85	86	2	88
-Corsier (GE)	..	..	..	5	-	5
-Céligny	..	..	..	13	-	13
-Dardagny	25	-	25	19	-	19
-Genthod	80	-	80	90	-	90
-Genève	4'153	20	4'173	1'853	184	2'038
-Gy	7	-	7	5	-	5
-Jussy	..	..	..	14	-	14
-Lancy	599	-	599	589	-	589
-Meinier	37	1	38	35	-	35
-Onex	275	-	275	274	-	274
-Plan-les-Ouates	406	20	426	414	60	474
-Pregny-Chambésy	46	-	46	67	-	67
-Presinge	26	-	26	31	-	31
-Puplinge	45	-	45	45	-	45
-Satigny	47	-	47	45	-	45
-Soral	14	-	14	14	-	14
-Thônex	118	-	118	116	-	116
-Troinex	40	-	40	56	-	56
-Vandoeuvres	158	-	158	117	-	117
-Vernier	435	-	435	382	-	382
-Versoix	138	-	138	139	-	139
-Veyrier	123	-	123	131	-	131
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Graubünden	51	-	51	68	-	68
-Chur	16	-	16	10	-	10
-Domat/Ems	-	-	-	10	-	10
-St. Moritz	35	-	35	48	-	48
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Jura	24	-	24	40	-	40
-Delémont	20	-	20	35	-	35
-Le Noirmont	1	-	1	-	-	-
-Les Breuleux	4	-	4	5	-	5
-Pleigne	-	-	-	-	-	-
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Luzern	133	-	133	215	-	215
-Dagmersellen	1	-	1	..	..	..
-Ebikon	..	..	..	10	-	10
-Kriens	-	-	-	29	-	29
-Luzern	113	-	113	120	-	120
-Meggen	-	-	-	21	-	21
-Sursee	19	-	19	35	-	35
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Neuchâtel	219	2	220	30	-	30
-Corcelles-Cormondrèche	5	-	5	7	-	7
-La Chaux-de-Fonds	7	1	8	..	..	..
-Le Cerneux-Péquignot	-	-	-	-	-	-
-Le Locle	74	-	74	20	-	20
-Neuchâtel	111	1	112	..	..	..
-Val-de-Travers	22	-	22	3	-	3
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Schaffhausen	19	-	19	30	-	30
-Gächlingen	2	-	2	1	-	1
-Neuhausen am Rheinfall	10	-	10	18	-	18
-Stein am Rhein	5	-	5	7	-	7
-Thayngen	2	-	2	4	-	4
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Schwyz	13	5	18	21	8	29
-Freienbach	13	5	18	21	4	25
-Wollerau	-	-	-	-	4	4
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Solothurn	114	8	122	144	7	151
-Biberist	15	5	20	18	4	22
-Dornach	8	-	8	..	..	..
-Grenchen	6	-	6	27	-	27
-Laupersdorf	1	-	1	1	-	1
-Olten	54	3	57	70	-	70
-Solothurn	28	-	28	27	3	30
-Zuchwil	2	-	2	3	-	3
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-St.Gallen	470	10	480	491	10	501
-Altstätten	1	-	1	2	-	2
-Goldach	10	-	10	..	..	..
-Rapperswil-Jona	178	10	188	228	10	238
-St. Gallen	279	-	279	234	-	234
-St. Margrethen	-	-	-	6	-	6
-Uznach	1	-	1	1	-	1
-Wil (SG)	-	-	-	10	-	10
-Wittenbach	1	-	1	10	-	10
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Thurgau	80	-	80	95	-	95
-Frauenfeld	80	-	80	80	-	80
-Kradolf-Schönenberg	..	..	..	3	-	3
-Romanshorn	..	..	..	12	-	12
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Ticino	88	3	91	86	3	88
-Bellinzona	11	-	11	9	-	9
-Bioggio	34	-	34	32	-	32
-Breggia	-	-	-	1	-	1
-Cadempino	2	-	2	..	..	..
-Cureglia	2	-	2	..	..	..
-Lugano	38	3	40	43	3	46
-Sementina	-	-	-	1	-	1
-Sessa	1	-	1	..	..	..
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Valais	77	1	78	66	1	67
-Brig-Glis	5	-	5	..	..	..
-Gampel-Bratsch	-	-	-	2	-	2
-Mörel-Filet	-	-	-	1	-	1
-Sierre	25	-	25	25	-	25
-Sion	34	1	35	39	1	40
-Visp	13	-	13	..	..	..
-Zermatt	-	-	-	1	-	1
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Vaud	623	36	660	605	15	620
-Belmont-sur-Lausanne	3	-	3	2	-	2
-Bex	-	-	-	11	-	11
-Bursinel	-	-	-	-	-	-
-Bussigny-près-Lausanne	5	-	5	7	-	7
-Chavannes-près-Renens	-	-	-	-	-	-
-Coppet	5	-	5	..	..	..
-Crissier	-	4	4	1	8	9
-Echandens	20	-	20	..	..	..
-Ecublens (VD)	7	-	7	11	-	11
-Epalinges	7	-	7	-	-	-
-Grandson	-	-	-	2	-	2
-Jongny	-	-	-	-	-	-
-La Tour-de-Peilz	10	-	10	10	-	10
-Lausanne	329	32	361	331	-	331
-Montreux	27	-	27	38	-	38
-Morges	41	-	41	50	-	50
-Pully	9	-	9	28	1	29
-Renens (VD)	15	-	15	17	-	17
-Treycovagnes	-	-	-	-	-	-
-Vevey	89	-	89	64	6	70
-Yverdon-les-Bains	57	-	57	32	-	32
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Zug	380	-	380	1'165	1	1'166
-Baar	150	-	150	270	-	270
-Cham	8	-	8	19	-	19
-Hünenberg	5	-	5	16	-	16
-Risch	1	-	1	200	-	200
-Unterägeri	..	..	..	9	-	9
-Zug	216	-	216	652	1	653
-
-Name	Pays_en_dev_2011	Autres_SudEst_2011	Total_2011	Pays_en_dev_2010	Autres_SudEst_2010	Total_2010
-Zürich	2'111	31	2'141	4'432	14	4'446
-Adliswil	40	-	40	..	..	..
-Bubikon	3	-	3	43	-	43
-Dübendorf	15	-	15	65	-	65
-Elgg	40	-	40	40	-	40
-Erlenbach (ZH)	45	4	49	82	4	86
-Fehraltorf	1	-	1	3	-	3
-Gossau (ZH)	6	7	13	..	..	..
-Herrliberg	50	-	50	97	-	97
-Illnau-Effretikon	154	-	154	..	..	..
-Kloten	-	-	-	100	-	100
-Küsnacht (ZH)	320	-	320	300	-	300
-Langnau am Albis	-	-	-	20	-	20
-Maur	120	-	120	110	-	110
-Meilen	..	..	..	80	-	80
-Männedorf	-	-	-	11	-	11
-Oberrieden	30	-	30	30	-	30
-Opfikon	80	-	80	80	-	80
-Rüschlikon	37	-	37	90	-	90
-Rüti (ZH)	-	-	-	13	-	13
-Schlieren	10	-	10	10	-	10
-Thalwil	-	-	-	20	-	20
-Uitikon	82	-	82	85	-	85
-Uster	20	-	20	10	-	10
-Wald (ZH)	3	-	3	2	-	2
-Wallisellen	51	-	51	81	-	81
-Wetzikon (ZH)	30	-	30	30	-	30
-Winterthur	159	-	159	148	-	148
-Wädenswil	45	-	45	45	-	45
-Zumikon	120	20	140	140	10	150
-Zürich	650	-	650	2'700	-	2'700
+kanton	gemeinde	dev_2011	sudest_2011	total_2011	dev_2010	sudest_2010	total_2010
+		14'577	388	14'965	15'475	568	16'043
+Aargau		200	11	211	229	1	230
+Aargau	Aarau	80	-	80	80	-	80
+Aargau	Auw	1	-	1	1	-	1
+Aargau	Baden	37	-	37	50	-	50
+Aargau	Berikon	-	-	-	5	-	5
+Aargau	Buchs (AG)	4	-	4	9	-	9
+Aargau	Lenzburg	-	-	-	5	-	5
+Aargau	Möhlin	5	-	5	5	-	5
+Aargau	Neuenhof	-	-	-	5	-	5
+Aargau	Niederrohrdorf	-	-	-	5	-	5
+Aargau	Obersiggenthal	18	-	18	37	-	37
+Aargau	Reinach (AG)	3	1	4	-	1	1
+Aargau	Rheinfelden	5	-	5	13	-	13
+Aargau	Staufen	..	..	..	7	-	7
+Aargau	Wettingen	40	10	50	..	..	..
+Aargau	Windisch	4	-	4	4	-	4
+Aargau	Würenlos	3	-	3	4	-	4
+Basel-Landschaft		240	4	244	280	14	294
+Basel-Landschaft	Arlesheim	50	-	50	82	-	82
+Basel-Landschaft	Binningen	51	4	55	66	4	70
+Basel-Landschaft	Bottmingen	39	-	39	39	-	39
+Basel-Landschaft	Liestal	..	..	..	6	-	6
+Basel-Landschaft	Münchenstein	..	..	..	5	-	5
+Basel-Landschaft	Oberwil (BL)	18	-	18	..	..	..
+Basel-Landschaft	Pfeffingen	20	-	20	20	-	20
+Basel-Landschaft	Reinach (BL)	45	-	45	40	10	50
+Basel-Landschaft	Tenniken	2	-	2	2	-	2
+Basel-Landschaft	Therwil	15	-	15	20	-	20
+Basel-Stadt		283	182	465	305	167	472
+Basel-Stadt	Bettingen	20	-	20	20	-	20
+Basel-Stadt	Riehen	263	182	445	285	167	452
+Basel-Stadt	Bern	671	44	715	861	57	917
+Basel-Stadt	Aarberg	4	-	4	4	-	4
+Basel-Stadt	Belp	4	-	4	6	-	6
+Bern		180	-	180	293	-	293
+Bern	Biel/Bienne	16	-	16	16	-	16
+Bern	Bolligen	11	-	11	12	1	13
+Bern	Burgdorf	1	-	1	5	-	5
+Bern	Guttannen	4	-	4	5	-	5
+Bern	Heimberg	30	-	30	28	3	31
+Bern	Hindelbank	1	-	1	..	..	..
+Bern	Ittigen	78	-	78	80	-	80
+Bern	Jegenstorf	8	-	8	10	1	10
+Bern	Konolfingen	1	-	1	2	-	2
+Bern	Köniz	12	-	12	..	..	..
+Bern	Lyss	23	-	23	16	-	16
+Bern	Moosseedorf	-	-	-	3	-	3
+Bern	Moutier	12	7	19	10	10	20
+Bern	Muri bei Bern	60	-	60	70	-	70
+Bern	Münsingen	152	-	152	201	-	201
+Bern	Oberdiessbach	1	-	1	1	-	1
+Bern	Ostermundigen	5	2	7	9	4	13
+Bern	Saanen	12	-	12	29	1	29
+Bern	Spiez	15	-	15	15	-	15
+Bern	Steffisburg	25	-	25	25	-	25
+Bern	Thun	-	34	34	-	39	39
+Bern	Urtenen-Schönbühl	3	-	3	4	-	4
+Bern	Wohlen bei Bern	5	-	5	7	-	7
+Bern	Zollikofen	10	-	10	10	-	10
+Fribourg		45	-	45	32	-	32
+Fribourg	Bulle	15	-	15	-	-	-
+Fribourg	Düdingen	8	-	8	11	-	11
+Fribourg	Farvagny	..	..	..	1	-	1
+Fribourg	Fribourg	17	-	17	17	-	17
+Fribourg	Muntelier	2	-	2	2	-	2
+Fribourg	Rechthalten	1	-	1	1	-	1
+Fribourg	Rossens (FR)	2	-	2	..	..	..
+Fribourg	St. Ursen	-	-	-	1	-	1
+Genève		8'738	52	8'790	6'278	271	6'550
+Genève	Aire-la-Ville	22	-	22	16	-	16
+Genève	Anières	46	-	46	90	-	90
+Genève	Avully	10	6	16	13	6	19
+Genève	Avusy	124	-	124	..	..	..
+Genève	Bardonnex	58	-	58	59	-	59
+Genève	Bellevue	67	-	67	64	-	64
+Genève	Bernex	165	-	165	177	2	179
+Genève	Carouge (GE)	739	-	739	735	2	737
+Genève	Cartigny	22	-	22	52	-	52
+Genève	Chancy	..	..	..	7	-	7
+Genève	Choulex	25	-	25	26	-	26
+Genève	Chêne-Bourg	147	-	147	..	..	..
+Genève	Collex-Bossy	32	-	32	24	-	24
+Genève	Collonge-Bellerive	110	-	110	120	-	120
+Genève	Cologny	314	5	319	359	15	374
+Genève	Confignon	85	-	85	86	2	88
+Genève	Corsier (GE)	..	..	..	5	-	5
+Genève	Céligny	..	..	..	13	-	13
+Genève	Dardagny	25	-	25	19	-	19
+Genève	Genthod	80	-	80	90	-	90
+Genève	Genève	4'153	20	4'173	1'853	184	2'038
+Genève	Gy	7	-	7	5	-	5
+Genève	Jussy	..	..	..	14	-	14
+Genève	Lancy	599	-	599	589	-	589
+Genève	Meinier	37	1	38	35	-	35
+Genève	Onex	275	-	275	274	-	274
+Genève	Plan-les-Ouates	406	20	426	414	60	474
+Genève	Pregny-Chambésy	46	-	46	67	-	67
+Genève	Presinge	26	-	26	31	-	31
+Genève	Puplinge	45	-	45	45	-	45
+Genève	Satigny	47	-	47	45	-	45
+Genève	Soral	14	-	14	14	-	14
+Genève	Thônex	118	-	118	116	-	116
+Genève	Troinex	40	-	40	56	-	56
+Genève	Vandoeuvres	158	-	158	117	-	117
+Genève	Vernier	435	-	435	382	-	382
+Genève	Versoix	138	-	138	139	-	139
+Genève	Veyrier	123	-	123	131	-	131
+Graubünden		51	-	51	68	-	68
+Graubünden	Chur	16	-	16	10	-	10
+Graubünden	Domat/Ems	-	-	-	10	-	10
+Graubünden	St. Moritz	35	-	35	48	-	48
+Jura		24	-	24	40	-	40
+Jura	Delémont	20	-	20	35	-	35
+Jura	Le Noirmont	1	-	1	-	-	-
+Jura	Les Breuleux	4	-	4	5	-	5
+Jura	Pleigne	-	-	-	-	-	-
+Luzern		133	-	133	215	-	215
+Luzern	Dagmersellen	1	-	1	..	..	..
+Luzern	Ebikon	..	..	..	10	-	10
+Luzern	Kriens	-	-	-	29	-	29
+Luzern	Luzern	113	-	113	120	-	120
+Luzern	Meggen	-	-	-	21	-	21
+Luzern	Sursee	19	-	19	35	-	35
+Neuchâtel		219	2	220	30	-	30
+Neuchâtel	Corcelles-Cormondrèche	5	-	5	7	-	7
+Neuchâtel	La Chaux-de-Fonds	7	1	8	..	..	..
+Neuchâtel	Le Cerneux-Péquignot	-	-	-	-	-	-
+Neuchâtel	Le Locle	74	-	74	20	-	20
+Neuchâtel	Neuchâtel	111	1	112	..	..	..
+Neuchâtel	Val-de-Travers	22	-	22	3	-	3
+Schaffhausen		19	-	19	30	-	30
+Schaffhausen	Gächlingen	2	-	2	1	-	1
+Schaffhausen	Neuhausen am Rheinfall	10	-	10	18	-	18
+Schaffhausen	Stein am Rhein	5	-	5	7	-	7
+Schaffhausen	Thayngen	2	-	2	4	-	4
+Schwyz		13	5	18	21	8	29
+Schwyz	Freienbach	13	5	18	21	4	25
+Schwyz	Wollerau	-	-	-	-	4	4
+Solothurn		114	8	122	144	7	151
+Solothurn	Biberist	15	5	20	18	4	22
+Solothurn	Dornach	8	-	8	..	..	..
+Solothurn	Grenchen	6	-	6	27	-	27
+Solothurn	Laupersdorf	1	-	1	1	-	1
+Solothurn	Olten	54	3	57	70	-	70
+Solothurn	Solothurn	28	-	28	27	3	30
+Solothurn	Zuchwil	2	-	2	3	-	3
+St.Gallen		470	10	480	491	10	501
+St.Gallen	Altstätten	1	-	1	2	-	2
+St.Gallen	Goldach	10	-	10	..	..	..
+St.Gallen	Rapperswil-Jona	178	10	188	228	10	238
+St.Gallen	St. Gallen	279	-	279	234	-	234
+St.Gallen	St. Margrethen	-	-	-	6	-	6
+St.Gallen	Uznach	1	-	1	1	-	1
+St.Gallen	Wil (SG)	-	-	-	10	-	10
+St.Gallen	Wittenbach	1	-	1	10	-	10
+Thurgau		80	-	80	95	-	95
+Thurgau	Frauenfeld	80	-	80	80	-	80
+Thurgau	Kradolf-Schönenberg	..	..	..	3	-	3
+Thurgau	Romanshorn	..	..	..	12	-	12
+Ticino		88	3	91	86	3	88
+Ticino	Bellinzona	11	-	11	9	-	9
+Ticino	Bioggio	34	-	34	32	-	32
+Ticino	Breggia	-	-	-	1	-	1
+Ticino	Cadempino	2	-	2	..	..	..
+Ticino	Cureglia	2	-	2	..	..	..
+Ticino	Lugano	38	3	40	43	3	46
+Ticino	Sementina	-	-	-	1	-	1
+Ticino	Sessa	1	-	1	..	..	..
+Valais		77	1	78	66	1	67
+Valais	Brig-Glis	5	-	5	..	..	..
+Valais	Gampel-Bratsch	-	-	-	2	-	2
+Valais	Mörel-Filet	-	-	-	1	-	1
+Valais	Sierre	25	-	25	25	-	25
+Valais	Sion	34	1	35	39	1	40
+Valais	Visp	13	-	13	..	..	..
+Valais	Zermatt	-	-	-	1	-	1
+Vaud		623	36	660	605	15	620
+Vaud	Belmont-sur-Lausanne	3	-	3	2	-	2
+Vaud	Bex	-	-	-	11	-	11
+Vaud	Bursinel	-	-	-	-	-	-
+Vaud	Bussigny-près-Lausanne	5	-	5	7	-	7
+Vaud	Chavannes-près-Renens	-	-	-	-	-	-
+Vaud	Coppet	5	-	5	..	..	..
+Vaud	Crissier	-	4	4	1	8	9
+Vaud	Echandens	20	-	20	..	..	..
+Vaud	Ecublens (VD)	7	-	7	11	-	11
+Vaud	Epalinges	7	-	7	-	-	-
+Vaud	Grandson	-	-	-	2	-	2
+Vaud	Jongny	-	-	-	-	-	-
+Vaud	La Tour-de-Peilz	10	-	10	10	-	10
+Vaud	Lausanne	329	32	361	331	-	331
+Vaud	Montreux	27	-	27	38	-	38
+Vaud	Morges	41	-	41	50	-	50
+Vaud	Pully	9	-	9	28	1	29
+Vaud	Renens (VD)	15	-	15	17	-	17
+Vaud	Treycovagnes	-	-	-	-	-	-
+Vaud	Vevey	89	-	89	64	6	70
+Vaud	Yverdon-les-Bains	57	-	57	32	-	32
+Zug		380	-	380	1'165	1	1'166
+Zug	Baar	150	-	150	270	-	270
+Zug	Cham	8	-	8	19	-	19
+Zug	Hünenberg	5	-	5	16	-	16
+Zug	Risch	1	-	1	200	-	200
+Zug	Unterägeri	..	..	..	9	-	9
+Zug	Zug	216	-	216	652	1	653
+Zürich		2'111	31	2'141	4'432	14	4'446
+Zürich	Adliswil	40	-	40	..	..	..
+Zürich	Bubikon	3	-	3	43	-	43
+Zürich	Dübendorf	15	-	15	65	-	65
+Zürich	Elgg	40	-	40	40	-	40
+Zürich	Erlenbach (ZH)	45	4	49	82	4	86
+Zürich	Fehraltorf	1	-	1	3	-	3
+Zürich	Gossau (ZH)	6	7	13	..	..	..
+Zürich	Herrliberg	50	-	50	97	-	97
+Zürich	Illnau-Effretikon	154	-	154	..	..	..
+Zürich	Kloten	-	-	-	100	-	100
+Zürich	Küsnacht (ZH)	320	-	320	300	-	300
+Zürich	Langnau am Albis	-	-	-	20	-	20
+Zürich	Maur	120	-	120	110	-	110
+Zürich	Meilen	..	..	..	80	-	80
+Zürich	Männedorf	-	-	-	11	-	11
+Zürich	Oberrieden	30	-	30	30	-	30
+Zürich	Opfikon	80	-	80	80	-	80
+Zürich	Rüschlikon	37	-	37	90	-	90
+Zürich	Rüti (ZH)	-	-	-	13	-	13
+Zürich	Schlieren	10	-	10	10	-	10
+Zürich	Thalwil	-	-	-	20	-	20
+Zürich	Uitikon	82	-	82	85	-	85
+Zürich	Uster	20	-	20	10	-	10
+Zürich	Wald (ZH)	3	-	3	2	-	2
+Zürich	Wallisellen	51	-	51	81	-	81
+Zürich	Wetzikon (ZH)	30	-	30	30	-	30
+Zürich	Winterthur	159	-	159	148	-	148
+Zürich	Wädenswil	45	-	45	45	-	45
+Zürich	Zumikon	120	20	140	140	10	150
+Zürich	Zürich	650	-	650	2'700	-	2'700
