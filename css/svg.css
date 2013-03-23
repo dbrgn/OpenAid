@@ -1,0 +1,22 @@
+path {
+    fill: none;
+    stroke: #888;
+    stroke-width: .5px;
+}
+ 
+.cantons {
+    fill: #efefef;
+    stroke: none;
+}
+
+.canton-boundary {
+    stroke-width: 0px;
+}
+
+.land-boundary {
+    stroke-width: 0px;
+}
+ 
+.bubble {
+    fill: #667;
+}

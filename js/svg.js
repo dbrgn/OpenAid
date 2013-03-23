@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
- 
-path {
-    fill: none;
-    stroke: #888;
-    stroke-width: .5px;
-}
- 
-.cantons {
-    fill: #efefef;
-    stroke: none;
-}
-
-.canton-boundary {
-    stroke-width: 0px;
-}
-
-.land-boundary {
-    stroke-width: 0px;
-}
- 
-.bubble {
-    fill: #667;
-}
- 
-</style>
-<body>
-<script src="d3.v3.min.js"></script>
-<script src="queue.v1.min.js"></script>
-<script src="topojson.v0.min.js"></script>
-<script>
- 
 var width = 960;
 var heights = {
     step1: 800,
@@ -69,15 +35,15 @@ var force = d3.layout.force()
     .gravity(0)
     .size([width, heights.step1]);
  
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#svg").append("svg")
     .attr("width", width)
     .attr("height", heights.total);
 
 queue()
-    .defer(d3.json, "switzerland.topo.json")
-    .defer(d3.json, "switzerland.geo.json")
-    .defer(d3.tsv, "statistiken_2011.kantone.tsv") // TODO load from data directory directly
-    .defer(d3.tsv, "statistiken_2011.alles.tsv") // TODO load from data directory directly
+    .defer(d3.json, "geodata/switzerland.topo.json")
+    .defer(d3.json, "geodata/switzerland.geo.json")
+    .defer(d3.tsv, "cleaned_data/statistiken_2011.kantone.tsv") // TODO load from data directory directly
+    .defer(d3.tsv, "cleaned_data/statistiken_2011.alles.tsv") // TODO load from data directory directly
     .await(ready);
  
 function ready(error, topology, canton_shapes, canton_data, summary_data) {
@@ -225,5 +191,3 @@ function ready(error, topology, canton_shapes, canton_data, summary_data) {
     }(window.step2 = window.step2 || {}));
 
 };
- 
-</script>
