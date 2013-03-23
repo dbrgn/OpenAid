@@ -1,6 +1,6 @@
 path {
     fill: none;
-    stroke: #888;
+    stroke: rgba(87,77,75,0.8);
     stroke-width: .5px;
 }
  
@@ -13,8 +13,8 @@ path {
 */
 
 .areaRegion {
-   fill: #efefef;
-   stroke: none;
+    fill: #E1D9C6;
+    stroke: none;
 }
 .canton-boundary {
     stroke-width: 0px;
@@ -25,5 +25,11 @@ path {
 }
  
 .bubble {
-    fill: #667;
+    fill: rgba(87,77,75,1);
+}
+
+.link {
+    stroke: #000;
+    stroke-opacity: 0.6;
+    z-index: -10;
 }

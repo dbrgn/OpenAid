@@ -1,1831 +1,1831 @@
-org	org_id	name	dev_2011	sudest_2011	total_2011	dev_2010	sudest_2010	total_2010
--	0	Total	413'256	8'572	421'828	431'581	6'006	437'586
-1	1	AADO-Togo - Associazione Amici dell'Oasis-Togo	60	-	60	..	..	..
-0	1	Togo	60	-	60	..	..	..
-1	2	ABBA - Abbanstanza per tutti	198	-	198	..	..	..
-0	2	Burkina Faso	80	-	80	..	..	..
-0	2	Cambodge	50	-	50	..	..	..
-0	2	Inde	46	-	46	..	..	..
-0	2	Nicaragua	22	-	22	..	..	..
-1	3	Abokobi Society	31	-	31	-	-	-
-0	3	Ghana	31	-	31	-	-	-
-1	4	Acacia - Fonds für Entwicklungszusammenarbeit	671	33	704	-	-	-
-0	4	Brésil	138	-	138	-	-	-
-0	4	Pérou	134	-	134	-	-	-
-0	4	Kirghizistan	86	-	86	-	-	-
-0	4	Ukraine	77	-	77	-	-	-
-0	4	Kosovo	75	-	75	-	-	-
-0	4	Afghanistan	37	-	37	-	-	-
-0	4	Bélarus	30	-	30	-	-	-
-0	4	Israël	-	30	30	-	-	-
-0	4	Afrique du Sud	24	-	24	-	-	-
-0	4	Tunisie	15	-	15	-	-	-
-0	4	Libye	13	-	13	-	-	-
-0	4	Népal	13	-	13	-	-	-
-0	4	Bosnie-Herzégovine	11	-	11	-	-	-
-0	4	Divers	19	3	22	-	-	-
-1	5	ACTI Espérance	140	-	140	176	-	176
-0	5	Viet Nam	140	-	140	170	-	170
-0	5	Divers	-	-	-	7	-	7
-1	6	ADAP	5	-	5	9	-	9
-1	7	ADES	655	-	655	728	-	728
-0	7	Madagascar	655	-	655	728	-	728
-1	8	ADRA Suisse	1'989	-	1'989	2'038	-	2'038
-0	8	Myanmar	798	-	798	147	-	147
-0	8	Haïti	554	-	554	1'167	-	1'167
-0	8	Thaïlande	111	-	111	118	-	118
-0	8	Somalie	107	-	107	32	-	32
-0	8	Burkina Faso	90	-	90	63	-	63
-0	8	Mongolie	79	-	79	10	-	10
-0	8	Ethiopie	71	-	71	82	-	82
-0	8	Brésil	48	-	48	11	-	11
-0	8	PED, non spécifié	36	-	36	-	-	-
-0	8	Moldavie	34	-	34	34	-	34
-0	8	Pakistan	22	-	22	108	-	108
-0	8	Sri Lanka	17	-	17	51	-	51
-0	8	Afghanistan	12	-	12	-	-	-
-0	8	Divers	12	-	12	213	-	213
-1	9	Agape International	1'416	385	1'801	1'722	470	2'192
-0	9	Russie	-	385	385	-	470	470
-0	9	Cuba	251	-	251	347	-	347
-0	9	Rwanda	240	-	240	290	-	290
-0	9	Chine	217	-	217	257	-	257
-0	9	Corée du Nord	171	-	171	233	-	233
-0	9	Afghanistan	139	-	139	199	-	199
-0	9	Népal	107	-	107	84	-	84
-0	9	Bolivie	90	-	90	55	-	55
-0	9	Liban	87	-	87	104	-	104
-0	9	Inde	43	-	43	41	-	41
-0	9	Argentine	36	-	36	65	-	65
-0	9	Mongolie	35	-	35	42	-	42
-0	9	Divers	-	-	-	5	-	5
-1	10	Aide Haïti	122	-	122	489	-	489
-0	10	Haïti	122	-	122	489	-	489
-1	11	Aids & Kind Schweiz	139	-	139	274	-	274
-0	11	Kenya	41	-	41	30	-	30
-0	11	Afrique du Sud	33	-	33	51	-	51
-0	11	Zambie	25	-	25	25	-	25
-0	11	Zimbabwe	25	-	25	-	-	-
-0	11	Ouganda	15	-	15	34	-	34
-0	11	Divers	-	-	-	134	-	134
-1	12	Alborada	56	-	56	18	-	18
-0	12	Chili	56	-	56	18	-	18
-1	13	Alpatlas	27	-	27	-	-	-
-0	13	Maroc	27	-	27	-	-	-
-1	14	Amica Schweiz	97	-	97	76	-	76
-0	14	Bosnie-Herzégovine	97	-	97	76	-	76
-1	15	Amici Ticino per Il Burundi (AMTIBU)	13	-	13	..	..	..
-0	15	Afrique, régional	13	-	13	..	..	..
-1	16	Antenna International et Technologie	70	-	70	..	..	..
-0	16	Kenya	70	-	70	..	..	..
-1	17	ARVAN	22	-	22	-	-	-
-0	17	Mali	22	-	22	-	-	-
-1	18	ASARA Foundation Schweiz	363	-	363	448	-	448
-0	18	Inde	363	-	363	448	-	448
-1	19	ASED - Action de Soutien à l'Enfance Démunie	249	-	249	297	-	297
-0	19	Inde	73	-	73	79	-	79
-0	19	Madagascar	68	-	68	186	-	186
-0	19	Arménie	40	-	40	22	-	22
-0	19	Nicaragua	35	-	35	-	-	-
-0	19	Albanie	33	-	33	11	-	11
-1	20	ASEV - Association pour l'Enfance du Vietnam	15	-	15	20	-	20
-0	20	Viet Nam	15	-	15	-	-	-
-0	20	Divers	-	-	-	20	-	20
-1	21	Ass. Suisse d'Aide Hôpital A. Schweitzer, sect.  romande	84	-	84	-	-	-
-0	21	PED, non spécifié	40	-	40	-	-	-
-0	21	Sud du Sahara, régional	21	-	21	-	-	-
-0	21	Burkina Faso	14	-	14	-	-	-
-0	21	Gabon	10	-	10	-	-	-
-1	22	ASSAFI	70	-	70	..	..	..
-0	22	Congo (Rép.)	70	-	70	..	..	..
-1	23	Association Action Swiss Sierra Leone	125	-	125	248	-	248
-0	23	Sierra Leone	125	-	125	248	-	248
-1	24	Association Aide à l'Hôpital de Monvu Idjwi - RDC	40	-	40	35	-	35
-0	24	Congo (Rép. dém.)	40	-	40	35	-	35
-1	25	Association Ailleurs Aussi	15	-	15	30	-	30
-0	25	Brésil	15	-	15	30	-	30
-1	26	Association Suisse des Amis d'Haïti	350	-	350	187	-	187
-0	26	Haïti	350	-	350	187	-	187
-1	27	Association Assikloassi	1	-	1	1	-	1
-1	28	Association Atelier des Enfants	9	-	9	11	-	11
-1	29	Association Avully-Remetea	-	3	3	-	4	4
-1	30	Association Ban Khok Na Ko	11	-	11	..	..	..
-0	30	Laos	11	-	11	..	..	..
-1	31	Association des Amis du Sakthi Children's Home	44	-	44	32	-	32
-0	31	Inde	44	-	44	32	-	32
-1	32	Association Echandens-Starchiojd	-	4	4	-	4	4
-1	33	Association Elias	68	-	68	..	..	..
-0	33	Liban	68	-	68	..	..	..
-1	34	Association Ensemble pour Eux	100	-	100	..	..	..
-0	34	Burkina Faso	100	-	100	..	..	..
-1	35	Association et Fondation Eurasia	77	-	77	80	-	80
-0	35	Viet Nam	77	-	77	80	-	80
-1	36	Association Graine de Baobab	132	-	132	209	-	209
-0	36	Burkina Faso	132	-	132	209	-	209
-1	37	Association Idées'Elles	3	-	3	..	..	..
-1	38	Association Kallpa Genève	43	-	43	-	-	-
-0	38	Pérou	43	-	43	-	-	-
-1	39	Association Keiser Initiative for Uganda	14	-	14	19	-	19
-0	39	Ouganda	14	-	14	19	-	19
-1	40	Association Lazaro Relova	3	-	3	..	..	..
-1	41	Association l'Escale	15	152	166	91	138	228
-0	41	Roumanie	-	120	120	-	138	138
-0	41	Bulgarie	-	32	32	-	-	-
-0	41	Divers	15	-	15	91	-	91
-1	42	Association Lukla-Chaurikarka (Luklass)	32	-	32	..	..	..
-0	42	Népal	32	-	32	..	..	..
-1	43	Association Mate Cocido	11	-	11	4	-	4
-0	43	Afghanistan	11	-	11	-	-	-
-0	43	Divers	-	-	-	4	-	4
-1	44	Association Métissages	41	-	41	-	-	-
-0	44	Pérou	41	-	41	-	-	-
-1	45	Association Morija	1'407	-	1'407	1'332	-	1'332
-0	45	Burkina Faso	758	-	758	721	-	721
-0	45	Tchad	285	-	285	278	-	278
-0	45	Cameroun	171	-	171	296	-	296
-0	45	Afghanistan	120	-	120	-	-	-
-0	45	Togo	73	-	73	37	-	37
-1	46	Association des Amis du Sakthi Children's Home	44	-	44	32	-	32
-0	46	Inde	44	-	44	32	-	32
-1	47	Association Echandens-Starchiojd	-	4	4	-	4	4
-1	48	Association Elias	68	-	68	..	..	..
-0	48	Liban	68	-	68	..	..	..
-1	49	Association Ensemble pour Eux	100	-	100	..	..	..
-0	49	Burkina Faso	100	-	100	..	..	..
-1	50	Association et Fondation Eurasia	77	-	77	80	-	80
-0	50	Viet Nam	77	-	77	80	-	80
-1	51	Association Graine de Baobab	132	-	132	209	-	209
-0	51	Burkina Faso	132	-	132	209	-	209
-1	52	Association Idées'Elles	3	-	3	..	..	..
-1	53	Association Kallpa Genève	43	-	43	-	-	-
-0	53	Pérou	43	-	43	-	-	-
-1	54	Association Keiser Initiative for Uganda	14	-	14	19	-	19
-0	54	Ouganda	14	-	14	19	-	19
-1	55	Association Lazaro Relova	3	-	3	..	..	..
-1	56	Association l'Escale	15	152	166	91	138	228
-0	56	Roumanie	-	120	120	-	138	138
-0	56	Bulgarie	-	32	32	-	-	-
-0	56	Divers	15	-	15	91	-	91
-1	57	Association Lukla-Chaurikarka (Luklass)	32	-	32	..	..	..
-0	57	Népal	32	-	32	..	..	..
-1	58	Association Mate Cocido	11	-	11	4	-	4
-0	58	Afghanistan	11	-	11	-	-	-
-0	58	Divers	-	-	-	4	-	4
-1	59	Association Métissages	41	-	41	-	-	-
-0	59	Pérou	41	-	41	-	-	-
-1	60	Association Morija	1'407	-	1'407	1'332	-	1'332
-0	60	Burkina Faso	758	-	758	721	-	721
-0	60	Tchad	285	-	285	278	-	278
-0	60	Cameroun	171	-	171	296	-	296
-0	60	Afghanistan	120	-	120	-	-	-
-0	60	Togo	73	-	73	37	-	37
-1	61	Association Norlha	105	-	105	..	..	..
-0	61	Chine	97	-	97	..	..	..
-0	61	Divers	8	-	8	-	-	-
-1	62	Association OVR Nendaz-Gherla	-	8	8	-	26	26
-1	63	Association Petit Samba	16	-	16	13	-	13
-0	63	Burkina Faso	16	-	16	13	-	13
-1	64	Association Peu-la au Tibet	132	-	132	191	-	191
-0	64	Chine	132	-	132	191	-	191
-1	65	Association PONTCH-Chine	10	-	10	..	..	..
-0	65	Chine	10	-	10	..	..	..
-1	66	Association RAJO	16	-	16	..	..	..
-0	66	Somalie	16	-	16	..	..	..
-1	67	Association Rigzen-Zanskar	90	-	90	90	-	90
-0	67	Inde	90	-	90	90	-	90
-1	68	Association Roger Riou	20	-	20	80	-	80
-1	69	Association Sangeorgiu	-	23	23	-	25	25
-0	69	Roumanie	-	23	23	-	25	25
-1	70	Association Suisse Raoul Follereau	151	-	151	289	-	289
-0	70	Philippines	52	-	52	107	-	107
-0	70	Burkina Faso	40	-	40	66	-	66
-0	70	Inde	14	-	14	22	-	22
-0	70	Cameroun	12	-	12	19	-	19
-0	70	Divers	32	-	32	75	-	75
-1	71	Association Sujeeva	73	-	73	100	-	100
-0	71	Sri Lanka	73	-	73	100	-	100
-1	72	Association Une Goutte d'Eau	22	-	22	..	..	..
-0	72	Afrique, régional	22	-	22	..	..	..
-1	73	Association Ushagram Suisse	1	-	1	1	-	1
-1	74	Association Wanlee	1	-	1	..	..	..
-1	75	Associazione Dédomé Amici di Don Franck	246	-	246	190	-	190
-0	75	Togo	229	-	229	190	-	190
-0	75	PED, non spécifié	17	-	17	-	-	-
-1	76	Associazione Fondazione Elvetica Ospedale di Mada	356	-	356	316	-	316
-0	76	Afrique centrale, régional	356	-	356	-	-	-
-0	76	Divers	-	-	-	316	-	316
-1	77	Associazione Gruppo Medaglia Miracolosa	189	5	194	241	-	241
-0	77	Inde	33	-	33	61	-	61
-0	77	Tchad	16	-	16	1	-	1
-0	77	Soudan du Sud	16	-	16	-	-	-
-0	77	Erythrée	16	-	16	-	-	-
-0	77	Tanzanie	13	-	13	2	-	2
-0	77	Ouganda	12	-	12	17	-	17
-0	77	Divers	83	5	88	160	-	160
-1	78	Associazione Me-Wa	85	-	85	146	-	146
-0	78	Bénin	85	-	85	146	-	146
-1	79	Associazione Progetti Opera San Guiseppe	70	-	70	..	..	..
-0	79	Tanzanie	70	-	70	..	..	..
-1	80	ATT - Associazione Ticino-Tibet	62	-	62	40	-	40
-0	80	Népal	56	-	56	37	-	37
-0	80	Divers	5	-	5	3	-	3
-1	81	Basler Förderverein für medizinische Zusammenarbeit	60	-	60	40	-	40
-0	81	Zambie	60	-	60	20	-	20
-0	81	Divers	-	-	-	20	-	20
-1	82	Benediktiner Missionare Uznach	2'490	56	2'546	3'364	74	3'438
-0	82	Tanzanie	1'798	-	1'798	2'287	-	2'287
-0	82	Kenya	418	-	418	430	-	430
-0	82	Kazakhstan	113	-	113	157	-	157
-0	82	Corée (République)	-	56	56	-	74	74
-0	82	Philippines	50	-	50	50	-	50
-0	82	Afrique du Sud	42	-	42	61	-	61
-0	82	Togo	14	-	14	214	-	214
-0	82	Colombie	13	-	13	11	-	11
-0	82	Divers	42	-	42	155	-	155
-1	83	Beogo	63	-	63	120	-	120
-0	83	Burkina Faso	63	-	63	120	-	120
-1	84	BFA / PPP	3'072	-	3'072	3'136	-	3'136
-0	84	PED, non spécifié	2'772	-	2'772	2'865	-	2'865
-0	84	Chine	52	-	52	62	-	62
-0	84	Ghana	50	-	50	45	-	45
-0	84	Equateur	42	-	42	35	-	35
-0	84	Sierra Leone	30	-	30	1	-	1
-0	84	Afrique du Sud	29	-	29	26	-	26
-0	84	Bénin	25	-	25	2	-	2
-0	84	Europe, régional	22	-	22	26	-	26
-0	84	Honduras	22	-	22	24	-	24
-0	84	Cameroun	17	-	17	23	-	23
-0	84	Divers	12	-	12	27	-	27
-1	85	Bhavisya	25	-	25	15	-	15
-0	85	Népal	25	-	25	15	-	15
-1	86	Bienen für Piaui	25	-	25	50	-	50
-0	86	Brésil	25	-	25	50	-	50
-1	87	Biovision	1'611	-	1'611	1'318	-	1'318
-0	87	Kenya	821	-	821	951	-	951
-0	87	Afrique, régional	366	-	366	100	-	100
-0	87	PED, non spécifié	263	-	263	127	-	127
-0	87	Ethiopie	117	-	117	121	-	121
-0	87	Tanzanie	31	-	31	20	-	20
-0	87	Ouganda	13	-	13	-	-	-
-1	88	BMI - Bethlehem Mission Immensee	701	-	701	666	-	666
-0	88	PED, non spécifié	701	-	701	666	-	666
-1	89	Brigada Latinobernesa	8	-	8	9	-	9
-1	90	Brücke - Le pont	985	-	985	782	-	782
-0	90	Togo	302	-	302	110	-	110
-0	90	El Salvador	227	-	227	210	-	210
-0	90	Brésil	192	-	192	204	-	204
-0	90	Bolivie	129	-	129	94	-	94
-0	90	Bénin	90	-	90	49	-	49
-0	90	Nicaragua	40	-	40	114	-	114
-0	90	Divers	5	-	5	-	-	-
-1	91	Bücher für Kinder in Ruanda	823	-	823	851	-	851
-0	91	Rwanda	823	-	823	851	-	851
-1	92	BUTS - Bussigny Uni à Titao et Salla	55	-	55	51	-	51
-0	92	Burkina Faso	55	-	55	51	-	51
-1	93	Caritas Genève	141	-	141	383	-	383
-0	93	Congo (Rép. dém.)	78	-	78	107	-	107
-0	93	Pérou	16	-	16	120	-	120
-0	93	Cameroun	15	-	15	30	-	30
-0	93	Burundi	12	-	12	15	-	15
-0	93	Divers	20	-	20	111	-	111
-1	94	Caritas Schweiz	29'047	208	29'255	30'819	229	31'047
-0	94	PED, non spécifié	13'234	-	13'234	12'280	-	12'280
-0	94	Pakistan	2'124	-	2'124	1'558	-	1'558
-0	94	Myanmar	1'430	-	1'430	1'650	-	1'650
-0	94	Somalie	1'089	-	1'089	564	-	564
-0	94	Haïti	1'088	-	1'088	3'710	-	3'710
-0	94	Sri Lanka	1'015	-	1'015	461	-	461
-0	94	Ethiopie	737	-	737	705	-	705
-0	94	Soudan (sans le Sud)	672	-	672	1'392	-	1'392
-0	94	Indonésie	661	-	661	3'248	-	3'248
-0	94	Tadjikistan	640	-	640	234	-	234
-0	94	Philippines	637	-	637	312	-	312
-0	94	Iraq	485	-	485	255	-	255
-0	94	Gaza et Cisjordanie	418	-	418	82	-	82
-0	94	Niger	407	-	407	-	-	-
-0	94	Soudan du Sud	398	-	398	-	-	-
-0	94	Ouganda	364	-	364	228	-	228
-0	94	Kosovo	358	-	358	27	-	27
-0	94	Kenya	311	-	311	-	-	-
-0	94	Bangladesh	301	-	301	77	-	77
-0	94	Bolivie	268	-	268	313	-	313
-0	94	Tchad	259	-	259	269	-	269
-0	94	Moldavie	255	-	255	258	-	258
-0	94	Viet Nam	255	-	255	248	-	248
-0	94	Brésil	180	-	180	52	-	52
-0	94	Cambodge	177	-	177	19	-	19
-0	94	Tanzanie	161	-	161	168	-	168
-0	94	Mali	143	-	143	178	-	178
-0	94	Colombie	135	-	135	264	-	264
-0	94	Egypte	128	-	128	-	-	-
-0	94	Guatemala	116	-	116	73	-	73
-0	94	Bosnie-Herzégovine	114	-	114	215	-	215
-0	94	Côte d'Ivoire	111	-	111	-	-	-
-0	94	Russie	-	100	100	-	95	95
-0	94	Ukraine	87	-	87	5	-	5
-0	94	Nicaragua	78	-	78	37	-	37
-0	94	Roumanie	-	77	77	-	-	-
-0	94	Inde	62	-	62	661	-	661
-0	94	Kirghizistan	53	-	53	60	-	60
-0	94	Mexique	38	-	38	193	-	193
-0	94	Bulgarie	-	31	31	-	134	134
-0	94	Liban	25	-	25	20	-	20
-0	94	Thaïlande	20	-	20	441	-	441
-0	94	Rwanda	14	-	14	1	-	1
-0	94	Divers	2	-	2	559	-	559
-1	95	CBM Schweiz - Christoffel Blindenmission	5'277	-	5'277	5'576	-	5'576
-0	95	Pakistan	804	-	804	786	-	786
-0	95	Asie méridionale, non réparti par pays	374	-	374	289	-	289
-0	95	PED, non spécifié	366	-	366	427	-	427
-0	95	Népal	270	-	270	36	-	36
-0	95	Afrique de l'Ouest, régional	265	-	265	-	-	-
-0	95	Madagascar	257	-	257	150	-	150
-0	95	Inde	222	-	222	302	-	302
-0	95	Tchad	203	-	203	155	-	155
-0	95	Congo (Rép. dém.)	190	-	190	26	-	26
-0	95	Guinée	185	-	185	165	-	165
-0	95	Pérou	176	-	176	160	-	160
-0	95	Equateur	175	-	175	161	-	161
-0	95	Haïti	173	-	173	239	-	239
-0	95	Angola	153	-	153	104	-	104
-0	95	Jordanie	147	-	147	217	-	217
-0	95	Ouganda	140	-	140	273	-	273
-0	95	Sri Lanka	136	-	136	98	-	98
-0	95	Ghana	128	-	128	173	-	173
-0	95	Laos	123	-	123	32	-	32
-0	95	Bolivie	106	-	106	117	-	117
-0	95	Egypte	87	-	87	37	-	37
-0	95	Cameroun	87	-	87	89	-	89
-0	95	Kenya	76	-	76	89	-	89
-0	95	Centrafricaine, Rép.	76	-	76	81	-	81
-0	95	Ethiopie	75	-	75	24	-	24
-0	95	Afrique centrale, régional	73	-	73	139	-	139
-0	95	Asie du Sud-Est, régional	55	-	55	8	-	8
-0	95	Viet Nam	31	-	31	137	-	137
-0	95	Colombie	21	-	21	13	-	13
-0	95	Gaza et Cisjordanie	21	-	21	72	-	72
-0	95	Burkina Faso	18	-	18	41	-	41
-0	95	Chine	15	-	15	29	-	29
-0	95	Sierra Leone	13	-	13	-	-	-
-0	95	Divers	36	-	36	908	-	908
-1	96	CEAS Suisse - Centre Écologique Albert Schweitzer	210	-	210	189	-	189
-0	96	Burkina Faso	154	-	154	80	-	80
-0	96	PED, non spécifié	36	-	36	11	-	11
-0	96	Madagascar	14	-	14	70	-	70
-0	96	Divers	6	-	6	28	-	28
-1	97	CEU - Associazione Cooperazione Essere Umani	92	-	92	..	..	..
-0	97	Sénégal	92	-	92	..	..	..
-1	98	CFD - Christlicher Friedensdienst	291	-	291	496	-	496
-0	98	Bosnie-Herzégovine	121	-	121	85	-	85
-0	98	Gaza et Cisjordanie	75	-	75	187	-	187
-0	98	Maroc	68	-	68	62	-	62
-0	98	Kosovo	28	-	28	42	-	42
-0	98	Divers	-	-	-	120	-	120
-1	99	Children Action	2'145	109	2'254	665	113	778
-0	99	PED, non spécifié	1'334	-	1'334	69	-	69
-0	99	Viet Nam	490	-	490	398	-	398
-0	99	Argentine	126	-	126	78	-	78
-0	99	Roumanie	-	109	109	-	113	113
-0	99	Pérou	87	-	87	71	-	71
-0	99	Kenya	75	-	75	-	-	-
-0	99	Cameroun	34	-	34	44	-	44
-0	99	Divers	-	-	-	6	-	6
-1	100	Children Welfare Association Schweiz	75	-	75	..	..	..
-0	100	Népal	75	-	75	..	..	..
-1	101	Christkatholisches Hilfswerk Partner sein	152	3	155	173	3	176
-0	101	Philippines	45	-	45	39	-	39
-0	101	Congo (Rép. dém.)	40	-	40	72	-	72
-0	101	Ouganda	37	-	37	43	-	43
-0	101	Tanzanie	16	-	16	13	-	13
-0	101	Divers	14	3	17	7	3	10
-1	102	CIFEDHOP	162	-	162	-	-	-
-0	102	PED, non spécifié	162	-	162	-	-	-
-1	103	CIOMAL - Comité International de l'Ordre de Malte	156	-	156	..	..	..
-0	103	Cambodge	156	-	156	..	..	..
-1	104	Cisol Suiza	70	-	70	-	-	-
-0	104	Equateur	70	-	70	-	-	-
-1	105	Cleft-Children International	1'360	-	1'360	1'863	-	1'863
-0	105	Inde	1'360	-	1'360	1'863	-	1'863
-1	106	CLEUS	37	-	37	..	..	..
-0	106	Haïti	37	-	37	..	..	..
-1	107	Collectif Urgence Palestine - Genève	2	-	2	..	..	..
-1	108	Comité suisse de soutien au peuple sahraoui	8	-	8	18	-	18
-1	109	Connexio	355	-	355	512	-	512
-0	109	Congo (Rép. dém.)	130	-	130	183	-	183
-0	109	PED, non spécifié	72	-	72	69	-	69
-0	109	Bolivie	49	-	49	59	-	59
-0	109	Chili	34	-	34	42	-	42
-0	109	Macédoine	22	-	22	22	-	22
-0	109	Cambodge	22	-	22	30	-	30
-0	109	Argentine	18	-	18	44	-	44
-0	109	Divers	9	-	9	63	-	63
-1	110	CO-OPERAID	420	-	420	1'027	-	1'027
-0	110	Philippines	126	-	126	236	-	236
-0	110	Kenya	100	-	100	212	-	212
-0	110	Ouganda	94	-	94	163	-	163
-0	110	Sri Lanka	40	-	40	230	-	230
-0	110	Bangladesh	37	-	37	131	-	131
-0	110	Thaïlande	16	-	16	21	-	21
-0	110	Divers	8	-	8	34	-	34
-1	111	Coup de Pouce à l'ADAPSO	5	-	5	..	..	..
-1	112	Coup de pouce Suisse-Haïti	40	-	40	57	-	57
-0	112	Haïti	40	-	40	57	-	57
-1	113	Couvent Ste Ursule Sion	366	-	366	455	2	457
-0	113	Côte d'Ivoire	313	-	313	422	-	422
-0	113	Viet Nam	13	-	13	2	-	2
-0	113	Divers	40	-	40	31	2	33
-1	114	Das Hunger Projekt Schweiz - Le Projet Faim Suisse	91	-	91	163	-	163
-0	114	Mozambique	57	-	57	-	-	-
-0	114	Burkina Faso	34	-	34	103	-	103
-0	114	Divers	-	-	-	60	-	60
-1	115	Dimmbal.ch	63	-	63	31	-	31
-0	115	Mali	63	-	63	31	-	31
-1	116	DM - échange et mission	1'088	-	1'088	999	-	999
-0	117	Rwanda	217	-	217	169	-	169
-0	117	PED, non spécifié	191	-	191	209	-	209
-0	117	Togo	148	-	148	60	-	60
-0	117	Madagascar	130	-	130	130	-	130
-0	117	Cameroun	91	-	91	161	-	161
-0	117	Congo (Rép. dém.)	70	-	70	71	-	71
-0	117	Cuba	51	-	51	39	-	39
-0	117	Afrique du Sud	45	-	45	40	-	40
-0	117	Mexique	42	-	42	54	-	54
-0	117	Mozambique	41	-	41	14	-	14
-0	117	Kenya	41	-	41	26	-	26
-0	117	Angola	18	-	18	20	-	20
-0	117	Divers	3	-	3	6	-	6
-1	118	Dritt-Welt-Verein Wädenswil	70	-	70	62	-	62
-0	118	Congo (Rép. dém.)	70	-	70	62	-	62
-1	119	DROPS Schweiz	20	-	20	..	..	..
-0	119	Liban	20	-	20	..	..	..
-1	120	EBM - Europäische Baptistische Mission - Schweizer Zweig	342	-	342	413	-	413
-0	120	Inde	153	-	153	216	-	216
-0	120	Centrafricaine, Rép.	80	-	80	78	-	78
-0	120	Cameroun	50	-	50	88	-	88
-0	120	Amérique du Sud, régional	32	-	32	19	-	19
-0	120	Pérou	27	-	27	-	-	-
-0	120	Divers	-	-	-	12	-	12
-1	121	E-Changer	586	-	586	665	-	665
-0	121	Brésil	135	-	135	206	-	206
-0	121	Nicaragua	124	-	124	95	-	95
-0	121	Burkina Faso	117	-	117	93	-	93
-0	121	Bolivie	108	-	108	148	-	148
-0	121	Colombie	96	-	96	110	-	110
-0	121	Divers	6	-	6	12	-	12
-1	122	EcoSolidar	413	-	413	452	-	452
-0	122	Bolivie	181	-	181	234	-	234
-0	122	Philippines	83	-	83	52	-	52
-0	122	Cambodge	58	-	58	65	-	65
-0	122	Costa Rica	25	-	25	18	-	18
-0	122	Pérou	22	-	22	21	-	21
-0	122	Inde	19	-	19	-	-	-
-0	122	Malawi	14	-	14	42	-	42
-0	122	PED, non spécifié	12	-	12	2	-	2
-0	122	Divers	-	-	-	21	-	21
-1	123	EDM - Enfants du Monde	886	-	886	634	-	634
-0	123	Niger	318	-	318	250	-	250
-0	123	Guatemala	194	-	194	4	-	4
-0	123	Burkina Faso	138	-	138	130	-	130
-0	123	Colombie	75	-	75	34	-	34
-0	123	Bangladesh	55	-	55	85	-	85
-0	123	PED, non spécifié	55	-	55	41	-	41
-0	123	El Salvador	51	-	51	35	-	35
-0	123	Divers	1	-	1	55	-	55
-1	124	EEF - Equal Education Fund	191	-	191	201	-	201
-0	124	Pakistan	65	-	65	61	-	61
-0	124	Zambie	65	-	65	59	-	59
-0	124	Nicaragua	61	-	61	80	-	80
-1	125	Eirene Suisse	145	-	145	261	-	261
-0	125	Haïti	49	-	49	210	-	210
-0	125	Rwanda	31	-	31	19	-	19
-0	125	PED, non spécifié	22	-	22	-	-	-
-0	125	Nicaragua	20	-	20	2	-	2
-0	125	El Salvador	17	-	17	14	-	14
-0	125	Divers	5	-	5	16	-	16
-1	126	Emmaus Zürich	353	-	353	..	..	..
-0	126	Inde	150	-	150	..	..	..
-0	126	Thaïlande	122	-	122	..	..	..
-0	126	Viet Nam	56	-	56	..	..	..
-0	126	Afghanistan	10	-	10	..	..	..
-0	126	Togo	10	-	10	..	..	..
-0	126	Divers	5	-	5	-	-	-
-1	127	Encontro - Verein für Kulturaustausch Bahia - Baden	4	-	4	11	-	11
-1	128	Enfants de Tanzanie	22	-	22	20	-	20
-0	128	Tanzanie	22	-	22	20	-	20
-1	129	ESOFE Suisse	19	-	19	12	-	12
-0	129	Cameroun	19	-	19	12	-	12
-1	130	Ethos Open Hands	-	2'405	2'405	-	-	-
-0	130	Roumanie	-	2'405	2'405	-	-	-
-1	131	Fairmed	3'128	-	3'128	4'815	-	4'815
-0	131	Cameroun	1'094	-	1'094	858	-	858
-0	131	Inde	1'085	-	1'085	1'358	-	1'358
-0	131	PED, non spécifié	326	-	326	1'801	-	1'801
-0	131	Centrafricaine, Rép.	206	-	206	254	-	254
-0	131	Sri Lanka	142	-	142	99	-	99
-0	131	Côte d'Ivoire	100	-	100	151	-	151
-0	131	Ethiopie	48	-	48	27	-	27
-0	131	Népal	36	-	36	119	-	119
-0	131	Guinée-Bissau	24	-	24	26	-	26
-0	131	Mozambique	18	-	18	19	-	19
-0	131	Colombie	18	-	18	19	-	19
-0	131	Gabon	14	-	14	24	-	24
-0	131	Divers	16	-	16	60	-	60
-1	132	Fastenopfer	8'375	-	8'375	7'343	-	7'343
-0	132	PED, non spécifié	1'074	-	1'074	716	-	716
-0	132	Inde	708	-	708	578	-	578
-0	132	Colombie	692	-	692	358	-	358
-0	132	Philippines	641	-	641	669	-	669
-0	132	Congo (Rép. dém.)	563	-	563	797	-	797
-0	132	Madagascar	561	-	561	550	-	550
-0	132	Brésil	549	-	549	519	-	519
-0	132	Guatemala	436	-	436	416	-	416
-0	132	Laos	434	-	434	-	-	-
-0	132	Pérou	420	-	420	339	-	339
-0	132	Népal	404	-	404	382	-	382
-0	132	Afrique du Sud	385	-	385	292	-	292
-0	132	Burkina Faso	365	-	365	343	-	343
-0	132	Kenya	307	-	307	316	-	316
-0	132	Sénégal	306	-	306	358	-	358
-0	132	Haïti	283	-	283	603	-	603
-0	132	Mexique	127	-	127	-	-	-
-0	132	Amérique du Sud, régional	65	-	65	71	-	71
-0	132	Afrique, régional	56	-	56	35	-	35
-1	133	FEB - Fondation en faveur des enfants brûlés d'Assiut	50	-	50	162	-	162
-0	133	Egypte	50	-	50	162	-	162
-1	134	FEPA - Fonds für Entwicklung und Partnerschaft in Afrika	162	-	162	187	-	187
-0	134	Zimbabwe	74	-	74	135	-	135
-0	134	Afrique du Sud	56	-	56	24	-	24
-0	134	Mozambique	25	-	25	28	-	28
-0	134	Divers	7	-	7	-	-	-
-1	135	FH Suisse	298	-	298	464	-	464
-0	135	Burundi	198	-	198	259	-	259
-0	135	Rwanda	36	-	36	36	-	36
-0	135	Ouganda	35	-	35	54	-	54
-0	135	Congo (Rép. dém.)	14	-	14	5	-	5
-0	135	Divers	14	-	14	110	-	110
-1	136	Fondation Aide aux Enfants	662	-	662	536	-	536
-0	136	Colombie	662	-	662	536	-	536
-1	137	Fondation EcoFormation	870	-	870	..	..	..
-0	137	Madagascar	870	-	870	..	..	..
-1	138	Fondation Hirondelle	11	-	11	93	-	93
-1	139	Fondation KASA - Komitas Action Suisse Arménie	217	-	217	489	-	489
-0	139	Arménie	217	-	217	489	-	489
-1	140	Fondation Moi pour toit	677	-	677	753	-	753
-0	140	Colombie	677	-	677	753	-	753
-1	141	Fondation Sentinelles	1'274	1	1'275	1'440	3	1'442
-0	141	Niger	374	-	374	293	-	293
-0	141	Burkina Faso	199	-	199	246	-	246
-0	141	Madagascar	191	-	191	212	-	212
-0	141	Sénégal	176	-	176	205	-	205
-0	141	Colombie	119	-	119	174	-	174
-0	141	Brésil	79	-	79	94	-	94
-0	141	Kenya	65	-	65	89	-	89
-0	141	Congo (Rép. dém.)	61	-	61	93	-	93
-0	141	Divers	12	1	12	32	3	35
-1	142	Fondation Sociale Suisse du Nord-Cameroun	250	-	250	250	-	250
-0	142	Cameroun	250	-	250	250	-	250
-1	143	Fondation Suisse-Santé-Haïti	480	-	480	..	..	..
-0	143	Haïti	480	-	480	..	..	..
-1	144	Fondation SURGIR	38	-	38	-	-	-
-0	144	Inde	38	-	38	-	-	-
-1	145	Fondation Terre des hommes	26'629	402	27'030	32'547	389	32'936
-0	145	PED, non spécifié	6'992	-	6'992	7'046	-	7'046
-0	145	Haïti	4'203	-	4'203	5'512	-	5'512
-0	145	Sri Lanka	1'171	-	1'171	1'356	-	1'356
-0	145	Burkina Faso	1'048	-	1'048	709	-	709
-0	145	Inde	1'000	-	1'000	745	-	745
-0	145	Burundi	931	-	931	403	-	403
-0	145	Egypte	872	-	872	1'072	-	1'072
-0	145	Bénin	768	-	768	703	-	703
-0	145	Brésil	697	-	697	1'355	-	1'355
-0	145	Albanie	686	-	686	759	-	759
-0	145	Soudan (sans le Sud)	682	-	682	1'316	-	1'316
-0	145	Colombie	663	-	663	517	-	517
-0	145	Afghanistan	594	-	594	3'248	-	3'248
-0	145	Togo	567	-	567	617	-	617
-0	145	Népal	548	-	548	580	-	580
-0	145	Gaza et Cisjordanie	526	-	526	220	-	220
-0	145	Nicaragua	509	-	509	412	-	412
-0	145	Bangladesh	457	-	457	785	-	785
-0	145	Mozambique	428	-	428	478	-	478
-0	145	Pérou	407	-	407	434	-	434
-0	145	Roumanie	-	402	402	-	389	389
-0	145	Moldavie	395	-	395	351	-	351
-0	145	Guinée	334	-	334	302	-	302
-0	145	Afrique de l'Est, régional	332	-	332	-	-	-
-0	145	Mauritanie	294	-	294	431	-	431
-0	145	Syrie	288	-	288	544	-	544
-0	145	Pakistan	288	-	288	-	-	-
-0	145	Kosovo	273	-	273	257	-	257
-0	145	Sénégal	225	-	225	247	-	247
-0	145	Liban	191	-	191	391	-	391
-0	145	Maroc	149	-	149	118	-	118
-0	145	Myanmar	67	-	67	599	-	599
-0	145	Indonésie	42	-	42	476	-	476
-0	145	Chili	40	-	40	-	-	-
-0	145	Equateur	-36	-	-36	283	-	283
-0	145	Divers	1	-	1	282	-	282
-1	146	Fondation TerrEspoir	10	-	10	-	-	-
-0	146	Cameroun	10	-	10	-	-	-
-1	147	Fondazione Don Bosco nel Mondo	3'042	364	3'407	1'215	-	1'215
-0	147	Burundi	1'243	-	1'243	15	-	15
-0	147	Haïti	1'215	-	1'215	50	-	50
-0	147	Djibouti	376	-	376	178	-	178
-0	147	Israël	-	364	364	-	-	-
-0	147	Ethiopie	140	-	140	81	-	81
-0	147	Equateur	32	-	32	24	-	24
-0	147	Inde	20	-	20	57	-	57
-0	147	Divers	17	-	17	809	-	809
-1	148	Förderverein Kinder der Zukunft	40	-	40	40	-	40
-0	148	Pérou	40	-	40	40	-	40
-1	149	Förderverein Mad'Eole Schweiz	300	-	300	350	-	350
-0	149	Madagascar	300	-	300	350	-	350
-1	150	Förderverein Variant 5	-	76	76	-	75	75
-0	150	Bulgarie	-	76	76	-	75	75
-1	151	Fraternitas Humana	285	-	285	187	-	187
-0	151	Pérou	285	-	285	187	-	187
-1	152	Frauen für den Frieden Schweiz	21	4	25	31	4	35
-1	153	Friends of Humanity (FOH)	70	-	70	..	..	..
-0	153	Inde	28	-	28	..	..	..
-0	153	Burundi	20	-	20	..	..	..
-0	153	Népal	14	-	14	..	..	..
-0	153	Divers	8	-	8	-	-	-
-1	154	Friends of Kisimiri, KME Switzerland	91	-	91	..	..	..
-0	154	Tanzanie	91	-	91	..	..	..
-1	155	FXB International	931	-	931	1'509	-	1'509
-0	155	Inde	333	-	333	586	-	586
-0	155	Rwanda	128	-	128	72	-	72
-0	155	Burundi	94	-	94	146	-	146
-0	155	Afrique du Sud	91	-	91	82	-	82
-0	155	Ouganda	83	-	83	135	-	135
-0	155	PED, non spécifié	81	-	81	63	-	63
-0	155	Chine	66	-	66	152	-	152
-0	155	Thaïlande	28	-	28	85	-	85
-0	155	Myanmar	27	-	27	188	-	188
-1	156	GfbV / SPM	223	-	223	265	42	307
-0	156	Iraq	146	-	146	184	-	184
-0	156	PED, non spécifié	39	-	39	-	-	-
-0	156	Brésil	19	-	19	14	-	14
-0	156	Kosovo	18	-	18	39	-	39
-0	156	Divers	1	-	1	27	42	70
-1	157	GloboSol	17	-	17	21	-	21
-1	158	Grandir à Butare	4	-	4	5	-	5
-1	159	Grupo Sofonias	60	-	60	85	-	85
-0	159	Haïti	50	-	50	85	-	85
-0	159	Namibie	10	-	10	-	-	-
-1	160	GSGB - Gruppo di Sostegno ai Guaranì della Bolivia	39	-	39	44	-	44
-0	160	Bolivie	39	-	39	44	-	44
-1	161	Guinkouma	53	-	53	49	-	49
-0	161	Burkina Faso	53	-	53	41	-	41
-0	161	Divers	-	-	-	8	-	8
-1	162	GVSI - Gruppo Volontari della Svizzera Italiana	46	-	46	31	-	31
-0	162	Mexique	39	-	39	26	-	26
-0	162	Divers	7	-	7	5	-	5
-1	163	Handicap International Suisse	4'567	-	4'567	3'110	-	3'110
-0	163	Haïti	1'991	-	1'991	240	-	240
-0	163	Pakistan	862	-	862	249	-	249
-0	163	Philippines	701	-	701	322	-	322
-0	163	Sri Lanka	174	-	174	291	-	291
-0	163	Libye	171	-	171	-	-	-
-0	163	Indonésie	169	-	169	602	-	602
-0	163	Afrique de l'Est, régional	86	-	86	-	-	-
-0	163	Ethiopie	85	-	85	50	-	50
-0	163	Mali	82	-	82	21	-	21
-0	163	Sierra Leone	54	-	54	126	-	126
-0	163	Tunisie	42	-	42	8	-	8
-0	163	Colombie	36	-	36	-	-	-
-0	163	Maroc	30	-	30	165	-	165
-0	163	Moyen-Orient, régional	28	-	28	53	-	53
-0	163	Algérie	13	-	13	76	-	76
-0	163	Népal	11	-	11	14	-	14
-0	163	Cambodge	11	-	11	29	-	29
-0	163	Divers	20	-	20	865	-	865
-1	164	Handicap Solidaire	32	-	32	20	-	20
-0	164	Burkina Faso	32	-	32	20	-	20
-1	165	Hans Haller-Stiftung	49	-	49	70	-	70
-0	165	Brésil	49	-	49	70	-	70
-1	166	Heilsarmee	1'878	-	1'878	3'156	-	3'157
-0	166	Haïti	479	-	479	591	-	591
-0	166	Pakistan	291	-	291	95	-	95
-0	166	Kenya	288	-	288	530	-	530
-0	166	Brésil	138	-	138	389	-	389
-0	166	Equateur	97	-	97	107	-	107
-0	166	Congo (Rép.)	80	-	80	265	-	265
-0	166	Myanmar	70	-	70	44	-	44
-0	166	Zimbabwe	67	-	67	272	-	272
-0	166	Chili	61	-	61	31	-	31
-0	166	Corée du Nord	48	-	48	17	-	17
-0	166	Afrique de l'Est, régional	41	-	41	-	-	-
-0	166	Inde	29	-	29	10	-	10
-0	166	Congo (Rép. dém.)	28	-	28	87	-	87
-0	166	Paraguay	26	-	26	13	-	13
-0	166	Philippines	22	-	22	16	-	16
-0	166	Zambie	19	-	19	286	-	286
-0	166	Afrique australe, régional	15	-	15	-	-	-
-0	166	Panama	15	-	15	9	-	9
-0	166	Angola	14	-	14	-	-	-
-0	166	Pérou	11	-	11	3	-	3
-0	166	Sri Lanka	11	-	11	13	-	13
-0	166	Divers	27	-	27	379	-	380
-1	167	HEKS / EPER	13'187	265	13'452	17'487	238	17'726
-0	167	Ethiopie	1'871	-	1'871	1'046	-	1'046
-0	167	Haïti	1'552	-	1'552	2'634	-	2'634
-0	167	Philippines	950	-	950	1'275	-	1'275
-0	167	Indonésie	766	-	766	791	-	791
-0	167	Gaza et Cisjordanie	678	-	678	636	-	636
-0	167	Pakistan	676	-	676	1'408	-	1'408
-0	167	Congo (Rép. dém.)	662	-	662	623	-	623
-0	167	Niger	527	-	527	1'075	-	1'075
-0	167	Bangladesh	477	-	477	535	-	535
-0	167	Albanie	420	-	420	504	-	504
-0	167	Brésil	417	-	417	466	-	466
-0	167	PED, non spécifié	397	-	397	178	-	178
-0	167	Soudan du Sud	396	-	396	-	-	-
-0	167	Serbie	377	-	377	77	-	77
-0	167	Zimbabwe	369	-	369	589	-	589
-0	167	Moldavie	357	-	357	405	-	405
-0	167	Inde	352	-	352	402	-	402
-0	167	Colombie	340	-	340	507	-	507
-0	167	Roumanie	-	265	265	-	238	238
-0	167	Sénégal	261	-	261	418	-	418
-0	167	Afrique du Sud	188	-	188	235	-	235
-0	167	Guatemala	187	-	187	301	-	301
-0	167	Asie centrale, régional	181	-	181	145	-	145
-0	167	Europe de l'Est, régional	161	-	161	-	-	-
-0	167	Cambodge	156	-	156	317	-	317
-0	167	Honduras	149	-	149	311	-	311
-0	167	Erythrée	135	-	135	293	-	293
-0	167	Azerbaïdjan	117	-	117	88	-	88
-0	167	Arménie	95	-	95	108	-	108
-0	167	Turquie	42	-	42	-	-	-
-0	167	Liban	30	-	30	-	-	-
-0	167	Europe, régional	23	-	23	770	-	770
-0	167	Mexique	20	-	20	34	-	34
-0	167	Géorgie	-146	-	-146	177	-	177
-0	167	Divers	5	-	5	1'138	-	1'138
-1	168	HELVETAS Swiss Intercooperation	11'162	-	11'162	12'584	..	12'584
-0	168	Bénin	1'272	-	1'272	1'027	..	1'027
-0	168	Mali	1'046	-	1'046	1'296	..	1'296
-0	168	Guatemala	1'018	-	1'018	917	..	917
-0	168	Mozambique	1'013	-	1'013	987	..	987
-0	168	Afghanistan	908	-	908	927	..	927
-0	168	Népal	866	-	866	1'398	..	1'398
-0	168	Bhoutan	820	-	820	933	..	933
-0	168	Ethiopie	799	-	799	1'002	..	1'002
-0	168	Laos	745	-	745	737	..	737
-0	168	Burkina Faso	604	-	604	771	..	771
-0	168	Honduras	587	-	587	528	..	528
-0	168	Kirghizistan	586	-	586	729	..	729
-0	168	Haïti	379	-	379	718	..	718
-0	168	Viet Nam	314	-	314	400	..	400
-0	168	Tadjikistan	137	-	137	106	..	106
-0	168	Tanzanie	45	-	45	43	..	43
-0	168	Sri Lanka	22	-	22	66	..	66
-1	169	Hilfe für Tadschikistan	73	-	73	..	..	..
-0	169	Tadjikistan	73	-	73	..	..	..
-1	170	Hilfsorganisation Nordosten von Brasilien	5	-	5	5	-	5
-1	171	Horyzon	657	-	657	936	-	936
-0	171	Gaza et Cisjordanie	156	-	156	166	-	166
-0	171	Europe de l'Est, régional	145	-	145	-	-	-
-0	171	PED, non spécifié	127	-	127	174	-	174
-0	171	Colombie	113	-	113	181	-	181
-0	171	Bangladesh	68	-	68	200	-	200
-0	171	Equateur	27	-	27	46	-	46
-0	171	Arménie	21	-	21	33	-	33
-0	171	Divers	-	-	-	135	-	135
-1	172	IAMANEH Schweiz	1'315	-	1'315	1'128	-	1'128
-0	172	Mali	480	-	480	439	-	439
-0	172	Bosnie-Herzégovine	253	-	253	179	-	179
-0	172	Albanie	195	-	195	141	-	141
-0	172	Haïti	155	-	155	151	-	151
-0	172	Togo	125	-	125	39	-	39
-0	172	Burkina Faso	96	-	96	121	-	121
-0	172	Sénégal	11	-	11	59	-	59
-1	173	IAS - Ingénieurs et Architectes Solidaires	36	-	36	5	-	5
-0	173	Bénin	30	-	30	-	-	-
-0	173	Divers	6	-	6	5	-	5
-1	174	IFPD	92	-	92	109	-	109
-0	174	Inde	92	-	92	109	-	109
-1	175	InfoSud - Agence de Presse	27	-	27	40	-	40
-0	175	PED, non spécifié	22	-	22	30	-	30
-0	175	Divers	5	-	5	10	-	10
-1	176	Insieme per la Pace	739	-	739	606	-	606
-0	176	Rwanda	727	-	727	601	-	601
-0	176	Kosovo	11	-	11	6	-	6
-1	177	Institut Menzingen	510	-	510	551	-	551
-0	177	Inde	177	-	177	135	-	135
-0	177	Afrique du Sud	102	-	102	109	-	109
-0	177	Sri Lanka	91	-	91	78	-	78
-0	177	Chili	49	-	49	100	-	100
-0	177	Zambie	40	-	40	46	-	46
-0	177	PED, non spécifié	36	-	36	71	-	71
-0	177	Divers	14	-	14	13	-	13
-1	178	Institut Pater Johann Peter	131	-	131	90	-	90
-0	178	Brésil	131	-	131	90	-	90
-1	179	Institut Sainte-Ursule	94	-	94	93	-	93
-0	179	Tchad	82	-	82	81	-	81
-0	179	Congo (Rép. dém.)	12	-	12	12	-	12
-1	180	Interteam	1'473	-	1'473	1'265	-	1'265
-0	180	Tanzanie	354	-	354	355	-	355
-0	180	Namibie	344	-	344	268	-	268
-0	180	Colombie	309	-	309	213	-	213
-0	180	Amérique Centrale (avec Mexique), régional	229	-	229	149	-	149
-0	180	Bolivie	109	-	109	85	-	85
-0	180	Nicaragua	83	-	83	77	-	77
-0	180	PED, non spécifié	44	-	44	117	-	117
-1	181	IPA - International Project Aid	580	-	580	658	-	658
-0	181	Cameroun	316	-	316	498	-	498
-0	181	Albanie	264	-	264	160	-	160
-1	182	Islamic Relief Suisse	1'821	-	1'821	995	50	1'045
-0	182	Somalie	780	-	780	-	-	-
-0	182	Niger	294	-	294	-	-	-
-0	182	Pakistan	280	-	280	-	-	-
-0	182	Afghanistan	150	-	150	-	-	-
-0	182	Gaza et Cisjordanie	98	-	98	550	-	550
-0	182	Albanie	78	-	78	125	-	125
-0	182	Malawi	52	-	52	57	-	57
-0	182	Kosovo	47	-	47	50	-	50
-0	182	Bosnie-Herzégovine	43	-	43	50	-	50
-0	182	Divers	-	-	-	163	50	213
-1	183	Jura-Afrique	48	-	48	28	-	28
-0	183	Bénin	48	-	48	28	-	28
-1	2000	Taderass	63	-	63	74	-	74
-0	2000	Niger	63	-	63	74	-	74
-1	2001	TearFund Schweiz	2'361	-	2'361	1'974	-	1'974
-0	2001	Pérou	421	-	421	424	-	424
-0	2001	Kenya	409	-	409	-	-	-
-0	2001	Soudan du Sud	281	-	281	-	-	-
-0	2001	Ouganda	248	-	248	209	-	209
-0	2001	Bangladesh	210	-	210	192	-	192
-0	2001	PED, non spécifié	197	-	197	167	-	167
-0	2001	Zambie	120	-	120	119	-	119
-0	2001	Pakistan	101	-	101	138	-	138
-0	2001	Haïti	93	-	93	126	-	126
-0	2001	Malawi	86	-	86	123	-	123
-0	2001	Myanmar	48	-	48	-	-	-
-0	2001	Asie, régional	30	-	30	67	-	67
-0	2001	Zimbabwe	26	-	26	-	-	-
-0	2001	Soudan (sans le Sud)	26	-	26	207	-	207
-0	2001	Afghanistan	22	-	22	67	-	67
-0	2001	Congo (Rép. dém.)	15	-	15	43	-	43
-0	2001	Nigéria	11	-	11	12	-	12
-0	2001	Sri Lanka	10	-	10	3	-	3
-0	2001	Divers	6	-	6	77	-	77
-1	2002	TECHshare	5	-	5	5	-	5
-1	2002	Terre des Hommes Schweiz, Basel	1'438	-	1'438	1'274	-	1'274
-0	2002	Colombie	247	-	247	175	-	175
-0	2002	El Salvador	224	-	224	169	-	169
-0	2002	Tanzanie	151	-	151	200	-	200
-0	2002	Pérou	139	-	139	174	-	174
-0	2002	Brésil	132	-	132	80	-	80
-0	2002	Afrique du Sud	131	-	131	49	-	49
-0	2002	Nicaragua	128	-	128	105	-	105
-0	2002	Afrique de l'Est, régional	92	-	92	72	-	72
-0	2002	Mozambique	88	-	88	178	-	178
-0	2002	Amérique Centrale (avec Mexique), régional	54	-	54	33	-	33
-0	2002	PED, non spécifié	53	-	53	38	-	38
-1	2003	Terre des Hommes Suisse, Genève	1'372	-	1'372	2'391	-	2'391
-0	2003	Haïti	368	-	368	986	-	986
-0	2003	Pérou	238	-	238	271	-	271
-0	2003	Colombie	212	-	212	370	-	370
-0	2003	Burkina Faso	181	-	181	69	-	69
-0	2003	Brésil	150	-	150	218	-	218
-0	2003	Bolivie	52	-	52	75	-	75
-0	2003	Inde	44	-	44	263	-	263
-0	2003	Sénégal	43	-	43	54	-	54
-0	2003	Uruguay	40	-	40	68	-	68
-0	2003	Madagascar	35	-	35	11	-	11
-0	2003	Divers	9	-	9	7	-	7
-1	2004	Terre des hommes Valais	2'670	-	2'670	2'457	-	2'457
-0	2004	PED, non spécifié	2'670	-	2'670	2'457	-	2'457
-1	2005	Tibet Institut Rikon	149	-	149	51	-	51
-0	2005	Inde	149	-	149	51	-	51
-1	2006	TO OM RA Schweiz Sozialprojekte Guatemala	18	-	18	..	..	..
-0	2006	Guatemala	18	-	18	..	..	..
-1	2007	Togo Projekt	98	-	98	95	-	95
-0	2007	Togo	98	-	98	95	-	95
-1	2008	Traditions pour Demain	64	-	64	..	..	..
-0	2008	Amérique du Sud, régional	22	-	22	..	..	..
-0	2008	Bolivie	14	-	14	..	..	..
-0	2008	Equateur	12	-	12	..	..	..
-0	2008	Divers	16	-	16	-	-	-
-1	2009	Unsere Kleinen Brüder und Schwestern	613	-	613	815	-	815
-0	2009	Honduras	117	-	117	139	-	139
-0	2009	Mexique	112	-	112	139	-	139
-0	2009	Haïti	96	-	96	171	-	171
-0	2009	Dominicaine, République	71	-	71	57	-	57
-0	2009	Nicaragua	63	-	63	106	-	106
-0	2009	Guatemala	46	-	46	57	-	57
-0	2009	El Salvador	43	-	43	73	-	73
-0	2009	Bolivie	33	-	33	24	-	24
-0	2009	Pérou	32	-	32	49	-	49
-1	2010	Verein Afghanistanhilfe Schaffhausen	655	-	655	500	-	500
-0	2010	Afghanistan	655	-	655	500	-	500
-1	2011	Verein Aktion Bujumbura	170	-	170	180	-	180
-0	2011	Burundi	145	-	145	145	-	145
-0	2011	Madagascar	25	-	25	35	-	35
-1	2012	Verein Baslerinnen für Bosnierinnen	50	-	50	50	-	50
-0	2012	Bosnie-Herzégovine	50	-	50	50	-	50
-1	2013	Verein CopiiiRo	-	58	58	-	50	50
-0	2013	Roumanie	-	58	58	-	50	50
-1	2014	Verein EcuaSur	51	-	51	31	-	31
-0	2014	Equateur	51	-	51	31	-	31
-1	2015	Verein Guatemala-Zentralamerika	277	-	277	169	-	169
-0	2015	Guatemala	257	-	257	163	-	163
-0	2015	Mexique	20	-	20	6	-	6
-1	2016	Verein Hand für Afrika	465	-	465	327	-	327
-0	2016	Sénégal	465	-	465	327	-	327
-1	2017	Verein Hilfe für Vietnam / Susann's Help for Children	275	-	275	249	-	249
-0	2017	Viet Nam	275	-	275	249	-	249
-1	2018	Verein Indicamino	117	-	117	196	-	196
-0	2018	Pérou	101	-	101	138	-	138
-0	2018	Bolivie	17	-	17	57	-	57
-0	2018	Divers	-	-	-	1	-	1
-1	2019	Verein Juntos	4	-	4	..	..	..
-1	2020	Verein Kampagne Olivenöl aus Palästina	241	-	241	-	-	-
-0	2020	Gaza et Cisjordanie	226	-	226	-	-	-
-0	2020	Liban	15	-	15	-	-	-
-1	2021	Verein Kinder von Tucuman	30	-	30	34	-	34
-0	2021	Argentine	30	-	30	34	-	34
-1	2022	Verein Kinderheim Selam	1'400	-	1'400	8	-	8
-0	2022	Ethiopie	1'400	-	1'400	8	-	8
-1	2023	Verein Kinderhilfe Uitikon	70	-	70	-	-	-
-0	2023	Haïti	70	-	70	-	-	-
-1	2024	Verein Leprahilfe Vietnam	38	-	38	57	-	57
-0	2024	Viet Nam	38	-	38	57	-	57
-1	2025	Verein Malima	79	-	79	..	..	..
-0	2025	Bénin	79	-	79	..	..	..
-1	2026	Verein MMS Hilfe für Rumänien	-	122	122	-	113	113
-0	2026	Roumanie	-	122	122	-	113	113
-1	2027	Verein Partnerschaft Kinderspitäler Biel-Haïti	122	-	122	455	-	455
-0	2027	Haïti	122	-	122	455	-	455
-1	2028	Verein Primavera, Zürich	70	-	70	61	-	61
-0	2028	Equateur	70	-	70	61	-	61
-1	2029	Verein Sunshine School	75	-	75	..	..	..
-0	2029	Népal	75	-	75	..	..	..
-1	2030	Verein Tamahú	152	-	152	140	-	140
-0	2030	Guatemala	152	-	152	140	-	140
-1	2031	Verein Togo-Thun	14	-	14	6	-	6
-0	2031	Togo	14	-	14	6	-	6
-1	2032	Verein Tschernobyl Kinder	7	-	7	..	..	..
-1	2033	Verein Zukunft für Kinder	230	-	230	293	-	293
-0	2033	Indonésie	230	-	230	293	-	293
-1	2034	Vereinigung Don Bosco Werk	6'332	-	6'332	5'321	-	5'321
-0	2034	Inde	1'536	-	1'536	603	-	603
-0	2034	Colombie	1'056	-	1'056	984	-	984
-0	2034	Brésil	1'047	-	1'047	524	-	524
-0	2034	Argentine	501	-	501	693	-	693
-0	2034	Haïti	445	-	445	918	-	918
-0	2034	Pérou	252	-	252	58	-	58
-0	2034	Salomon, Îles	225	-	225	261	-	261
-0	2034	Ukraine	183	-	183	152	-	152
-0	2034	Uruguay	155	-	155	285	-	285
-0	2034	Sierra Leone	123	-	123	-	-	-
-0	2034	Pakistan	106	-	106	241	-	241
-0	2034	Bolivie	103	-	103	88	-	88
-0	2034	Equateur	75	-	75	192	-	192
-0	2034	Philippines	69	-	69	-	-	-
-0	2034	Ghana	66	-	66	-	-	-
-0	2034	Sri Lanka	63	-	63	-	-	-
-0	2034	Ethiopie	51	-	51	1	-	1
-0	2034	Dominicaine, République	49	-	49	41	-	41
-0	2034	Mexique	47	-	47	54	-	54
-0	2034	Liban	46	-	46	-	-	-
-0	2034	Paraguay	45	-	45	-	-	-
-0	2034	Chili	25	-	25	78	-	78
-0	2034	Kenya	24	-	24	-	-	-
-0	2034	PED, non spécifié	11	-	11	12	-	12
-0	2034	Amérique du Sud, régional	10	-	10	-	-	-
-0	2034	Amérique, régional	10	-	10	35	-	35
-0	2034	Divers	10	-	10	100	-	100
-1	2035	VIITOR	-	30	30	..	..	..
-0	2035	Roumanie	-	30	30	..	..	..
-1	2036	Village Suisse ONG	44	-	44	..	..	..
-0	2036	Afrique, régional	16	-	16	..	..	..
-0	2036	Maroc	11	-	11	..	..	..
-0	2036	Divers	17	-	17	-	-	-
-1	2037	Vivere	61	-	61	69	-	69
-0	2037	Congo (Rép. dém.)	35	-	35	40	-	40
-0	2037	Divers	27	-	27	28	-	28
-1	2038	Volkart Stiftung	81	-	81	273	-	273
-0	2038	Pakistan	33	-	33	20	-	20
-0	2038	Inde	23	-	23	141	-	141
-0	2038	Indonésie	10	-	10	10	-	10
-0	2038	Europe de l'Est, régional	10	-	10	-	-	-
-0	2038	Divers	5	-	5	102	-	102
-1	2039	VSF - Vétérinaires sans Frontières Suisse	409	-	409	339	-	339
-0	2039	Congo (Rép. dém.)	210	-	210	203	-	203
-0	2039	Mali	85	-	85	29	-	29
-0	2039	Togo	64	-	64	96	-	96
-0	2039	Somalie	50	-	50	11	-	11
-1	2040	Wasser für die Dritte Welt	161	-	161	397	-	397
-0	2040	Tanzanie	58	-	58	107	-	107
-0	2040	Pérou	33	-	33	32	-	32
-0	2040	Mozambique	31	-	31	41	-	41
-0	2040	Sri Lanka	20	-	20	10	-	10
-0	2040	Amérique Centrale (avec Mexique), régional	18	-	18	31	-	31
-0	2040	Divers	2	-	2	175	-	175
-1	2041	WEC International	129	-	129	81	-	81
-0	2041	Sénégal	43	-	43	7	-	7
-0	2041	Cambodge	43	-	43	33	-	33
-0	2041	Gambie	24	-	24	14	-	14
-0	2041	Divers	18	-	18	26	-	26
-1	2042	Weltgruppe Arlesheim	32	-	32	..	..	..
-0	2042	Haïti	30	-	30	..	..	..
-0	2042	Divers	2	-	2	-	-	-
-1	2043	Weltkinderdörfer der Schwestern Maria	2'760	-	2'760	2'700	-	2'700
-0	2043	Philippines	2'700	-	2'700	1'400	-	1'400
-0	2043	Guatemala	60	-	60	600	-	600
-0	2043	Divers	-	-	-	700	-	700
-1	2044	WHI - Women's Hope International	379	-	379	351	-	351
-0	2044	PED, non spécifié	186	-	186	160	-	160
-0	2044	Ethiopie	158	-	158	112	-	112
-0	2044	Afghanistan	35	-	35	14	-	14
-0	2044	Divers	-	-	-	65	-	65
-1	2045	World Vision Schweiz	26'378	637	27'014	30'746	759	31'505
-0	2045	PED, non spécifié	2'775	-	2'775	2'732	-	2'732
-0	2045	Bolivie	2'331	-	2'331	2'923	-	2'923
-0	2045	Tanzanie	2'193	-	2'193	2'301	-	2'301
-0	2045	Nicaragua	1'817	-	1'817	2'522	-	2'522
-0	2045	Mozambique	1'365	-	1'365	1'258	-	1'258
-0	2045	Bangladesh	1'325	-	1'325	1'451	-	1'451
-0	2045	Mali	1'319	-	1'319	1'430	-	1'430
-0	2045	Mongolie	1'288	-	1'288	1'435	-	1'435
-0	2045	Viet Nam	1'282	-	1'282	1'740	-	1'740
-0	2045	Inde	1'275	-	1'275	1'269	-	1'269
-0	2045	Népal	888	-	888	784	-	784
-0	2045	Pérou	835	-	835	1'302	-	1'302
-0	2045	Dominicaine, République	761	-	761	-	-	-
-0	2045	Géorgie	757	-	757	1'122	-	1'122
-0	2045	Tchad	731	-	731	998	-	998
-0	2045	Niger	727	-	727	825	-	825
-0	2045	Mauritanie	705	-	705	725	-	725
-0	2045	Afrique de l'Est, régional	645	-	645	-	-	-
-0	2045	Arménie	613	-	613	713	-	713
-0	2045	Roumanie	-	580	580	-	663	663
-0	2045	Sénégal	519	-	519	624	-	624
-0	2045	Soudan du Sud	482	-	482	-	-	-
-0	2045	Afrique de l'Ouest, régional	314	-	314	-	-	-
-0	2045	Ghana	275	-	275	450	-	450
-0	2045	Cambodge	172	-	172	160	-	160
-0	2045	Moyen-Orient, régional	129	-	129	28	-	28
-0	2045	Bosnie-Herzégovine	128	-	128	94	-	94
-0	2045	Kenya	100	-	100	18	-	18
-0	2045	Pakistan	97	-	97	224	-	224
-0	2045	Lesotho	73	-	73	158	-	158
-0	2045	Somalie	66	-	66	12	-	12
-0	2045	Ethiopie	60	-	60	-	-	-
-0	2045	Brésil	60	-	60	94	-	94
-0	2045	Indonésie	57	-	57	262	-	262
-0	2045	Myanmar	57	-	57	114	-	114
-0	2045	Russie	-	57	57	-	95	95
-0	2045	Haïti	47	-	47	964	-	964
-0	2045	Liban	45	-	45	93	-	93
-0	2045	Zimbabwe	33	-	33	238	-	238
-0	2045	Afghanistan	18	-	18	11	-	11
-0	2045	Ouganda	14	-	14	30	-	30
-0	2045	Divers	-	-	-	1'643	-	1'643
-1	2046	WWF Schweiz	8'996	-	8'996	5'125	29	5'154
-0	2046	PED, non spécifié	2'792	-	2'792	747	-	747
-0	2046	Amérique du Sud, régional	791	-	791	13	-	13
-0	2046	Chine	625	-	625	287	-	287
-0	2046	Madagascar	564	-	564	401	-	401
-0	2046	Indonésie	522	-	522	243	-	243
-0	2046	Cambodge	472	-	472	259	-	259
-0	2046	Paraguay	375	-	375	703	-	703
-0	2046	Brésil	375	-	375	257	-	257
-0	2046	Tanzanie	357	-	357	368	-	368
-0	2046	Argentine	304	-	304	80	-	80
-0	2046	Laos	293	-	293	159	-	159
-0	2046	Malaisie	264	-	264	77	-	77
-0	2046	Viet Nam	240	-	240	460	-	460
-0	2046	Pérou	213	-	213	172	-	172
-0	2046	Géorgie	171	-	171	189	-	189
-0	2046	Mozambique	148	-	148	75	-	75
-0	2046	Chili	105	-	105	33	-	33
-0	2046	Pakistan	100	-	100	253	-	253
-0	2046	Colombie	90	-	90	193	-	193
-0	2046	Bolivie	85	-	85	100	-	100
-0	2046	Fidji	85	-	85	-	-	-
-0	2046	Inde	13	-	13	25	-	25
-0	2046	Divers	12	-	12	33	29	62
-0	2046	Yens Espoiroumanie Targu Ona	-	84	84	-	-	-
-0	2046	Roumanie	-	84	84	-	-	-
-1	2047	Autres	-	-	-	28'765	823	29'588
-1	1000	KHB - Kinderhilfe Bethlehem	6'745	187	6'932	7'492	146	7'638
-0	1000	Gaza et Cisjordanie	6'345	-	6'345	7'000	-	7'000
-0	1000	Iraq	240	-	240	210	-	210
-0	1000	Israël	-	187	187	-	146	146
-0	1000	Egypte	160	-	160	55	-	55
-0	1000	Divers	-	-	-	227	-	227
-1	1001	Kinderhilfsorganisation Camaquito	79	-	79	..	..	..
-0	1001	Cuba	79	-	79	..	..	..
-1	1002	Kindernothilfe Schweiz	467	-	467	1'280	-	1'280
-0	1002	Ethiopie	214	-	214	322	-	322
-0	1002	Zambie	106	-	106	-	-	-
-0	1002	Afrique du Sud	88	-	88	-	-	-
-0	1002	Rwanda	59	-	59	-	-	-
-0	1002	Divers	-	-	-	958	-	958
-1	1003	Kloster Baldegg	1'008	-	1'008	818	-	818
-0	1003	Tanzanie	410	-	410	360	-	360
-0	1003	PED, non spécifié	400	-	400	260	-	260
-0	1003	Papouasie-Nouvelle-Guinée	100	-	100	100	-	100
-0	1003	Afrique, régional	50	-	50	50	-	50
-0	1003	Pérou	20	-	20	20	-	20
-0	1003	Ethiopie	20	-	20	20	-	20
-0	1003	Divers	8	-	8	8	-	8
-1	1004	Kolping Schweiz	371	10	381	288	-	288
-0	1004	Tanzanie	115	-	115	110	-	110
-0	1004	Inde	100	-	100	-	-	-
-0	1004	Mexique	35	-	35	28	-	28
-0	1004	Kosovo	30	-	30	36	-	36
-0	1004	Bolivie	27	-	27	12	-	12
-0	1004	Albanie	24	-	24	-	-	-
-0	1004	PED, non spécifié	15	-	15	-	-	-
-0	1004	Bénin	10	-	10	-	-	-
-0	1004	Congo (Rép. dém.)	10 	-	10	-	-	-
-0	1004	Roumanie	-	10	10	-	-	-
-0	1004	Divers	5	-	5	102	-	102
-1	1005	Komera Ruanda	12	-	12	14	-	14
-0	1005	Rwanda	12	-	12	14	-	14
-1	1006	Kongregation der Missionare von Mariannhill	32	-	32	7	-	7
-0	1006	Afrique de l'Est, régional	17	-	17	-	-	-
-0	1006	Haïti	15	-	15	7	-	7
-1	1007	Kriens hilft Menschen in Not	211	-	211	..	..	..
-0	1007	PED, non spécifié	71	-	71	..	..	..
-0	1007	Madagascar	30	-	30	..	..	..
-0	1007	Brésil	20	-	20	..	..	..
-0	1007	Colombie	16	-	16	..	..	..
-0	1007	Népal	12	-	12	..	..	..
-0	1007	Kenya	10	-	10	..	..	..
-0	1007	Kirghizistan	10	-	10	..	..	..
-0	1007	Malawi	10	-	10	..	..	..
-0	1007	Togo	10	-	10	..	..	..
-0	1007	Zimbabwe	10	-	10	..	..	..
-0	1007	Divers	12	-	12	-	-	-
-1	1008	Kwa Wazee	118	-	118	97	-	97
-0	1008	Tanzanie	118	-	118	97	-	97
-1	1009	Label STEP	-	-	-	102	-	102
-1	1010	Limmat Stiftung	1'449	-	1'449	1'886	-	1'886
-0	1010	Ouganda	435	-	435	36	-	36
-0	1010	Colombie	401	-	401	376	-	376
-0	1010	Afrique du Sud	276	-	276	-	-	-
-0	1010	Congo (Rép. dém.)	128	-	128	142	-	142
-0	1010	Inde	60	-	60	157	-	157
-0	1010	Malawi	60	-	60	-	-	-
-0	1010	Amérique du Sud, régional	44	-	44	36	-	36
-0	1010	Pérou	22	-	22	-	-	-
-0	1010	Guatemala	13	-	13	57	-	57
-0	1010	Cameroun	10	-	10	38	-	38
-0	1010	Divers	1	-	1	1'044	-	1'044
-1	1011	Lumière pour Haïti	118	-	118	230	-	230
-0	1011	Haïti	118	-	118	230	-	230
-1	1012	Lungenliga Schweiz	45	-	45	45	-	45
-0	1012	Bénin	45	-	45	45	-	45
-1	1013	Lyssa	45	-	45	..	..	..
-0	1014	Equateur	45	-	45	..	..	..
-1	1015	M.A.A. - Maasai Aid Association	45	-	45	75	-	75
-0	1015	Kenya	43	-	43	75	-	75
-0	1015	Divers	2	-	2	-	-	-
-1	1016	Malters hilft Menschen in Not	56	-	56	25	-	25
-0	1016	PED, non spécifié	20	-	20	-	-	-
-0	1016	Ouganda	10	-	10	4	-	4
-0	1016	Divers	26	-	26	21	-	21
-1	1017	MdM - Médecins du Monde Suisse	1'581	-	1'581	1'236	-	1'236
-0	1017	Haïti	1'310	-	1'310	1'112	-	1'112
-0	1017	Gaza et Cisjordanie	209	-	209	22	-	22
-0	1017	Bénin	62	-	62	102	-	102
-1	1018	MEB - Mission Evangélique Braille	158	-	158	154	-	154
-0	1019	Burkina Faso	92	-	92	87	-	87
-0	1019	Bénin	29	-	29	14	-	14
-0	1019	Congo (Rép. dém.)	15	-	15	11	-	11
-0	1019	Divers	22	-	22	41	-	41
-1	1020	Medair	5'594	-	5'594	3'566	-	3'566
-0	1021	Haïti	1'397	-	1'397	127	-	127
-0	1021	Afghanistan	1'219	-	1'219	863	-	863
-0	1021	Soudan du Sud	1'067	-	1'067	-	-	-
-0	1021	Soudan (sans le Sud)	501	-	501	956	-	956
-0	1021	Somalie	474	-	474	123	-	123
-0	1021	Madagascar	467	-	467	215	-	215
-0	1021	Congo (Rép. dém.)	326	-	326	720	-	720
-0	1021	Zimbabwe	144	-	144	142	-	142
-0	1021	Divers	-	-	-	419	-	419
-1	1022	Medico International Schweiz	465	-	465	487	-	487
-0	1022	Gaza et Cisjordanie	122	-	122	134	-	134
-0	1022	El Salvador	100	-	100	100	-	100
-0	1022	Nicaragua	65	-	65	80	-	80
-0	1022	Mexique	63	-	63	61	-	61
-0	1022	Erythrée	50	-	50	4	-	4
-0	1022	Guatemala	43	-	43	54	-	54
-0	1022	Cuba	20	-	20	17	-	17
-0	1022	Divers	2	-	2	38	-	38
-1	1023	Medicus Mundi Schweiz	183	-	183	234	-	234
-0	1023	PED, non spécifié	183	-	183	-	-	-
-0	1023	Divers	-	-	-	234	-	234
-1	1024	Meyrin-Sânmartin (Liaison-Roumanie)	-	6	6	..	..	..
-1	1025	Miblou	106	-	106	108	-	108
-0	1025	Inde	106	-	106	108	-	108
-1	1026	Mine-ex	879	-	879	872	-	872
-0	1026	Cambodge	579	-	579	572	-	572
-0	1026	Afghanistan	300	-	300	300	-	300
-1	1027	Missio - Oeuvres Pontificales Missionaires	3'044	-	3'044	..	..	..
-0	1027	Madagascar	423	-	423	..	..	..
-0	1027	Thaïlande	340	-	340	..	..	..
-0	1027	Inde	236	-	236	..	..	..
-0	1027	Cambodge	234	-	234	..	..	..
-0	1027	Congo (Rép. dém.)	230	-	230	..	..	..
-0	1027	Nigéria	191	-	191	..	..	..
-0	1027	Myanmar	186	-	186	..	..	..
-0	1027	Maurice	143	-	143	..	..	..
-0	1027	Togo	129	-	129	..	..	..
-0	1027	Tchad	117	-	117	..	..	..
-0	1027	Papouasie-Nouvelle-Guinée	112	-	112	..	..	..
-0	1027	Sénégal	103	-	103	..	..	..
-0	1027	Nicaragua	91	-	91	..	..	..
-0	1027	Seychelles	80	-	80	..	..	..
-0	1027	Comores	56	-	56	..	..	..
-0	1027	Liban	55	-	55	..	..	..
-0	1027	Colombie	47	-	47	..	..	..
-0	1027	Ouganda	42	-	42	..	..	..
-0	1027	Pakistan	42	-	42	..	..	..
-0	1027	Indonésie	40	-	40	..	..	..
-0	1027	Pérou	39	-	39	..	..	..
-0	1027	Népal	33	-	33	..	..	..
-0	1027	Laos	21	-	21	..	..	..
-0	1027	PED, non spécifié	17	-	17	..	..	..
-0	1027	Maroc	14	-	14	..	..	..
-0	1027	Divers	21	-	21	-	-	-
-1	1028	Mission am Nil International	2'302	-	2'302	2'366	-	2'366
-0	1028	Ethiopie	904	-	904	1'379	-	1'379
-0	1028	Egypte	632	-	632	234	-	234
-0	1028	Tanzanie	229	-	229	141	-	141
-0	1028	Soudan (sans le Sud)	169	-	169	211	-	211
-0	1028	Congo (Rép. dém.)	149	-	149	187	-	187
-0	1028	Erythrée	130	-	130	113	-	113
-0	1028	PED, non spécifié	88	-	88	101	-	101
-1	1029	Mission der St. Anna-Schwestern	624	-	624	578	-	578
-0	1029	Inde	348	-	348	255	-	255
-0	1029	Tanzanie	276	-	276	323	-	323
-1	1030	Mission Evangélique au Tchad	104	-	104	152	-	152
-0	1030	Tchad	104	-	104	152	-	152
-1	1031	Mission GUS	24	-	24	..	..	..
-0	1031	Ukraine	24	-	24	..	..	..
-1	1032	Mission 21	3'334	4	3'338	4'016	45	4'061
-0	1032	Tanzanie	504	-	504	375	-	375
-0	1032	Soudan du Sud	405	-	405	-	-	-
-0	1032	Indonésie	395	-	395	536	-	536
-0	1032	PED, non spécifié	364	-	364	518	-	518
-0	1032	Congo (Rép. dém.)	295	-	295	415	-	415
-0	1032	Cameroun	258	-	258	304	-	304
-0	1032	Chili	197	-	197	220	-	220
-0	1032	Thaïlande	186	-	186	-	-	-
-0	1032	Bolivie	141	-	141	213	-	213
-0	1032	Amérique du Sud, régional	132	-	132	111	-	111
-0	1032	Pérou	130	-	130	191	-	191
-0	1032	Nigéria	121	-	121	180	-	180
-0	1032	Malaisie	70	-	70	196	-	196
-0	1032	Chine	60	-	60	32	-	32
-0	1032	Ghana	20	-	20	49	-	49
-0	1032	Gaza et Cisjordanie	20	-	20	20	-	20
-0	1032	Soudan (sans le Sud)	19	-	19	454	-	454
-0	1032	Afrique de l'Est, régional	14	-	14	-	-	-
-0	1032	Divers	3	4	7	203	45	248
-1	1033	Missions-Benediktinerinnen	27	3	30	34	-	34
-0	1033	Tanzanie	16	-	16	22	-	22
-0	1033	Divers	11	3	14	12	-	12
-1	1034	Missionsfranziskanerinnen von Maria Immakulata	409	-	409	449	-	449
-0	1034	Equateur	160	-	160	170	-	170
-0	1034	Amérique du Sud, régional	100	-	100	40	-	40
-0	1034	Colombie	61	-	61	78	-	78
-0	1034	Pérou	30	-	30	101	-	101
-0	1034	Mali	28	-	28	20	-	20
-0	1034	El Salvador	17	-	17	20	-	20
-0	1034	Afrique du Sud	10	-	10	10	-	10
-0	1034	Divers	3	-	3	10	-	10
-1	1035	Missionsprokur der Ilanzer Dominikanerinnen	375	-	375	364	13	377
-0	1035	Brésil	323	-	323	336	-	336
-0	1035	Philippines	21	-	21	15	-	15
-0	1035	Chine	12	-	12	6	-	6
-0	1035	PED, non spécifié	11	-	11	-	-	-
-0	1035	Divers	9	-	9	6	13	19
-1	1036	Missionssekretariat der Schweizer Pallottiner	273	-	273	486	-	486
-0	1036	Inde	259	-	259	366	-	366
-0	1036	Brésil	14	-	14	-	-	-
-0	1036	Divers	-	-	-	120	-	120
-1	1037	MIVA Schweiz	1'770	-	1'770	1'999	-	1'999
-0	1037	PED, non spécifié	1'770	-	1'770	1'999	-	1'999
-1	1038	MSF Suisse / MSF Schweiz	9'682	-	9'682	7'291	-	7'291
-0	1038	Libye	2'394	-	2'394	-	-	-
-0	1038	Haïti	1'617	-	1'617	2'525	-	2'525
-0	1038	Kenya	1'549	-	1'549	413	-	413
-0	1038	Côte d'Ivoire	833	-	833	-	-	-
-0	1038	Somalie	561	-	561	520	-	520
-0	1038	Congo (Rép. dém.)	530	-	530	320	-	320
-0	1038	Kirghizistan	530	-	530	102	-	102
-0	1038	Liban	407	-	407	8	-	8
-0	1038	Niger	323	-	323	1'352	-	1'352
-0	1038	Iraq	220	-	220	170	-	170
-0	1038	Tchad	209	-	209	553	-	553
-0	1038	Myanmar	150	-	150	-	-	-
-0	1038	Swaziland	102	-	102	160	-	160
-0	1038	Guatemala	101	-	101	35	-	35
-0	1038	Guinée	57	-	57	-	-	-
-0	1038	Honduras	43	-	43	54	-	54
-0	1038	Djibouti	28	-	28	259	-	259
-0	1038	Soudan (sans le Sud)	18	-	18	271	-	271
-0	1038	Divers	10	-	10	549	-	549
-1	1039	Naulekh Stiftung Schweiz-Nepal	50	-	50	98	-	98
-0	1039	Népal	50	-	50	98	-	98
-1	1040	Niños en Xela	65	-	65	50	-	50
-0	1040	Guatemala	65	-	65	50	-	50
-1	1041	Nordesta Reforestation et Éducation	1'096	-	1'096	1'080	-	1'080
-0	1041	Brésil	1'096	-	1'096	1'080	-	1'080
-1	1042	Nouvelle Planète	2'965	-	2'965	3'153	-	3'153
-0	1042	PED, non spécifié	1'128	-	1'128	935	-	935
-0	1042	Burkina Faso	648	-	648	747	-	747
-0	1042	Sénégal	313	-	313	145	-	145
-0	1042	Viet Nam	210	-	210	102	-	102
-0	1042	Madagascar	135	-	135	359	-	359
-0	1042	Inde	119	-	119	101	-	101
-0	1042	Ouganda	98	-	98	81	-	81
-0	1042	Pérou	97	-	97	409	-	409
-0	1042	Cameroun	82	-	82	25	-	25
-0	1042	Myanmar	71	-	71	78	-	78
-0	1042	Afrique, régional	50	-	50	-	-	-
-0	1042	Divers	14	-	14	172	-	172
-1	1043	Ökozentrum Langenbruck	93	-	93	150	-	150
-0	1043	Burkina Faso	93	-	93	150	-	150
-1	1044	OMCT - Organisation Mondiale contre la Torture	333	-	333	358	-	358
-0	1044	PED, non spécifié	333	-	333	358	-	358
-1	1045	PBI - Peace Brigades International Schweiz	53	-	53	30	-	30
-0	1045	Guatemala	16	-	16	1	-	1
-0	1045	Népal	14	-	14	13	-	13
-0	1045	Mexique	12	-	12	8	-	8
-0	1045	Colombie	10	-	10	8	-	8
-1	1046	Pentru copiii abandonati	-	218	218	..	..	..
-0	1046	Roumanie	-	218	218	..	..	..
-1	1047	Pharmaciens sans Frontières	1	-	1	-	-	-
-1	1048	Plan International Schweiz	1'253	-	1'253	-	-	-
-0	1048	Haïti	730	-	730	-	-	-
-0	1048	Népal	206	-	206	-	-	-
-0	1048	PED, non spécifié	90	-	90	-	-	-
-0	1048	El Salvador	83	-	83	-	-	-
-0	1048	Libéria	46	-	46	-	-	-
-0	1048	Viet Nam	34	-	34	-	-	-
-0	1048	Pakistan	28	-	28	-	-	-
-0	1048	Mali	26	-	26	-	-	-
-0	1048	Burkina Faso	10	-	10	-	-	-
-1	1049	Probigua-Verein Schweiz	75	-	75	88	-	88
-0	1049	Guatemala	75	-	75	88	-	88
-1	1050	PWS - Peace Watch Switzerland	400	-	400	400	-	400
-0	1050	Amérique, régional	290	-	290	290	-	290
-0	1050	Moyen-Orient, régional	110	-	110	110	-	110
-1	1051	RecifEscola	100	-	100	50	-	50
-0	1051	Brésil	100	-	100	50	-	50
-1	1052	Regalo	4	-	4	83	-	83
-1	1053	REHASWISS	150	-	150	202	-	202
-0	1053	Inde	142	-	142	-	-	-
-0	1053	Divers	8	-	8	202	-	202
-1	1054	Roger Federer Foundation	2'215	-	2'215	700	-	700
-0	1054	Malawi	1'420	-	1'420	90	-	90
-0	1054	Zimbabwe	270	-	270	80	-	80
-0	1054	Afrique du Sud	180	-	180	230	-	230
-0	1054	Ethiopie	170	-	170	170	-	170
-0	1054	Zambie	100	-	100	-	-	-
-0	1054	PED, non spécifié	75	-	75	-	-	-
-0	1054	Divers	-	-	-	130	-	130
-1	1055	Rokpa International	1'463	-	1'463	1'832	-	1'832
-0	1055	Chine	1'332	-	1'332	1'629	-	1'629
-0	1055	Népal	74	-	74	186	-	186
-0	1055	Zimbabwe	57	-	57	17	-	17
-1	1056	Ruedi Leuppi Stiftung Elfenbeinküste	350	-	350	375	-	375
-0	1056	Côte d'Ivoire	350	-	350	375	-	375
-1	1057	SAM - Schweizer Allianz Mission	2'728	-	2'728	..	..	..
-0	1057	Brésil	943	-	943	..	..	..
-0	1057	Guinée	585	-	585	..	..	..
-0	1057	Cameroun	531	-	531	..	..	..
-0	1057	Tchad	243	-	243	..	..	..
-0	1057	Angola	227	-	227	..	..	..
-0	1057	Sri Lanka	96	-	96	..	..	..
-0	1057	Chine	54	-	54	..	..	..
-0	1057	Burkina Faso	49	-	49	..	..	..
-1	1058	Schweizer Redemptoristen Mariawil	348	-	348	473	-	473
-0	1058	Bolivie	321	-	321	353	-	353
-0	1058	Haïti	20	-	20	120	-	120
-0	1058	Divers	7	-	7	-	-	-
-1	1059	Schweizerische Emmaus-Vereinigung	212	-	212	..	..	..
-0	1059	Inde	212	-	212	..	..	..
-1	1060	Schweizerische Pfingstmission	2'063	258	2'321	1'865	340	2'205
-0	1060	Lesotho	290	-	290	152	-	152
-0	1060	Roumanie	-	231	231	-	307	307
-0	1060	Haïti	180	-	180	346	-	346
-0	1060	Inde	171	-	171	234	-	234
-0	1060	Zambie	141	-	141	51	-	51
-0	1060	Cambodge	119	-	119	121	-	121
-0	1060	Soudan (sans le Sud)	118	-	118	3	-	3
-0	1060	Argentine	116	-	116	82	-	82
-0	1060	Moldavie	102	-	102	7	-	7
-0	1060	Albanie	99	-	99	81	-	81
-0	1060	Bélarus	92	-	92	93	-	93
-0	1060	PED, non spécifié	91	-	91	13	-	13
-0	1060	Kenya	90	-	90	76	-	76
-0	1060	Afrique centrale, régional	84	-	84	-	-	-
-0	1060	Ukraine	75	-	75	74	-	74
-0	1060	Pérou	75	-	75	46	-	46
-0	1060	Brésil	51	-	51	58	-	58
-0	1060	Tanzanie	45	-	45	13	-	13
-0	1060	Pakistan	31	-	31	141	-	141
-0	1060	Rwanda	18	-	18	1	-	1
-0	1060	Israël	-	14	14	-	21	21
-0	1060	Somalie	13	-	13	-	-	-
-0	1060	Philippines	13	-	13	20	-	20
-0	1060	Bulgarie	-	13	13	-	12	12
-0	1060	Afghanistan	11	-	11	3	-	3
-0	1060	Divers	38	-	38	252	-	252
-1	1061	Schweizerisches Komitee für UNICEF	18'643	-	18'643	16'615	-	16'615
-0	1061	PED, non spécifié	7'246	-	7'246	540	-	540
-0	1061	Afrique de l'Est, régional	2'626	-	2'626	500	-	500
-0	1061	Malawi	1'918	-	1'918	3'567	-	3'567
-0	1061	Inde	1'377	-	1'377	800	-	800
-0	1061	Brésil	1'041	-	1'041	800	-	800
-0	1061	Erythrée	824	-	824	-	-	-
-0	1061	Soudan (sans le Sud)	500	-	500	370	-	370
-0	1061	Kirghizistan	427	-	427	-	-	-
-0	1061	Ethiopie	400	-	400	-	-	-
-0	1061	Libéria	360	-	360	-	-	-
-0	1061	Mauritanie	350	-	350	190	-	190
-0	1061	Egypte	347	-	347	-	-	-
-0	1061	Rwanda	321	-	321	1'285	-	1'285
-0	1061	Burkina Faso	250	-	250	-	-	-
-0	1061	Arménie	219	-	219	-	-	-
-0	1061	Bolivie	199	-	199	-	-	-
-0	1061	Congo (Rép. dém.)	125	-	125	1'300	-	1'300
-0	1061	Bhoutan	69	-	69	150	-	150
-0	1061	Afrique du Sud	45	-	45	39	-	39
-0	1061	Divers	-	-	-	7'073	-	7'073
-1	1062	SDI - Secours Dentaire International	48	-	48	3	-	3
-1	1063	SEED	40	-	40	36	-	36
-0	1063	Equateur	28	-	28	7	-	7
-0	1063	Divers	12	-	12	29	-	29
-1	1064	SEPP	50	-	50	..	..	..
-0	1064	Pakistan	50	-	50	..	..	..
-1	1065	Servants to Asia's Urban Poor	846	-	846	685	-	685
-0	1065	Philippines	841	-	841	674	-	674
-0	1065	Divers	6	-	6	11	-	11
-1	1066	Services Missionnaires Mennonites SMM	117	-	117	145	-	145
-0	1066	Afrique de l'Est, régional	74	-	74	-	-	-
-0	1066	Thaïlande	20	-	20	-	-	-
-0	1066	Congo (Rép. dém.)	15	-	15	10	-	10
-0	1066	Divers	9	-	9	136	-	136
-1	1067	SidEcole School against Aids	17	-	17	15	-	15
-0	1067	Ouganda	13	-	13	11	-	11
-0	1067	Divers	4	-	4	4	-	4
-1	1068	SIM International	162	-	162	94	-	94
-0	1068	Bénin	60	-	60	19	-	19
-0	1068	Burkina Faso	44	-	44	9	-	9
-0	1068	Kenya	25	-	25	-	-	-
-0	1068	Nigéria	20	-	20	9	-	9
-0	1068	Pérou	13	-	13	13	-	13
-0	1068	Divers	-	-	-	45	-	45
-1	1069	SKF - Elisabethenwerk	649	-	649	650	-	650
-0	1069	Inde	247	-	247	240	-	240
-0	1069	Ouganda	146	-	146	146	-	146
-0	1069	Bolivie	128	-	128	128	-	128
-0	1069	Kenya	46	-	46	46	-	46
-0	1069	Burkina Faso	15	-	15	15	-	15
-0	1069	Nicaragua	14	-	14	14	-	14
-0	1069	Divers	54	-	54	62	-	62
-1	1070	SKP - Stiftung Kinderdorf Pestalozzi	2'193	618	2'811	3'296	274	3'570
-0	1070	Serbie	552	-	552	616	-	616
-0	1070	Russie	-	484	484	-	-	-
-0	1070	Ethiopie	299	-	299	392	-	392
-0	1070	PED, non spécifié	257	-	257	265	-	265
-0	1070	Macédoine	165	-	165	211	-	211
-0	1070	Laos	156	-	156	188	-	188
-0	1070	Thaïlande	147	-	147	180	-	180
-0	1070	Tanzanie	140	-	140	125	-	125
-0	1070	Roumanie	-	134	134	-	274	274
-0	1070	El Salvador	103	-	103	134	-	134
-0	1070	Myanmar	101	-	101	183	-	183
-0	1070	Honduras	98	-	98	129	-	129
-0	1070	Moldavie	89	-	89	247	-	247
-0	1070	Guatemala	81	-	81	184	-	184
-0	1070	Afrique de l'Est, régional	18	-	18	-	-	-
-0	1070	Erythrée	-22	-	-22	118	-	118
-0	1070	Divers	7	-	7	325	-	325
-1	1071	SLS Seraphisches Liebeswerk Solothurn	1'537	18	1'555	1'557	27	1'584
-0	1071	Philippines	1'116	-	1'116	1'079	-	1'079
-0	1071	Inde	128	-	128	149	-	149
-0	1071	Madagascar	93	-	93	109	-	109
-0	1071	Malawi	51	-	51	58	-	58
-0	1071	Burundi	27	-	27	30	-	30
-0	1071	Brésil	21	-	21	23	-	23
-0	1071	Roumanie	-	18	18	-	27	27
-0	1071	Erythrée	16	-	16	17	-	17
-0	1071	Egypte	15	-	15	15	-	15
-0	1071	Pérou	11	-	11	13	-	13
-0	1071	Afrique du Sud	11	-	11	11	-	11
-0	1071	Soudan (sans le Sud)	11	-	11	11	-	11
-0	1071	Ouganda	10	-	10	12	-	12
-0	1071	Divers	27	-	27	30	-	30
-1	1072	SME - Service Missionnaire Evangélique	413	-	413	480	-	480
-0	1072	Laos	148	-	148	219	-	219
-0	1072	Liban	65	-	65	42	-	42
-0	1072	Tchad	57	-	57	90	-	90
-0	1072	Burkina Faso	51	-	51	60	-	60
-0	1072	Bénin	40	-	40	-	-	-
-0	1072	Niger	34	-	34	41	-	41
-0	1072	Népal	12	-	12	7	-	7
-0	1072	Divers	5	-	5	22	-	22
-1	1073	Soeurs Missionnaires du Saint-Esprit	10	-	10	10	-	10
-0	1073	Congo (Rép.)	10	-	10	10	-	10
-1	1074	Solidar Suisse	6'012	40	6'051	5'110	23	5'133
-0	1074	Sri Lanka	1'448	-	1'448	743	-	743
-0	1074	Pakistan	1'258	-	1'258	585	-	585
-0	1074	Burkina Faso	985	-	985	933	-	933
-0	1074	Indonésie	720	-	720	1'020	-	1'020
-0	1074	PED, non spécifié	476	-	476	564	-	564
-0	1074	Nicaragua	294	-	294	337	-	337
-0	1074	Serbie	222	-	222	87	-	87
-0	1074	Mozambique	184	-	184	227	-	227
-0	1074	El Salvador	146	-	146	296	-	296
-0	1074	Kosovo	97	-	97	159	-	159
-0	1074	Afrique du Sud	60	-	60	14	-	14
-0	1074	Bolivie	42	-	42	56	-	56
-0	1074	Gaza et Cisjordanie	42	-	42	74	-	74
-0	1074	Hong Kong, Chine	-	40	40	-	23	23
-0	1074	Bénin	37	-	37	13	-	13
-1	1075	SolidarMed	2'539	-	2'539	2'332	-	2'332
-0	1075	Tanzanie	1'298	-	1'298	1'261	-	1'261
-0	1075	Zimbabwe	436	-	436	444	-	444
-0	1075	Mozambique	406	-	406	316	-	316
-0	1075	Lesotho	392	-	392	311	-	311
-0	1075	Divers	8	-	8	-	-	-
-1	1076	Song Kiiba	69	-	69	61	-	61
-0	1076	Burkina Faso	69	-	69	61	-	61
-1	1077	SRK / CRS	21'180	382	21'561	25'013	327	25'340
-0	1077	Pakistan	2'704	-	2'704	1'943	-	1'943
-0	1077	PED, non spécifié	2'599	-	2'599	2'492	-	2'492
-0	1077	Haïti	1'903	-	1'903	5'770	-	5'770
-0	1077	Swaziland	1'222	-	1'222	1'776	-	1'776
-0	1077	Viet Nam	1'083	-	1'083	322	-	322
-0	1077	Honduras	816	-	816	597	-	597
-0	1077	Indonésie	676	-	676	3'114	-	3'114
-0	1077	Togo	674	-	674	691	-	691
-0	1077	Kenya	636	-	636	13	-	13
-0	1077	Ghana	613	-	613	711	-	711
-0	1077	Mali	587	-	587	165	-	165
-0	1077	Kirghizistan	553	-	553	155	-	155
-0	1077	Paraguay	498	-	498	457	-	457
-0	1077	Laos	493	-	493	332	-	332
-0	1077	Népal	489	-	489	425	-	425
-0	1077	Nord du Sahara, régional	488	-	488	-	-	-
-0	1077	Bélarus	488	-	488	290	-	290
-0	1077	Bangladesh	463	-	463	669	-	669
-0	1077	Bolivie	377	-	377	299	-	299
-0	1077	Roumanie	-	359	359	-	327	327
-0	1077	Erythrée	352	-	352	478	-	478
-0	1077	Egypte	332	-	332	3	-	3
-0	1077	El Salvador	326	-	326	294	-	294
-0	1077	Inde	305	-	305	409	-	409
-0	1077	Cambodge	305	-	305	443	-	443
-0	1077	Soudan du Sud	281	-	281	-	-	-
-0	1077	Chili	258	-	258	2	-	2
-0	1077	Moldavie	256	-	256	180	-	180
-0	1077	Chine	229	-	229	327	-	327
-0	1077	Afrique de l'Est, régional	189	-	189	-	-	-
-0	1077	Ethiopie	177	-	177	66	-	66
-0	1077	Turquie	146	-	146	-	-	-
-0	1077	Bosnie-Herzégovine	145	-	145	185	-	185
-0	1077	Colombie	143	-	143	-	-	-
-0	1077	Equateur	121	-	121	196	-	196
-0	1077	Liban	112	-	112	-	-	-
-0	1077	Amérique du Sud, régional	112	-	112	138	-	138
-0	1077	Zimbabwe	72	-	72	97	-	97
-0	1077	Bulgarie	-	23	23	-	-	-
-0	1077	Soudan (sans le Sud)	-59	-	-59	1'330	-	1'330
-0	1077	Divers	16	-	16	644	-	644
-1	1078	SSI Suisse	650	-	650	600	6	607
-0	1078	Afrique de l'Ouest, régional	500	-	500	-	-	-
-0	1078	PED, non spécifié	150	-	150	165	-	165
-0	1078	Divers	-	-	-	436	6	442
-1	1079	SSOR	-	29	29	-	188	188
-0	1079	Roumanie	-	29	29	-	188	188
-1	1080	St. Petrus-Claver-Sodalität	1'373	-	1'373	1'020	10	1'030
-0	1080	Inde	490	-	490	621	-	621
-0	1080	Tanzanie	347	-	347	-	-	-
-0	1080	Kenya	101	-	101	-	-	-
-0	1080	Philippines	68	-	68	67	-	67
-0	1080	Ghana	63	-	63	-	-	-
-0	1080	Viet Nam	50	-	50	109	-	109
-0	1080	Ouganda	38	-	38	19	-	19
-0	1080	Haïti	32	-	32	-	-	-
-0	1080	Madagascar	29	-	29	57	-	57
-0	1080	Ethiopie	25	-	25	-	-	-
-0	1080	Burkina Faso	19	-	19	-	-	-
-0	1080	Malawi	17	-	17	11	-	11
-0	1080	Myanmar	17	-	17	41	-	41
-0	1080	Bangladesh	14	-	14	-	-	-
-0	1080	Afrique du Sud	14	-	14	-	-	-
-0	1080	Sri Lanka	14	-	14	34	-	34
-0	1080	Divers	37	-	37	61	10	71
-1	1081	Stanley Thomas Johnson Stiftung	395	-	395	646	-	646
-0	1081	Laos	110	-	110	-	-	-
-0	1081	Pérou	100	-	100	100	-	100
-0	1081	Equateur	70	-	70	-	-	-
-0	1081	Bangladesh	30	-	30	-	-	-
-0	1081	Cap-Vert	30	-	30	-	-	-
-0	1081	Nigéria	30	-	30	-	-	-
-0	1081	Tanzanie	25	-	25	70	-	70
-0	1081	Divers	-	-	-	476	-	476
-1	1082	Steyler Missionare Schweiz	1'388	19	1'407	1'550	-	1'550
-0	1082	Indonésie	273	-	273	430	-	430
-0	1082	Colombie	215	-	215	-	-	-
-0	1082	Ghana	195	-	195	179	-	179
-0	1082	Brésil	192	-	192	246	-	246
-0	1082	Inde	120	-	120	117	-	117
-0	1082	Congo (Rép. dém.)	120	-	120	39	-	39
-0	1082	Philippines	115	-	115	19	-	19
-0	1082	Cuba	47	-	47	-	-	-
-0	1082	Paraguay	28	-	28	81	-	81
-0	1082	Taipei chinois (Taiwan)	-	19	19	-	-	-
-0	1082	Papouasie-Nouvelle-Guinée	17	-	17	23	-	23
-0	1082	Kenya	17	-	17	21	-	21
-0	1082	Bolivie	14	-	14	11	-	11
-0	1082	Equateur	13	-	13	92	-	92
-0	1082	Divers	22	-	22	292	-	292
-1	1083	Stiftung BPN / BPN Foundation	770	-	770	599	-	599
-0	1083	Kirghizistan	325	-	325	242	-	242
-0	1083	Nicaragua	174	-	174	251	-	251
-0	1083	Rwanda	136	-	136	-	-	-
-0	1083	Bénin	99	-	99	106	-	106
-0	1083	Mongolie	36	-	36	-	-	-
-1	1084	Stiftung Calcutta Project Basel	68	-	68	92	-	92
-0	1084	Inde	68	-	68	92	-	92
-1	1085	Stiftung Green Ethiopia	632	-	632	633	-	633
-0	1085	Ethiopie	632	-	632	633	-	633
-1	1086	Stiftung Interkonfessionelle Aktion Solidarität Dritte Welt	629	-	629	682	-	682
-0	1086	Brésil	61	-	61	61	-	61
-0	1086	Tanzanie	41	-	41	41	-	41
-0	1086	Madagascar	40	-	40	42	-	42
-0	1086	Pérou	39	-	39	31	-	31
-0	1086	Rwanda	38	-	38	38	-	38
-0	1086	Indonésie	37	-	37	37	-	37
-0	1086	Kenya	35	-	35	35	-	35
-0	1086	Philippines	35	-	35	35	-	35
-0	1086	Burundi	33	-	33	28	-	28
-0	1086	Chili	27	-	27	27	-	27
-0	1086	Pakistan	20	-	20	20	-	20
-0	1086	Sri Lanka	20	-	20	20	-	20
-0	1086	Afrique de l'Ouest, régional	18	-	18	18	-	18
-0	1086	Soudan (sans le Sud)	18	-	18	18	-	18
-0	1086	Ethiopie	18	-	18	18	-	18
-0	1086	Bolivie	16	-	16	-	-	-
-0	1086	Gaza et Cisjordanie	15	-	15	14	-	14
-0	1086	Haïti	15	-	15	10	-	10
-0	1086	Cameroun	13	-	13	45	-	45
-0	1086	Nicaragua	12	-	12	10	-	10
-0	1086	Congo (Rép. dém.)	11	-	11	33	-	33
-0	1086	Colombie	10	-	10	10	-	10
-0	1086	El Salvador	10	-	10	10	-	10
-0	1086	Mali	10	-	10	10	-	10
-0	1086	Zambie	10	-	10	10	-	10
-0	1086	Divers	28	-	28	61	-	61
-1	1087	Stiftung Kinderdirekthilfe Kolumbien	529	-	529	493	-	493
-0	1087	Colombie	529	-	529	493	-	493
-1	1088	Stiftung Kinderspital Kantha Bopha	38'800	-	38'800	27'200	-	27'200
-0	1088	Cambodge	38'800	-	38'800	27'200	-	27'200
-1	1089	Stiftung Kunst für den Tropenwald	50	-	50	..	..	..
-0	1089	Amérique, régional	50	-	50	..	..	..
-1	1090	Stiftung Lotti Latrous	3'198	-	3'198	2'789	-	2'789
-0	1090	Côte d'Ivoire	3'198	-	3'198	2'789	-	2'789
-1	1091	Stiftung Martin Stucki für Schulen in Afrika	177	-	177	378	-	378
-0	1091	Cameroun	177	-	177	378	-	378
-1	1092	Stiftung Menschen für Menschen	2'569	-	2'569	2'761	-	2'761
-0	1092	Ethiopie	2'569	-	2'569	2'761	-	2'761
-1	1093	Stiftung NIMA	150	-	150	120	-	120
-0	1093	Chine	150	-	150	120	-	120
-1	1094	Stiftung Novartis für Nachhaltige Entwicklung	5'652	-	5'652	5'969	-	5'969
-0	1094	PED, non spécifié	1'549	-	1'549	1'497	-	1'497
-0	1094	Tanzanie	1'541	-	1'541	1'657	-	1'657
-0	1094	Afrique, régional	1'082	-	1'082	1'045	-	1'045
-0	1094	Mali	554	-	554	569	-	569
-0	1094	Ghana	414	-	414	685	-	685
-0	1094	Inde	266	-	266	280	-	280
-0	1094	Bhoutan	100	-	100	50	-	50
-0	1094	Cambodge	77	-	77	85	-	85
-0	1094	Brésil	57	-	57	86	-	86
-0	1094	Chine	14	-	14	15	-	15
-1	1095	Stiftung Osteuropa Mission Schweiz	429	285	714	-	-	-
-0	1095	Roumanie	-	285	285	-	-	-
-0	1095	Ukraine	160	-	160	-	-	-
-0	1095	Europe de l'Est, régional	145	-	145	-	-	-
-0	1095	Serbie	65	-	65	-	-	-
-0	1095	Géorgie	35	-	35	-	-	-
-0	1095	Amérique du Sud, régional	10	-	10	-	-	-
-0	1095	Divers	14	-	14	-	-	-
-1	1096	Stiftung Pro Diamantina	161	-	161	143	-	143
-0	1096	Brésil	161	-	161	143	-	143
-1	1097	Stiftung Pukllasunchis	571	-	571	634	-	634
-0	1097	Pérou	571	-	571	634	-	634
-1	1098	Stiftung Schulen für Afghanistan	40	-	40	..	..	..
-0	1098	Afghanistan	40	-	40	..	..	..
-1	1099	Stiftung SOS-Kinderdorf Schweiz	12'959	1'062	14'022	12'544	946	13'491
-0	1099	Afrique, régional	1'896	-	1'896	-	-	-
-0	1099	Asie, régional	1'760	-	1'760	-	-	-
-0	1099	Amérique du Sud, régional	1'659	-	1'659	-	-	-
-0	1099	Russie	-	1'062	1'062	-	931	931
-0	1099	Centrafricaine, Rép.	1'048	-	1'048	470	-	470
-0	1099	Mexique	718	-	718	634	-	634
-0	1099	Angola	620	-	620	465	-	465
-0	1099	Ghana	599	-	599	39	-	39
-0	1099	Pérou	573	-	573	500	-	500
-0	1099	Kazakhstan	561	-	561	403	-	403
-0	1099	Azerbaïdjan	527	-	527	397	-	397
-0	1099	Lesotho	421	-	421	268	-	268
-0	1099	Nicaragua	387	-	387	278	-	278
-0	1099	Philippines	369	-	369	285	-	285
-0	1099	Népal	365	-	365	261	-	261
-0	1099	Europe de l'Est, régional	349	-	349	-	-	-
-0	1099	Ethiopie	335	-	335	92	-	92
-0	1099	Sri Lanka	305	-	305	238	-	238
-0	1099	Colombie	262	-	262	1'559	-	1'559
-0	1099	Afrique de l'Est, régional	151	-	151	-	-	-
-0	1099	Haïti	54	-	54	220	-	220
-0	1099	Divers	-	-	-	6'437	15	6'452
-1	1100	Stiftung Sozialwerke Peter Bachmann	890	-	890	890	-	890
-0	1100	Sud du Sahara, régional	890	-	890	890	-	890
-1	1101	Stiftung St. Martin	827	-	827	824	-	824
-0	1101	Cameroun	782	-	782	806	-	806
-0	1101	PED, non spécifié	34	-	34	12	-	12
-0	1101	Divers	10	-	10	6	-	6
-1	1102	Stiftung Vivamos Mejor	1'247	-	1'247	904	-	904
-0	1102	Colombie	424	-	424	313	-	313
-0	1102	Guatemala	395	-	395	355	-	355
-0	1102	Nicaragua	263	-	263	95	-	95
-0	1102	Brésil	164	-	164	142	-	142
-1	1103	Stiftung Wakina Mama na Watoto	44	-	44	145	-	145
-0	1103	Tanzanie	44	-	44	145	-	145
-1	1104	Stiftung Welt ohne Minen	694	-	694	823	-	823
-0	1104	PED, non spécifié	694	-	694	823	-	823
-1	1105	Stiftung ZOE - Kinder in Not	221	-	221	225	-	225
-0	1105	Ghana	221	-	221	225	-	225
-1	1106	SUKE - Schweizerisches Unterstützungskomitee für Eritrea	513	-	513	287	-	287
-0	1106	Erythrée	513	-	513	287	-	287
-1	1107	Surya Association Drukpa Suisse	19	-	19	24	-	24
-0	1107	Népal	19	-	19	-	-	-
-0	1107	Divers	-	-	-	24	-	24
-1	1108	Swiss Aids Care International	2'000	-	2'000	1'050	-	1'050
-0	1108	Zimbabwe	2'000	-	2'000	1'050	-	1'050
-1	1109	Swiss Fair Trade	168	-	168	..	..	..
-0	1109	PED, non spécifié	168	-	168	..	..	..
-1	1110	Swiss Laos Hospital Project	300	-	300	300	-	300
-0	1110	Laos	300	-	300	300	-	300
-1	1111	Swiss Mongolian Pediatric Project (SMOPP)	63	-	63	..	..	..
-0	1111	Mongolie	63	-	63	..	..	..
-1	1112	Swiss Relief	350	-	350	300	-	300
-0	1112	PED, non spécifié	350	-	350	-	-	-
-0	1112	Divers	-	-	-	300	-	300
-1	1113	SWISSAID	3'713	-	3'713	4'153	-	4'153
-0	1113	Inde	532	-	532	732	-	732
-0	1113	Colombie	523	-	523	619	-	619
-0	1113	Niger	420	-	420	297	-	297
-0	1113	Equateur	410	-	410	633	-	633
-0	1113	Guinée-Bissau	390	-	390	268	-	268
-0	1113	Nicaragua	385	-	385	508	-	508
-0	1113	Tchad	355	-	355	308	-	308
-0	1113	Myanmar	350	-	350	535	-	535
-0	1113	Tanzanie	327	-	327	242	-	242
-0	1113	Afrique, régional	18	-	18	11	-	11
-1	1114	Swisscontact	6'894	-	6'894	9'960	-	9'960
-0	1114	Indonésie	1'350	-	1'350	1'897	-	1'897
-0	1114	Pérou	886	-	886	1'484	-	1'484
-0	1114	Burkina Faso	586	-	586	645	-	645
-0	1114	Ouganda	487	-	487	725	-	725
-0	1114	PED, non spécifié	426	-	426	435	-	435
-0	1114	Tanzanie	402	-	402	152	-	152
-0	1114	Niger	399	-	399	489	-	489
-0	1114	Kenya	361	-	361	350	-	350
-0	1114	Bolivie	344	-	344	505	-	505
-0	1114	Colombie	315	-	315	75	-	75
-0	1114	Bénin	238	-	238	536	-	536
-0	1114	Equateur	200	-	200	167	-	167
-0	1114	Europe du Sud-Est, régional	190	-	190	167	-	167
-0	1114	Afrique du Sud	127	-	127	304	-	304
-0	1114	Dominicaine, République	124	-	124	105	-	105
-0	1114	Mali	114	-	114	140	-	140
-0	1114	El Salvador	96	-	96	183	-	183
-0	1114	Honduras	92	-	92	533	-	533
-0	1114	Bangladesh	65	-	65	87	-	87
-0	1114	Guatemala	50	-	50	-	-	-
-0	1114	Ukraine	43	-	43	448	-	448
-0	1114	Divers	-	-	-	534	-	534
-1	1115	Swisshand	314	-	314	268	-	268
-0	1115	Ouganda	144	-	144	70	-	70
-0	1115	Nigéria	66	-	66	51	-	51
-0	1115	Ethiopie	35	-	35	48	-	48
-0	1115	Congo (Rép. dém.)	29	-	29	61	-	61
-0	1115	Kenya	19	-	19	20	-	20
-0	1115	Divers	22	-	22	18	-	18
-1	1116	Swiss-Nepalese Society	208	-	208	..	..	..
-0	1116	Népal	208	-	208	..	..	..
+country_code	lat	lon	org	org_id	name	dev_2011	sudest_2011	total_2011	dev_2010	sudest_2010	total_2010
+			-	0	Total	413'256	8'572	421'828	431'581	6'006	437'586
+			1	1	AADO-Togo - Associazione Amici dell'Oasis-Togo	60	-	60	..	..	..
+TG	8.0000000000	1.1666700000	0	1	Togo	60	-	60	..	..	..
+			1	2	ABBA - Abbanstanza per tutti	198	-	198	..	..	..
+BF	13.0000000000	-2.0000000000	0	2	Burkina Faso	80	-	80	..	..	..
+KH	13.0000000000	105.0000000000	0	2	Cambodge	50	-	50	..	..	..
+ID	-5.0000000000	120.0000000000	0	2	Inde	46	-	46	..	..	..
+NI	13.0000000000	-85.0000000000	0	2	Nicaragua	22	-	22	..	..	..
+			1	3	Abokobi Society	31	-	31	-	-	-
+GH	8.1000000000	-1.2000000000	0	3	Ghana	31	-	31	-	-	-
+			1	4	Acacia - Fonds für Entwicklungszusammenarbeit	671	33	704	-	-	-
+BR	-10.0000000000	-55.0000000000	0	4	Brésil	138	-	138	-	-	-
+PE	-10.0000000000	-76.0000000000	0	4	Pérou	134	-	134	-	-	-
+KG	41.0000000000	75.0000000000	0	4	Kirghizistan	86	-	86	-	-	-
+UA	49.0000000000	32.0000000000	0	4	Ukraine	77	-	77	-	-	-
+XK	42.5833300000	21.0000000000	0	4	Kosovo	75	-	75	-	-	-
+AF	33.0000000000	66.0000000000	0	4	Afghanistan	37	-	37	-	-	-
+BY	53.0000000000	28.0000000000	0	4	Bélarus	30	-	30	-	-	-
+IL	31.5000000000	34.7500000000	0	4	Israël	-	30	30	-	-	-
+ZA	-29.0000000000	24.0000000000	0	4	Afrique du Sud	24	-	24	-	-	-
+TN	34.0000000000	9.0000000000	0	4	Tunisie	15	-	15	-	-	-
+LY	28.0000000000	17.0000000000	0	4	Libye	13	-	13	-	-	-
+NP	28.0000000000	84.0000000000	0	4	Népal	13	-	13	-	-	-
+BA	44.2500000000	17.8333300000	0	4	Bosnie-Herzégovine	11	-	11	-	-	-
+			0	4	Divers	19	3	22	-	-	-
+			1	5	ACTI Espérance	140	-	140	176	-	176
+VN	16.1666700000	107.8333300000	0	5	Viet Nam	140	-	140	170	-	170
+			0	5	Divers	-	-	-	7	-	7
+			1	6	ADAP	5	-	5	9	-	9
+			1	7	ADES	655	-	655	728	-	728
+MG	-20.0000000000	47.0000000000	0	7	Madagascar	655	-	655	728	-	728
+			1	8	ADRA Suisse	1'989	-	1'989	2'038	-	2'038
+MM	22.0000000000	98.0000000000	0	8	Myanmar	798	-	798	147	-	147
+HT	19.0000000000	-72.4166700000	0	8	Haïti	554	-	554	1'167	-	1'167
+TH	15.0000000000	100.0000000000	0	8	Thaïlande	111	-	111	118	-	118
+SO	6.0000000000	48.0000000000	0	8	Somalie	107	-	107	32	-	32
+BF	13.0000000000	-2.0000000000	0	8	Burkina Faso	90	-	90	63	-	63
+MN	46.0000000000	105.0000000000	0	8	Mongolie	79	-	79	10	-	10
+ET	8.0000000000	38.0000000000	0	8	Ethiopie	71	-	71	82	-	82
+BR	-10.0000000000	-55.0000000000	0	8	Brésil	48	-	48	11	-	11
+			0	8	PED, non spécifié	36	-	36	-	-	-
+MD	47.0000000000	29.0000000000	0	8	Moldavie	34	-	34	34	-	34
+BD	24.0000000000	90.0000000000	0	8	Pakistan	22	-	22	108	-	108
+LK	7.0000000000	81.0000000000	0	8	Sri Lanka	17	-	17	51	-	51
+AF	33.0000000000	66.0000000000	0	8	Afghanistan	12	-	12	-	-	-
+			0	8	Divers	12	-	12	213	-	213
+			1	9	Agape International	1'416	385	1'801	1'722	470	2'192
+RU	60.0000000000	100.0000000000	0	9	Russie	-	385	385	-	470	470
+CU	22.0000000000	-79.5000000000	0	9	Cuba	251	-	251	347	-	347
+RW	-2.0000000000	30.0000000000	0	9	Rwanda	240	-	240	290	-	290
+CN	35.0000000000	105.0000000000	0	9	Chine	217	-	217	257	-	257
+KP	40.0000000000	127.0000000000	0	9	Corée du Nord	171	-	171	233	-	233
+AF	33.0000000000	66.0000000000	0	9	Afghanistan	139	-	139	199	-	199
+NP	28.0000000000	84.0000000000	0	9	Népal	107	-	107	84	-	84
+BO	-17.0000000000	-65.0000000000	0	9	Bolivie	90	-	90	55	-	55
+LB	33.8333300000	35.8333300000	0	9	Liban	87	-	87	104	-	104
+ID	-5.0000000000	120.0000000000	0	9	Inde	43	-	43	41	-	41
+AR	-34.0000000000	-64.0000000000	0	9	Argentine	36	-	36	65	-	65
+MN	46.0000000000	105.0000000000	0	9	Mongolie	35	-	35	42	-	42
+			0	9	Divers	-	-	-	5	-	5
+			1	10	Aide Haïti	122	-	122	489	-	489
+HT	19.0000000000	-72.4166700000	0	10	Haïti	122	-	122	489	-	489
+			1	11	Aids & Kind Schweiz	139	-	139	274	-	274
+KE	1.0000000000	38.0000000000	0	11	Kenya	41	-	41	30	-	30
+ZA	-29.0000000000	24.0000000000	0	11	Afrique du Sud	33	-	33	51	-	51
+ZM	-15.0000000000	30.0000000000	0	11	Zambie	25	-	25	25	-	25
+ZW	-19.0000000000	29.0000000000	0	11	Zimbabwe	25	-	25	-	-	-
+UG	2.0000000000	33.0000000000	0	11	Ouganda	15	-	15	34	-	34
+			0	11	Divers	-	-	-	134	-	134
+			1	12	Alborada	56	-	56	18	-	18
+CL	-30.0000000000	-71.0000000000	0	12	Chili	56	-	56	18	-	18
+			1	13	Alpatlas	27	-	27	-	-	-
+MA	32.0000000000	-5.0000000000	0	13	Maroc	27	-	27	-	-	-
+			1	14	Amica Schweiz	97	-	97	76	-	76
+BA	44.2500000000	17.8333300000	0	14	Bosnie-Herzégovine	97	-	97	76	-	76
+			1	15	Amici Ticino per Il Burundi (AMTIBU)	13	-	13	..	..	..
+			0	15	Afrique, régional	13	-	13	..	..	..
+			1	16	Antenna International et Technologie	70	-	70	..	..	..
+KE	1.0000000000	38.0000000000	0	16	Kenya	70	-	70	..	..	..
+			1	17	ARVAN	22	-	22	-	-	-
+ML	18.0000000000	-2.0000000000	0	17	Mali	22	-	22	-	-	-
+			1	18	ASARA Foundation Schweiz	363	-	363	448	-	448
+ID	-5.0000000000	120.0000000000	0	18	Inde	363	-	363	448	-	448
+			1	19	ASED - Action de Soutien à l'Enfance Démunie	249	-	249	297	-	297
+ID	-5.0000000000	120.0000000000	0	19	Inde	73	-	73	79	-	79
+MG	-20.0000000000	47.0000000000	0	19	Madagascar	68	-	68	186	-	186
+AM	40.0000000000	45.0000000000	0	19	Arménie	40	-	40	22	-	22
+NI	13.0000000000	-85.0000000000	0	19	Nicaragua	35	-	35	-	-	-
+AL	41.0000000000	20.0000000000	0	19	Albanie	33	-	33	11	-	11
+			1	20	ASEV - Association pour l'Enfance du Vietnam	15	-	15	20	-	20
+VN	16.1666700000	107.8333300000	0	20	Viet Nam	15	-	15	-	-	-
+			0	20	Divers	-	-	-	20	-	20
+			1	21	Ass. Suisse d'Aide Hôpital A. Schweitzer, sect.  romande	84	-	84	-	-	-
+			0	21	PED, non spécifié	40	-	40	-	-	-
+			0	21	Sud du Sahara, régional	21	-	21	-	-	-
+BF	13.0000000000	-2.0000000000	0	21	Burkina Faso	14	-	14	-	-	-
+GA	-1.0000000000	11.7500000000	0	21	Gabon	10	-	10	-	-	-
+			1	22	ASSAFI	70	-	70	..	..	..
+			0	22	Congo (Rép.)	70	-	70	..	..	..
+			1	23	Association Action Swiss Sierra Leone	125	-	125	248	-	248
+SL	8.5000000000	-11.5000000000	0	23	Sierra Leone	125	-	125	248	-	248
+			1	24	Association Aide à l'Hôpital de Monvu Idjwi - RDC	40	-	40	35	-	35
+			0	24	Congo (Rép. dém.)	40	-	40	35	-	35
+			1	25	Association Ailleurs Aussi	15	-	15	30	-	30
+BR	-10.0000000000	-55.0000000000	0	25	Brésil	15	-	15	30	-	30
+			1	26	Association Suisse des Amis d'Haïti	350	-	350	187	-	187
+HT	19.0000000000	-72.4166700000	0	26	Haïti	350	-	350	187	-	187
+			1	27	Association Assikloassi	1	-	1	1	-	1
+			1	28	Association Atelier des Enfants	9	-	9	11	-	11
+			1	29	Association Avully-Remetea	-	3	3	-	4	4
+			1	30	Association Ban Khok Na Ko	11	-	11	..	..	..
+LA	18.0000000000	105.0000000000	0	30	Laos	11	-	11	..	..	..
+			1	31	Association des Amis du Sakthi Children's Home	44	-	44	32	-	32
+PG	-6.0000000000	147.0000000000	0	31	Inde	44	-	44	32	-	32
+			1	32	Association Echandens-Starchiojd	-	4	4	-	4	4
+			1	33	Association Elias	68	-	68	..	..	..
+LB	33.8333300000	35.8333300000	0	33	Liban	68	-	68	..	..	..
+			1	34	Association Ensemble pour Eux	100	-	100	..	..	..
+BF	13.0000000000	-2.0000000000	0	34	Burkina Faso	100	-	100	..	..	..
+			1	35	Association et Fondation Eurasia	77	-	77	80	-	80
+VN	16.1666700000	107.8333300000	0	35	Viet Nam	77	-	77	80	-	80
+			1	36	Association Graine de Baobab	132	-	132	209	-	209
+BF	13.0000000000	-2.0000000000	0	36	Burkina Faso	132	-	132	209	-	209
+			1	37	Association Idées'Elles	3	-	3	..	..	..
+			1	38	Association Kallpa Genève	43	-	43	-	-	-
+PE	-10.0000000000	-76.0000000000	0	38	Pérou	43	-	43	-	-	-
+			1	39	Association Keiser Initiative for Uganda	14	-	14	19	-	19
+UG	2.0000000000	33.0000000000	0	39	Ouganda	14	-	14	19	-	19
+			1	40	Association Lazaro Relova	3	-	3	..	..	..
+			1	41	Association l'Escale	15	152	166	91	138	228
+RO	46.0000000000	25.0000000000	0	41	Roumanie	-	120	120	-	138	138
+BG	43.0000000000	25.0000000000	0	41	Bulgarie	-	32	32	-	-	-
+			0	41	Divers	15	-	15	91	-	91
+			1	42	Association Lukla-Chaurikarka (Luklass)	32	-	32	..	..	..
+NP	28.0000000000	84.0000000000	0	42	Népal	32	-	32	..	..	..
+			1	43	Association Mate Cocido	11	-	11	4	-	4
+AF	33.0000000000	66.0000000000	0	43	Afghanistan	11	-	11	-	-	-
+			0	43	Divers	-	-	-	4	-	4
+			1	44	Association Métissages	41	-	41	-	-	-
+PE	-10.0000000000	-76.0000000000	0	44	Pérou	41	-	41	-	-	-
+			1	45	Association Morija	1'407	-	1'407	1'332	-	1'332
+BF	13.0000000000	-2.0000000000	0	45	Burkina Faso	758	-	758	721	-	721
+TD	15.0000000000	19.0000000000	0	45	Tchad	285	-	285	278	-	278
+CM	6.0000000000	12.0000000000	0	45	Cameroun	171	-	171	296	-	296
+AF	33.0000000000	66.0000000000	0	45	Afghanistan	120	-	120	-	-	-
+TG	8.0000000000	1.1666700000	0	45	Togo	73	-	73	37	-	37
+			1	46	Association des Amis du Sakthi Children's Home	44	-	44	32	-	32
+PG	-6.0000000000	147.0000000000	0	46	Inde	44	-	44	32	-	32
+			1	47	Association Echandens-Starchiojd	-	4	4	-	4	4
+			1	48	Association Elias	68	-	68	..	..	..
+LB	33.8333300000	35.8333300000	0	48	Liban	68	-	68	..	..	..
+			1	49	Association Ensemble pour Eux	100	-	100	..	..	..
+BF	13.0000000000	-2.0000000000	0	49	Burkina Faso	100	-	100	..	..	..
+			1	50	Association et Fondation Eurasia	77	-	77	80	-	80
+VN	16.1666700000	107.8333300000	0	50	Viet Nam	77	-	77	80	-	80
+			1	51	Association Graine de Baobab	132	-	132	209	-	209
+BF	13.0000000000	-2.0000000000	0	51	Burkina Faso	132	-	132	209	-	209
+			1	52	Association Idées'Elles	3	-	3	..	..	..
+			1	53	Association Kallpa Genève	43	-	43	-	-	-
+PE	-10.0000000000	-76.0000000000	0	53	Pérou	43	-	43	-	-	-
+			1	54	Association Keiser Initiative for Uganda	14	-	14	19	-	19
+UG	2.0000000000	33.0000000000	0	54	Ouganda	14	-	14	19	-	19
+			1	55	Association Lazaro Relova	3	-	3	..	..	..
+			1	56	Association l'Escale	15	152	166	91	138	228
+RO	46.0000000000	25.0000000000	0	56	Roumanie	-	120	120	-	138	138
+BG	43.0000000000	25.0000000000	0	56	Bulgarie	-	32	32	-	-	-
+			0	56	Divers	15	-	15	91	-	91
+			1	57	Association Lukla-Chaurikarka (Luklass)	32	-	32	..	..	..
+NP	28.0000000000	84.0000000000	0	57	Népal	32	-	32	..	..	..
+			1	58	Association Mate Cocido	11	-	11	4	-	4
+AF	33.0000000000	66.0000000000	0	58	Afghanistan	11	-	11	-	-	-
+			0	58	Divers	-	-	-	4	-	4
+			1	59	Association Métissages	41	-	41	-	-	-
+PE	-10.0000000000	-76.0000000000	0	59	Pérou	41	-	41	-	-	-
+			1	60	Association Morija	1'407	-	1'407	1'332	-	1'332
+BF	13.0000000000	-2.0000000000	0	60	Burkina Faso	758	-	758	721	-	721
+TD	15.0000000000	19.0000000000	0	60	Tchad	285	-	285	278	-	278
+CM	6.0000000000	12.0000000000	0	60	Cameroun	171	-	171	296	-	296
+AF	33.0000000000	66.0000000000	0	60	Afghanistan	120	-	120	-	-	-
+TG	8.0000000000	1.1666700000	0	60	Togo	73	-	73	37	-	37
+			1	61	Association Norlha	105	-	105	..	..	..
+CN	35.0000000000	105.0000000000	0	61	Chine	97	-	97	..	..	..
+			0	61	Divers	8	-	8	-	-	-
+			1	62	Association OVR Nendaz-Gherla	-	8	8	-	26	26
+			1	63	Association Petit Samba	16	-	16	13	-	13
+BF	13.0000000000	-2.0000000000	0	63	Burkina Faso	16	-	16	13	-	13
+			1	64	Association Peu-la au Tibet	132	-	132	191	-	191
+CN	35.0000000000	105.0000000000	0	64	Chine	132	-	132	191	-	191
+			1	65	Association PONTCH-Chine	10	-	10	..	..	..
+CN	35.0000000000	105.0000000000	0	65	Chine	10	-	10	..	..	..
+			1	66	Association RAJO	16	-	16	..	..	..
+SO	6.0000000000	48.0000000000	0	66	Somalie	16	-	16	..	..	..
+			1	67	Association Rigzen-Zanskar	90	-	90	90	-	90
+PG	-6.0000000000	147.0000000000	0	67	Inde	90	-	90	90	-	90
+			1	68	Association Roger Riou	20	-	20	80	-	80
+			1	69	Association Sangeorgiu	-	23	23	-	25	25
+RO	46.0000000000	25.0000000000	0	69	Roumanie	-	23	23	-	25	25
+			1	70	Association Suisse Raoul Follereau	151	-	151	289	-	289
+PH	13.0000000000	122.0000000000	0	70	Philippines	52	-	52	107	-	107
+BF	13.0000000000	-2.0000000000	0	70	Burkina Faso	40	-	40	66	-	66
+ID	-5.0000000000	120.0000000000	0	70	Inde	14	-	14	22	-	22
+CM	6.0000000000	12.0000000000	0	70	Cameroun	12	-	12	19	-	19
+			0	70	Divers	32	-	32	75	-	75
+			1	71	Association Sujeeva	73	-	73	100	-	100
+LK	7.0000000000	81.0000000000	0	71	Sri Lanka	73	-	73	100	-	100
+			1	72	Association Une Goutte d'Eau	22	-	22	..	..	..
+			0	72	Afrique, régional	22	-	22	..	..	..
+			1	73	Association Ushagram Suisse	1	-	1	1	-	1
+			1	74	Association Wanlee	1	-	1	..	..	..
+			1	75	Associazione Dédomé Amici di Don Franck	246	-	246	190	-	190
+TG	8.0000000000	1.1666700000	0	75	Togo	229	-	229	190	-	190
+			0	75	PED, non spécifié	17	-	17	-	-	-
+			1	76	Associazione Fondazione Elvetica Ospedale di Mada	356	-	356	316	-	316
+			0	76	Afrique centrale, régional	356	-	356	-	-	-
+			0	76	Divers	-	-	-	316	-	316
+			1	77	Associazione Gruppo Medaglia Miracolosa	189	5	194	241	-	241
+IN	20.0000000000	77.0000000000	0	77	Inde	33	-	33	61	-	61
+TD	15.0000000000	19.0000000000	0	77	Tchad	16	-	16	1	-	1
+SS	7.5000000000	30.0000000000	0	77	Soudan du Sud	16	-	16	-	-	-
+			0	77	Erythrée	16	-	16	-	-	-
+TZ	-6.0000000000	35.0000000000	0	77	Tanzanie	13	-	13	2	-	2
+UG	2.0000000000	33.0000000000	0	77	Ouganda	12	-	12	17	-	17
+			0	77	Divers	83	5	88	160	-	160
+			1	78	Associazione Me-Wa	85	-	85	146	-	146
+BJ	9.5000000000	2.2500000000	0	78	Bénin	85	-	85	146	-	146
+			1	79	Associazione Progetti Opera San Guiseppe	70	-	70	..	..	..
+TZ	-6.0000000000	35.0000000000	0	79	Tanzanie	70	-	70	..	..	..
+			1	80	ATT - Associazione Ticino-Tibet	62	-	62	40	-	40
+NP	28.0000000000	84.0000000000	0	80	Népal	56	-	56	37	-	37
+			0	80	Divers	5	-	5	3	-	3
+			1	81	Basler Förderverein für medizinische Zusammenarbeit	60	-	60	40	-	40
+ZM	-15.0000000000	30.0000000000	0	81	Zambie	60	-	60	20	-	20
+			0	81	Divers	-	-	-	20	-	20
+			1	82	Benediktiner Missionare Uznach	2'490	56	2'546	3'364	74	3'438
+TZ	-6.0000000000	35.0000000000	0	82	Tanzanie	1'798	-	1'798	2'287	-	2'287
+KE	1.0000000000	38.0000000000	0	82	Kenya	418	-	418	430	-	430
+KZ	48.0000000000	68.0000000000	0	82	Kazakhstan	113	-	113	157	-	157
+			0	82	Corée (République)	-	56	56	-	74	74
+PH	13.0000000000	122.0000000000	0	82	Philippines	50	-	50	50	-	50
+ZA	-29.0000000000	24.0000000000	0	82	Afrique du Sud	42	-	42	61	-	61
+TG	8.0000000000	1.1666700000	0	82	Togo	14	-	14	214	-	214
+CO	4.0000000000	-72.0000000000	0	82	Colombie	13	-	13	11	-	11
+			0	82	Divers	42	-	42	155	-	155
+			1	83	Beogo	63	-	63	120	-	120
+BF	13.0000000000	-2.0000000000	0	83	Burkina Faso	63	-	63	120	-	120
+			1	84	BFA / PPP	3'072	-	3'072	3'136	-	3'136
+			0	84	PED, non spécifié	2'772	-	2'772	2'865	-	2'865
+CN	35.0000000000	105.0000000000	0	84	Chine	52	-	52	62	-	62
+GH	8.1000000000	-1.2000000000	0	84	Ghana	50	-	50	45	-	45
+EC	-2.0000000000	-77.5000000000	0	84	Equateur	42	-	42	35	-	35
+SL	8.5000000000	-11.5000000000	0	84	Sierra Leone	30	-	30	1	-	1
+ZA	-29.0000000000	24.0000000000	0	84	Afrique du Sud	29	-	29	26	-	26
+BJ	9.5000000000	2.2500000000	0	84	Bénin	25	-	25	2	-	2
+			0	84	Europe, régional	22	-	22	26	-	26
+BZ	17.2500000000	-88.7500000000	0	84	Honduras	22	-	22	24	-	24
+CM	6.0000000000	12.0000000000	0	84	Cameroun	17	-	17	23	-	23
+			0	84	Divers	12	-	12	27	-	27
+			1	85	Bhavisya	25	-	25	15	-	15
+NP	28.0000000000	84.0000000000	0	85	Népal	25	-	25	15	-	15
+			1	86	Bienen für Piaui	25	-	25	50	-	50
+BR	-10.0000000000	-55.0000000000	0	86	Brésil	25	-	25	50	-	50
+			1	87	Biovision	1'611	-	1'611	1'318	-	1'318
+KE	1.0000000000	38.0000000000	0	87	Kenya	821	-	821	951	-	951
+			0	87	Afrique, régional	366	-	366	100	-	100
+			0	87	PED, non spécifié	263	-	263	127	-	127
+ET	8.0000000000	38.0000000000	0	87	Ethiopie	117	-	117	121	-	121
+TZ	-6.0000000000	35.0000000000	0	87	Tanzanie	31	-	31	20	-	20
+UG	2.0000000000	33.0000000000	0	87	Ouganda	13	-	13	-	-	-
+			1	88	BMI - Bethlehem Mission Immensee	701	-	701	666	-	666
+			0	88	PED, non spécifié	701	-	701	666	-	666
+			1	89	Brigada Latinobernesa	8	-	8	9	-	9
+			1	90	Brücke - Le pont	985	-	985	782	-	782
+TG	8.0000000000	1.1666700000	0	90	Togo	302	-	302	110	-	110
+SV	13.8333300000	-88.9166700000	0	90	El Salvador	227	-	227	210	-	210
+BR	-10.0000000000	-55.0000000000	0	90	Brésil	192	-	192	204	-	204
+BO	-17.0000000000	-65.0000000000	0	90	Bolivie	129	-	129	94	-	94
+BJ	9.5000000000	2.2500000000	0	90	Bénin	90	-	90	49	-	49
+NI	13.0000000000	-85.0000000000	0	90	Nicaragua	40	-	40	114	-	114
+			0	90	Divers	5	-	5	-	-	-
+			1	91	Bücher für Kinder in Ruanda	823	-	823	851	-	851
+RW	-2.0000000000	30.0000000000	0	91	Rwanda	823	-	823	851	-	851
+			1	92	BUTS - Bussigny Uni à Titao et Salla	55	-	55	51	-	51
+BF	13.0000000000	-2.0000000000	0	92	Burkina Faso	55	-	55	51	-	51
+			1	93	Caritas Genève	141	-	141	383	-	383
+			0	93	Congo (Rép. dém.)	78	-	78	107	-	107
+PE	-10.0000000000	-76.0000000000	0	93	Pérou	16	-	16	120	-	120
+CM	6.0000000000	12.0000000000	0	93	Cameroun	15	-	15	30	-	30
+BI	-3.5000000000	30.0000000000	0	93	Burundi	12	-	12	15	-	15
+			0	93	Divers	20	-	20	111	-	111
+			1	94	Caritas Schweiz	29'047	208	29'255	30'819	229	31'047
+			0	94	PED, non spécifié	13'234	-	13'234	12'280	-	12'280
+PK	30.0000000000	70.0000000000	0	94	Pakistan	2'124	-	2'124	1'558	-	1'558
+MM	22.0000000000	98.0000000000	0	94	Myanmar	1'430	-	1'430	1'650	-	1'650
+SO	6.0000000000	48.0000000000	0	94	Somalie	1'089	-	1'089	564	-	564
+HT	19.0000000000	-72.4166700000	0	94	Haïti	1'088	-	1'088	3'710	-	3'710
+LK	7.0000000000	81.0000000000	0	94	Sri Lanka	1'015	-	1'015	461	-	461
+ET	8.0000000000	38.0000000000	0	94	Ethiopie	737	-	737	705	-	705
+			0	94	Soudan (sans le Sud)	672	-	672	1'392	-	1'392
+ID	-5.0000000000	120.0000000000	0	94	Indonésie	661	-	661	3'248	-	3'248
+TJ	39.0000000000	71.0000000000	0	94	Tadjikistan	640	-	640	234	-	234
+PH	13.0000000000	122.0000000000	0	94	Philippines	637	-	637	312	-	312
+IQ	33.0000000000	44.0000000000	0	94	Iraq	485	-	485	255	-	255
+			0	94	Gaza et Cisjordanie	418	-	418	82	-	82
+NE	18.0000000000	9.0000000000	0	94	Niger	407	-	407	-	-	-
+SS	7.5000000000	30.0000000000	0	94	Soudan du Sud	398	-	398	-	-	-
+UG	2.0000000000	33.0000000000	0	94	Ouganda	364	-	364	228	-	228
+XK	42.5833300000	21.0000000000	0	94	Kosovo	358	-	358	27	-	27
+KE	1.0000000000	38.0000000000	0	94	Kenya	311	-	311	-	-	-
+BD	24.0000000000	90.0000000000	0	94	Bangladesh	301	-	301	77	-	77
+BO	-17.0000000000	-65.0000000000	0	94	Bolivie	268	-	268	313	-	313
+TD	15.0000000000	19.0000000000	0	94	Tchad	259	-	259	269	-	269
+MD	47.0000000000	29.0000000000	0	94	Moldavie	255	-	255	258	-	258
+VN	16.1666700000	107.8333300000	0	94	Viet Nam	255	-	255	248	-	248
+BR	-10.0000000000	-55.0000000000	0	94	Brésil	180	-	180	52	-	52
+KH	13.0000000000	105.0000000000	0	94	Cambodge	177	-	177	19	-	19
+TZ	-6.0000000000	35.0000000000	0	94	Tanzanie	161	-	161	168	-	168
+ML	18.0000000000	-2.0000000000	0	94	Mali	143	-	143	178	-	178
+CO	4.0000000000	-72.0000000000	0	94	Colombie	135	-	135	264	-	264
+EG	27.0000000000	30.0000000000	0	94	Egypte	128	-	128	-	-	-
+GT	15.5000000000	-90.2500000000	0	94	Guatemala	116	-	116	73	-	73
+BA	44.2500000000	17.8333300000	0	94	Bosnie-Herzégovine	114	-	114	215	-	215
+CI	8.0000000000	-5.0000000000	0	94	Côte d'Ivoire	111	-	111	-	-	-
+RU	60.0000000000	100.0000000000	0	94	Russie	-	100	100	-	95	95
+UA	49.0000000000	32.0000000000	0	94	Ukraine	87	-	87	5	-	5
+NI	13.0000000000	-85.0000000000	0	94	Nicaragua	78	-	78	37	-	37
+RO	46.0000000000	25.0000000000	0	94	Roumanie	-	77	77	-	-	-
+ID	-5.0000000000	120.0000000000	0	94	Inde	62	-	62	661	-	661
+KG	41.0000000000	75.0000000000	0	94	Kirghizistan	53	-	53	60	-	60
+MX	23.0000000000	-102.0000000000	0	94	Mexique	38	-	38	193	-	193
+BG	43.0000000000	25.0000000000	0	94	Bulgarie	-	31	31	-	134	134
+LB	33.8333300000	35.8333300000	0	94	Liban	25	-	25	20	-	20
+TH	15.0000000000	100.0000000000	0	94	Thaïlande	20	-	20	441	-	441
+RW	-2.0000000000	30.0000000000	0	94	Rwanda	14	-	14	1	-	1
+			0	94	Divers	2	-	2	559	-	559
+			1	95	CBM Schweiz - Christoffel Blindenmission	5'277	-	5'277	5'576	-	5'576
+PK	30.0000000000	70.0000000000	0	95	Pakistan	804	-	804	786	-	786
+			0	95	Asie méridionale, non réparti par pays	374	-	374	289	-	289
+			0	95	PED, non spécifié	366	-	366	427	-	427
+NP	28.0000000000	84.0000000000	0	95	Népal	270	-	270	36	-	36
+			0	95	Afrique de l'Ouest, régional	265	-	265	-	-	-
+MG	-20.0000000000	47.0000000000	0	95	Madagascar	257	-	257	150	-	150
+PG	-6.0000000000	147.0000000000	0	95	Inde	222	-	222	302	-	302
+TD	15.0000000000	19.0000000000	0	95	Tchad	203	-	203	155	-	155
+			0	95	Congo (Rép. dém.)	190	-	190	26	-	26
+GN	11.0000000000	-10.0000000000	0	95	Guinée	185	-	185	165	-	165
+PE	-10.0000000000	-76.0000000000	0	95	Pérou	176	-	176	160	-	160
+EC	-2.0000000000	-77.5000000000	0	95	Equateur	175	-	175	161	-	161
+HT	19.0000000000	-72.4166700000	0	95	Haïti	173	-	173	239	-	239
+AO	-12.5000000000	18.5000000000	0	95	Angola	153	-	153	104	-	104
+JO	31.0000000000	36.0000000000	0	95	Jordanie	147	-	147	217	-	217
+UG	2.0000000000	33.0000000000	0	95	Ouganda	140	-	140	273	-	273
+LK	7.0000000000	81.0000000000	0	95	Sri Lanka	136	-	136	98	-	98
+GH	8.1000000000	-1.2000000000	0	95	Ghana	128	-	128	173	-	173
+LA	18.0000000000	105.0000000000	0	95	Laos	123	-	123	32	-	32
+BO	-17.0000000000	-65.0000000000	0	95	Bolivie	106	-	106	117	-	117
+EG	27.0000000000	30.0000000000	0	95	Egypte	87	-	87	37	-	37
+CM	6.0000000000	12.0000000000	0	95	Cameroun	87	-	87	89	-	89
+KE	1.0000000000	38.0000000000	0	95	Kenya	76	-	76	89	-	89
+			0	95	Centrafricaine, Rép.	76	-	76	81	-	81
+ET	8.0000000000	38.0000000000	0	95	Ethiopie	75	-	75	24	-	24
+			0	95	Afrique centrale, régional	73	-	73	139	-	139
+			0	95	Asie du Sud-Est, régional	55	-	55	8	-	8
+VN	16.1666700000	107.8333300000	0	95	Viet Nam	31	-	31	137	-	137
+CO	4.0000000000	-72.0000000000	0	95	Colombie	21	-	21	13	-	13
+			0	95	Gaza et Cisjordanie	21	-	21	72	-	72
+BF	13.0000000000	-2.0000000000	0	95	Burkina Faso	18	-	18	41	-	41
+CN	35.0000000000	105.0000000000	0	95	Chine	15	-	15	29	-	29
+SL	8.5000000000	-11.5000000000	0	95	Sierra Leone	13	-	13	-	-	-
+			0	95	Divers	36	-	36	908	-	908
+			1	96	CEAS Suisse - Centre Écologique Albert Schweitzer	210	-	210	189	-	189
+BF	13.0000000000	-2.0000000000	0	96	Burkina Faso	154	-	154	80	-	80
+			0	96	PED, non spécifié	36	-	36	11	-	11
+MG	-20.0000000000	47.0000000000	0	96	Madagascar	14	-	14	70	-	70
+			0	96	Divers	6	-	6	28	-	28
+			1	97	CEU - Associazione Cooperazione Essere Umani	92	-	92	..	..	..
+SN	14.0000000000	-14.0000000000	0	97	Sénégal	92	-	92	..	..	..
+			1	98	CFD - Christlicher Friedensdienst	291	-	291	496	-	496
+BA	44.2500000000	17.8333300000	0	98	Bosnie-Herzégovine	121	-	121	85	-	85
+			0	98	Gaza et Cisjordanie	75	-	75	187	-	187
+MA	32.0000000000	-5.0000000000	0	98	Maroc	68	-	68	62	-	62
+XK	42.5833300000	21.0000000000	0	98	Kosovo	28	-	28	42	-	42
+			0	98	Divers	-	-	-	120	-	120
+			1	99	Children Action	2'145	109	2'254	665	113	778
+			0	99	PED, non spécifié	1'334	-	1'334	69	-	69
+VN	16.1666700000	107.8333300000	0	99	Viet Nam	490	-	490	398	-	398
+AR	-34.0000000000	-64.0000000000	0	99	Argentine	126	-	126	78	-	78
+RO	46.0000000000	25.0000000000	0	99	Roumanie	-	109	109	-	113	113
+PE	-10.0000000000	-76.0000000000	0	99	Pérou	87	-	87	71	-	71
+KE	1.0000000000	38.0000000000	0	99	Kenya	75	-	75	-	-	-
+CM	6.0000000000	12.0000000000	0	99	Cameroun	34	-	34	44	-	44
+			0	99	Divers	-	-	-	6	-	6
+			1	100	Children Welfare Association Schweiz	75	-	75	..	..	..
+NP	28.0000000000	84.0000000000	0	100	Népal	75	-	75	..	..	..
+			1	101	Christkatholisches Hilfswerk Partner sein	152	3	155	173	3	176
+PH	13.0000000000	122.0000000000	0	101	Philippines	45	-	45	39	-	39
+			0	101	Congo (Rép. dém.)	40	-	40	72	-	72
+UG	2.0000000000	33.0000000000	0	101	Ouganda	37	-	37	43	-	43
+TZ	-6.0000000000	35.0000000000	0	101	Tanzanie	16	-	16	13	-	13
+			0	101	Divers	14	3	17	7	3	10
+			1	102	CIFEDHOP	162	-	162	-	-	-
+			0	102	PED, non spécifié	162	-	162	-	-	-
+			1	103	CIOMAL - Comité International de l'Ordre de Malte	156	-	156	..	..	..
+KH	13.0000000000	105.0000000000	0	103	Cambodge	156	-	156	..	..	..
+			1	104	Cisol Suiza	70	-	70	-	-	-
+EC	-2.0000000000	-77.5000000000	0	104	Equateur	70	-	70	-	-	-
+			1	105	Cleft-Children International	1'360	-	1'360	1'863	-	1'863
+ID	-5.0000000000	120.0000000000	0	105	Inde	1'360	-	1'360	1'863	-	1'863
+			1	106	CLEUS	37	-	37	..	..	..
+HT	19.0000000000	-72.4166700000	0	106	Haïti	37	-	37	..	..	..
+			1	107	Collectif Urgence Palestine - Genève	2	-	2	..	..	..
+			1	108	Comité suisse de soutien au peuple sahraoui	8	-	8	18	-	18
+			1	109	Connexio	355	-	355	512	-	512
+			0	109	Congo (Rép. dém.)	130	-	130	183	-	183
+			0	109	PED, non spécifié	72	-	72	69	-	69
+BO	-17.0000000000	-65.0000000000	0	109	Bolivie	49	-	49	59	-	59
+CL	-30.0000000000	-71.0000000000	0	109	Chili	34	-	34	42	-	42
+MK	41.8333300000	22.0000000000	0	109	Macédoine	22	-	22	22	-	22
+KH	13.0000000000	105.0000000000	0	109	Cambodge	22	-	22	30	-	30
+AR	-34.0000000000	-64.0000000000	0	109	Argentine	18	-	18	44	-	44
+			0	109	Divers	9	-	9	63	-	63
+			1	110	CO-OPERAID	420	-	420	1'027	-	1'027
+PH	13.0000000000	122.0000000000	0	110	Philippines	126	-	126	236	-	236
+KE	1.0000000000	38.0000000000	0	110	Kenya	100	-	100	212	-	212
+UG	2.0000000000	33.0000000000	0	110	Ouganda	94	-	94	163	-	163
+LK	7.0000000000	81.0000000000	0	110	Sri Lanka	40	-	40	230	-	230
+BD	24.0000000000	90.0000000000	0	110	Bangladesh	37	-	37	131	-	131
+TH	15.0000000000	100.0000000000	0	110	Thaïlande	16	-	16	21	-	21
+			0	110	Divers	8	-	8	34	-	34
+			1	111	Coup de Pouce à l'ADAPSO	5	-	5	..	..	..
+			1	112	Coup de pouce Suisse-Haïti	40	-	40	57	-	57
+HT	19.0000000000	-72.4166700000	0	112	Haïti	40	-	40	57	-	57
+			1	113	Couvent Ste Ursule Sion	366	-	366	455	2	457
+CI	8.0000000000	-5.0000000000	0	113	Côte d'Ivoire	313	-	313	422	-	422
+VN	16.1666700000	107.8333300000	0	113	Viet Nam	13	-	13	2	-	2
+			0	113	Divers	40	-	40	31	2	33
+			1	114	Das Hunger Projekt Schweiz - Le Projet Faim Suisse	91	-	91	163	-	163
+MZ	-18.2500000000	35.0000000000	0	114	Mozambique	57	-	57	-	-	-
+BF	13.0000000000	-2.0000000000	0	114	Burkina Faso	34	-	34	103	-	103
+			0	114	Divers	-	-	-	60	-	60
+			1	115	Dimmbal.ch	63	-	63	31	-	31
+ML	18.0000000000	-2.0000000000	0	115	Mali	63	-	63	31	-	31
+			1	116	DM - échange et mission	1'088	-	1'088	999	-	999
+RW	-2.0000000000	30.0000000000	0	117	Rwanda	217	-	217	169	-	169
+			0	117	PED, non spécifié	191	-	191	209	-	209
+TG	8.0000000000	1.1666700000	0	117	Togo	148	-	148	60	-	60
+MG	-20.0000000000	47.0000000000	0	117	Madagascar	130	-	130	130	-	130
+CM	6.0000000000	12.0000000000	0	117	Cameroun	91	-	91	161	-	161
+			0	117	Congo (Rép. dém.)	70	-	70	71	-	71
+CU	22.0000000000	-79.5000000000	0	117	Cuba	51	-	51	39	-	39
+ZA	-29.0000000000	24.0000000000	0	117	Afrique du Sud	45	-	45	40	-	40
+MX	23.0000000000	-102.0000000000	0	117	Mexique	42	-	42	54	-	54
+MZ	-18.2500000000	35.0000000000	0	117	Mozambique	41	-	41	14	-	14
+KE	1.0000000000	38.0000000000	0	117	Kenya	41	-	41	26	-	26
+AO	-12.5000000000	18.5000000000	0	117	Angola	18	-	18	20	-	20
+			0	117	Divers	3	-	3	6	-	6
+			1	118	Dritt-Welt-Verein Wädenswil	70	-	70	62	-	62
+			0	118	Congo (Rép. dém.)	70	-	70	62	-	62
+			1	119	DROPS Schweiz	20	-	20	..	..	..
+LB	33.8333300000	35.8333300000	0	119	Liban	20	-	20	..	..	..
+			1	120	EBM - Europäische Baptistische Mission - Schweizer Zweig	342	-	342	413	-	413
+ID	-5.0000000000	120.0000000000	0	120	Inde	153	-	153	216	-	216
+			0	120	Centrafricaine, Rép.	80	-	80	78	-	78
+CM	6.0000000000	12.0000000000	0	120	Cameroun	50	-	50	88	-	88
+			0	120	Amérique du Sud, régional	32	-	32	19	-	19
+PE	-10.0000000000	-76.0000000000	0	120	Pérou	27	-	27	-	-	-
+			0	120	Divers	-	-	-	12	-	12
+			1	121	E-Changer	586	-	586	665	-	665
+BR	-10.0000000000	-55.0000000000	0	121	Brésil	135	-	135	206	-	206
+NI	13.0000000000	-85.0000000000	0	121	Nicaragua	124	-	124	95	-	95
+BF	13.0000000000	-2.0000000000	0	121	Burkina Faso	117	-	117	93	-	93
+BO	-17.0000000000	-65.0000000000	0	121	Bolivie	108	-	108	148	-	148
+CO	4.0000000000	-72.0000000000	0	121	Colombie	96	-	96	110	-	110
+			0	121	Divers	6	-	6	12	-	12
+			1	122	EcoSolidar	413	-	413	452	-	452
+BO	-17.0000000000	-65.0000000000	0	122	Bolivie	181	-	181	234	-	234
+PH	13.0000000000	122.0000000000	0	122	Philippines	83	-	83	52	-	52
+KH	13.0000000000	105.0000000000	0	122	Cambodge	58	-	58	65	-	65
+CR	10.0000000000	-84.0000000000	0	122	Costa Rica	25	-	25	18	-	18
+PE	-10.0000000000	-76.0000000000	0	122	Pérou	22	-	22	21	-	21
+PG	-6.0000000000	147.0000000000	0	122	Inde	19	-	19	-	-	-
+MW	-13.5000000000	34.0000000000	0	122	Malawi	14	-	14	42	-	42
+			0	122	PED, non spécifié	12	-	12	2	-	2
+			0	122	Divers	-	-	-	21	-	21
+			1	123	EDM - Enfants du Monde	886	-	886	634	-	634
+NE	18.0000000000	9.0000000000	0	123	Niger	318	-	318	250	-	250
+GT	15.5000000000	-90.2500000000	0	123	Guatemala	194	-	194	4	-	4
+BF	13.0000000000	-2.0000000000	0	123	Burkina Faso	138	-	138	130	-	130
+CO	4.0000000000	-72.0000000000	0	123	Colombie	75	-	75	34	-	34
+BD	24.0000000000	90.0000000000	0	123	Bangladesh	55	-	55	85	-	85
+			0	123	PED, non spécifié	55	-	55	41	-	41
+SV	13.8333300000	-88.9166700000	0	123	El Salvador	51	-	51	35	-	35
+			0	123	Divers	1	-	1	55	-	55
+			1	124	EEF - Equal Education Fund	191	-	191	201	-	201
+PK	30.0000000000	70.0000000000	0	124	Pakistan	65	-	65	61	-	61
+ZM	-15.0000000000	30.0000000000	0	124	Zambie	65	-	65	59	-	59
+NI	13.0000000000	-85.0000000000	0	124	Nicaragua	61	-	61	80	-	80
+			1	125	Eirene Suisse	145	-	145	261	-	261
+HT	19.0000000000	-72.4166700000	0	125	Haïti	49	-	49	210	-	210
+RW	-2.0000000000	30.0000000000	0	125	Rwanda	31	-	31	19	-	19
+			0	125	PED, non spécifié	22	-	22	-	-	-
+NI	13.0000000000	-85.0000000000	0	125	Nicaragua	20	-	20	2	-	2
+SV	13.8333300000	-88.9166700000	0	125	El Salvador	17	-	17	14	-	14
+			0	125	Divers	5	-	5	16	-	16
+			1	126	Emmaus Zürich	353	-	353	..	..	..
+ID	-5.0000000000	120.0000000000	0	126	Inde	150	-	150	..	..	..
+TH	15.0000000000	100.0000000000	0	126	Thaïlande	122	-	122	..	..	..
+VN	16.1666700000	107.8333300000	0	126	Viet Nam	56	-	56	..	..	..
+AF	33.0000000000	66.0000000000	0	126	Afghanistan	10	-	10	..	..	..
+TG	8.0000000000	1.1666700000	0	126	Togo	10	-	10	..	..	..
+			0	126	Divers	5	-	5	-	-	-
+			1	127	Encontro - Verein für Kulturaustausch Bahia - Baden	4	-	4	11	-	11
+			1	128	Enfants de Tanzanie	22	-	22	20	-	20
+TZ	-6.0000000000	35.0000000000	0	128	Tanzanie	22	-	22	20	-	20
+			1	129	ESOFE Suisse	19	-	19	12	-	12
+CM	6.0000000000	12.0000000000	0	129	Cameroun	19	-	19	12	-	12
+			1	130	Ethos Open Hands	-	2'405	2'405	-	-	-
+RO	46.0000000000	25.0000000000	0	130	Roumanie	-	2'405	2'405	-	-	-
+			1	131	Fairmed	3'128	-	3'128	4'815	-	4'815
+CM	6.0000000000	12.0000000000	0	131	Cameroun	1'094	-	1'094	858	-	858
+PG	-6.0000000000	147.0000000000	0	131	Inde	1'085	-	1'085	1'358	-	1'358
+			0	131	PED, non spécifié	326	-	326	1'801	-	1'801
+			0	131	Centrafricaine, Rép.	206	-	206	254	-	254
+LK	7.0000000000	81.0000000000	0	131	Sri Lanka	142	-	142	99	-	99
+CI	8.0000000000	-5.0000000000	0	131	Côte d'Ivoire	100	-	100	151	-	151
+ET	8.0000000000	38.0000000000	0	131	Ethiopie	48	-	48	27	-	27
+NP	28.0000000000	84.0000000000	0	131	Népal	36	-	36	119	-	119
+GW	12.0000000000	-15.0000000000	0	131	Guinée-Bissau	24	-	24	26	-	26
+MZ	-18.2500000000	35.0000000000	0	131	Mozambique	18	-	18	19	-	19
+CO	4.0000000000	-72.0000000000	0	131	Colombie	18	-	18	19	-	19
+GA	-1.0000000000	11.7500000000	0	131	Gabon	14	-	14	24	-	24
+			0	131	Divers	16	-	16	60	-	60
+			1	132	Fastenopfer	8'375	-	8'375	7'343	-	7'343
+			0	132	PED, non spécifié	1'074	-	1'074	716	-	716
+PG	-6.0000000000	147.0000000000	0	132	Inde	708	-	708	578	-	578
+CO	4.0000000000	-72.0000000000	0	132	Colombie	692	-	692	358	-	358
+PH	13.0000000000	122.0000000000	0	132	Philippines	641	-	641	669	-	669
+			0	132	Congo (Rép. dém.)	563	-	563	797	-	797
+MG	-20.0000000000	47.0000000000	0	132	Madagascar	561	-	561	550	-	550
+BR	-10.0000000000	-55.0000000000	0	132	Brésil	549	-	549	519	-	519
+GT	15.5000000000	-90.2500000000	0	132	Guatemala	436	-	436	416	-	416
+LA	18.0000000000	105.0000000000	0	132	Laos	434	-	434	-	-	-
+PE	-10.0000000000	-76.0000000000	0	132	Pérou	420	-	420	339	-	339
+NP	28.0000000000	84.0000000000	0	132	Népal	404	-	404	382	-	382
+ZA	-29.0000000000	24.0000000000	0	132	Afrique du Sud	385	-	385	292	-	292
+BF	13.0000000000	-2.0000000000	0	132	Burkina Faso	365	-	365	343	-	343
+KE	1.0000000000	38.0000000000	0	132	Kenya	307	-	307	316	-	316
+SN	14.0000000000	-14.0000000000	0	132	Sénégal	306	-	306	358	-	358
+HT	19.0000000000	-72.4166700000	0	132	Haïti	283	-	283	603	-	603
+MX	23.0000000000	-102.0000000000	0	132	Mexique	127	-	127	-	-	-
+			0	132	Amérique du Sud, régional	65	-	65	71	-	71
+			0	132	Afrique, régional	56	-	56	35	-	35
+			1	133	FEB - Fondation en faveur des enfants brûlés d'Assiut	50	-	50	162	-	162
+EG	27.0000000000	30.0000000000	0	133	Egypte	50	-	50	162	-	162
+			1	134	FEPA - Fonds für Entwicklung und Partnerschaft in Afrika	162	-	162	187	-	187
+ZW	-19.0000000000	29.0000000000	0	134	Zimbabwe	74	-	74	135	-	135
+ZA	-29.0000000000	24.0000000000	0	134	Afrique du Sud	56	-	56	24	-	24
+MZ	-18.2500000000	35.0000000000	0	134	Mozambique	25	-	25	28	-	28
+			0	134	Divers	7	-	7	-	-	-
+			1	135	FH Suisse	298	-	298	464	-	464
+BI	-3.5000000000	30.0000000000	0	135	Burundi	198	-	198	259	-	259
+RW	-2.0000000000	30.0000000000	0	135	Rwanda	36	-	36	36	-	36
+UG	2.0000000000	33.0000000000	0	135	Ouganda	35	-	35	54	-	54
+			0	135	Congo (Rép. dém.)	14	-	14	5	-	5
+			0	135	Divers	14	-	14	110	-	110
+			1	136	Fondation Aide aux Enfants	662	-	662	536	-	536
+CO	4.0000000000	-72.0000000000	0	136	Colombie	662	-	662	536	-	536
+			1	137	Fondation EcoFormation	870	-	870	..	..	..
+MG	-20.0000000000	47.0000000000	0	137	Madagascar	870	-	870	..	..	..
+			1	138	Fondation Hirondelle	11	-	11	93	-	93
+			1	139	Fondation KASA - Komitas Action Suisse Arménie	217	-	217	489	-	489
+AM	40.0000000000	45.0000000000	0	139	Arménie	217	-	217	489	-	489
+			1	140	Fondation Moi pour toit	677	-	677	753	-	753
+CO	4.0000000000	-72.0000000000	0	140	Colombie	677	-	677	753	-	753
+			1	141	Fondation Sentinelles	1'274	1	1'275	1'440	3	1'442
+NE	18.0000000000	9.0000000000	0	141	Niger	374	-	374	293	-	293
+BF	13.0000000000	-2.0000000000	0	141	Burkina Faso	199	-	199	246	-	246
+MG	-20.0000000000	47.0000000000	0	141	Madagascar	191	-	191	212	-	212
+SN	14.0000000000	-14.0000000000	0	141	Sénégal	176	-	176	205	-	205
+CO	4.0000000000	-72.0000000000	0	141	Colombie	119	-	119	174	-	174
+BR	-10.0000000000	-55.0000000000	0	141	Brésil	79	-	79	94	-	94
+KE	1.0000000000	38.0000000000	0	141	Kenya	65	-	65	89	-	89
+			0	141	Congo (Rép. dém.)	61	-	61	93	-	93
+			0	141	Divers	12	1	12	32	3	35
+			1	142	Fondation Sociale Suisse du Nord-Cameroun	250	-	250	250	-	250
+CM	6.0000000000	12.0000000000	0	142	Cameroun	250	-	250	250	-	250
+			1	143	Fondation Suisse-Santé-Haïti	480	-	480	..	..	..
+HT	19.0000000000	-72.4166700000	0	143	Haïti	480	-	480	..	..	..
+			1	144	Fondation SURGIR	38	-	38	-	-	-
+ID	-5.0000000000	120.0000000000	0	144	Inde	38	-	38	-	-	-
+			1	145	Fondation Terre des hommes	26'629	402	27'030	32'547	389	32'936
+			0	145	PED, non spécifié	6'992	-	6'992	7'046	-	7'046
+HT	19.0000000000	-72.4166700000	0	145	Haïti	4'203	-	4'203	5'512	-	5'512
+LK	7.0000000000	81.0000000000	0	145	Sri Lanka	1'171	-	1'171	1'356	-	1'356
+BF	13.0000000000	-2.0000000000	0	145	Burkina Faso	1'048	-	1'048	709	-	709
+ID	-5.0000000000	120.0000000000	0	145	Inde	1'000	-	1'000	745	-	745
+BI	-3.5000000000	30.0000000000	0	145	Burundi	931	-	931	403	-	403
+EG	27.0000000000	30.0000000000	0	145	Egypte	872	-	872	1'072	-	1'072
+BJ	9.5000000000	2.2500000000	0	145	Bénin	768	-	768	703	-	703
+BR	-10.0000000000	-55.0000000000	0	145	Brésil	697	-	697	1'355	-	1'355
+AL	41.0000000000	20.0000000000	0	145	Albanie	686	-	686	759	-	759
+			0	145	Soudan (sans le Sud)	682	-	682	1'316	-	1'316
+CO	4.0000000000	-72.0000000000	0	145	Colombie	663	-	663	517	-	517
+AF	33.0000000000	66.0000000000	0	145	Afghanistan	594	-	594	3'248	-	3'248
+TG	8.0000000000	1.1666700000	0	145	Togo	567	-	567	617	-	617
+NP	28.0000000000	84.0000000000	0	145	Népal	548	-	548	580	-	580
+			0	145	Gaza et Cisjordanie	526	-	526	220	-	220
+NI	13.0000000000	-85.0000000000	0	145	Nicaragua	509	-	509	412	-	412
+BD	24.0000000000	90.0000000000	0	145	Bangladesh	457	-	457	785	-	785
+MZ	-18.2500000000	35.0000000000	0	145	Mozambique	428	-	428	478	-	478
+PE	-10.0000000000	-76.0000000000	0	145	Pérou	407	-	407	434	-	434
+RO	46.0000000000	25.0000000000	0	145	Roumanie	-	402	402	-	389	389
+MD	47.0000000000	29.0000000000	0	145	Moldavie	395	-	395	351	-	351
+GN	11.0000000000	-10.0000000000	0	145	Guinée	334	-	334	302	-	302
+			0	145	Afrique de l'Est, régional	332	-	332	-	-	-
+MR	20.0000000000	-12.0000000000	0	145	Mauritanie	294	-	294	431	-	431
+SY	35.0000000000	38.0000000000	0	145	Syrie	288	-	288	544	-	544
+BD	24.0000000000	90.0000000000	0	145	Pakistan	288	-	288	-	-	-
+XK	42.5833300000	21.0000000000	0	145	Kosovo	273	-	273	257	-	257
+SN	14.0000000000	-14.0000000000	0	145	Sénégal	225	-	225	247	-	247
+LB	33.8333300000	35.8333300000	0	145	Liban	191	-	191	391	-	391
+MA	32.0000000000	-5.0000000000	0	145	Maroc	149	-	149	118	-	118
+MM	22.0000000000	98.0000000000	0	145	Myanmar	67	-	67	599	-	599
+ID	-5.0000000000	120.0000000000	0	145	Indonésie	42	-	42	476	-	476
+CL	-30.0000000000	-71.0000000000	0	145	Chili	40	-	40	-	-	-
+EC	-2.0000000000	-77.5000000000	0	145	Equateur	-36	-	-36	283	-	283
+			0	145	Divers	1	-	1	282	-	282
+			1	146	Fondation TerrEspoir	10	-	10	-	-	-
+CM	6.0000000000	12.0000000000	0	146	Cameroun	10	-	10	-	-	-
+			1	147	Fondazione Don Bosco nel Mondo	3'042	364	3'407	1'215	-	1'215
+BI	-3.5000000000	30.0000000000	0	147	Burundi	1'243	-	1'243	15	-	15
+HT	19.0000000000	-72.4166700000	0	147	Haïti	1'215	-	1'215	50	-	50
+DJ	11.5000000000	42.5000000000	0	147	Djibouti	376	-	376	178	-	178
+IL	31.5000000000	34.7500000000	0	147	Israël	-	364	364	-	-	-
+ET	8.0000000000	38.0000000000	0	147	Ethiopie	140	-	140	81	-	81
+EC	-2.0000000000	-77.5000000000	0	147	Equateur	32	-	32	24	-	24
+PG	-6.0000000000	147.0000000000	0	147	Inde	20	-	20	57	-	57
+			0	147	Divers	17	-	17	809	-	809
+			1	148	Förderverein Kinder der Zukunft	40	-	40	40	-	40
+PE	-10.0000000000	-76.0000000000	0	148	Pérou	40	-	40	40	-	40
+			1	149	Förderverein Mad'Eole Schweiz	300	-	300	350	-	350
+MG	-20.0000000000	47.0000000000	0	149	Madagascar	300	-	300	350	-	350
+			1	150	Förderverein Variant 5	-	76	76	-	75	75
+BG	43.0000000000	25.0000000000	0	150	Bulgarie	-	76	76	-	75	75
+			1	151	Fraternitas Humana	285	-	285	187	-	187
+PE	-10.0000000000	-76.0000000000	0	151	Pérou	285	-	285	187	-	187
+			1	152	Frauen für den Frieden Schweiz	21	4	25	31	4	35
+			1	153	Friends of Humanity (FOH)	70	-	70	..	..	..
+PG	-6.0000000000	147.0000000000	0	153	Inde	28	-	28	..	..	..
+BI	-3.5000000000	30.0000000000	0	153	Burundi	20	-	20	..	..	..
+NP	28.0000000000	84.0000000000	0	153	Népal	14	-	14	..	..	..
+			0	153	Divers	8	-	8	-	-	-
+			1	154	Friends of Kisimiri, KME Switzerland	91	-	91	..	..	..
+TZ	-6.0000000000	35.0000000000	0	154	Tanzanie	91	-	91	..	..	..
+			1	155	FXB International	931	-	931	1'509	-	1'509
+ID	-5.0000000000	120.0000000000	0	155	Inde	333	-	333	586	-	586
+RW	-2.0000000000	30.0000000000	0	155	Rwanda	128	-	128	72	-	72
+BI	-3.5000000000	30.0000000000	0	155	Burundi	94	-	94	146	-	146
+ZA	-29.0000000000	24.0000000000	0	155	Afrique du Sud	91	-	91	82	-	82
+UG	2.0000000000	33.0000000000	0	155	Ouganda	83	-	83	135	-	135
+			0	155	PED, non spécifié	81	-	81	63	-	63
+CN	35.0000000000	105.0000000000	0	155	Chine	66	-	66	152	-	152
+TH	15.0000000000	100.0000000000	0	155	Thaïlande	28	-	28	85	-	85
+MM	22.0000000000	98.0000000000	0	155	Myanmar	27	-	27	188	-	188
+			1	156	GfbV / SPM	223	-	223	265	42	307
+IQ	33.0000000000	44.0000000000	0	156	Iraq	146	-	146	184	-	184
+			0	156	PED, non spécifié	39	-	39	-	-	-
+BR	-10.0000000000	-55.0000000000	0	156	Brésil	19	-	19	14	-	14
+XK	42.5833300000	21.0000000000	0	156	Kosovo	18	-	18	39	-	39
+			0	156	Divers	1	-	1	27	42	70
+			1	157	GloboSol	17	-	17	21	-	21
+			1	158	Grandir à Butare	4	-	4	5	-	5
+			1	159	Grupo Sofonias	60	-	60	85	-	85
+HT	19.0000000000	-72.4166700000	0	159	Haïti	50	-	50	85	-	85
+NA	-22.0000000000	17.0000000000	0	159	Namibie	10	-	10	-	-	-
+			1	160	GSGB - Gruppo di Sostegno ai Guaranì della Bolivia	39	-	39	44	-	44
+BO	-17.0000000000	-65.0000000000	0	160	Bolivie	39	-	39	44	-	44
+			1	161	Guinkouma	53	-	53	49	-	49
+BF	13.0000000000	-2.0000000000	0	161	Burkina Faso	53	-	53	41	-	41
+			0	161	Divers	-	-	-	8	-	8
+			1	162	GVSI - Gruppo Volontari della Svizzera Italiana	46	-	46	31	-	31
+MX	23.0000000000	-102.0000000000	0	162	Mexique	39	-	39	26	-	26
+			0	162	Divers	7	-	7	5	-	5
+			1	163	Handicap International Suisse	4'567	-	4'567	3'110	-	3'110
+HT	19.0000000000	-72.4166700000	0	163	Haïti	1'991	-	1'991	240	-	240
+BD	24.0000000000	90.0000000000	0	163	Pakistan	862	-	862	249	-	249
+PH	13.0000000000	122.0000000000	0	163	Philippines	701	-	701	322	-	322
+LK	7.0000000000	81.0000000000	0	163	Sri Lanka	174	-	174	291	-	291
+LY	28.0000000000	17.0000000000	0	163	Libye	171	-	171	-	-	-
+ID	-5.0000000000	120.0000000000	0	163	Indonésie	169	-	169	602	-	602
+			0	163	Afrique de l'Est, régional	86	-	86	-	-	-
+ET	8.0000000000	38.0000000000	0	163	Ethiopie	85	-	85	50	-	50
+SM	43.9367000000	12.4463000000	0	163	Mali	82	-	82	21	-	21
+SL	8.5000000000	-11.5000000000	0	163	Sierra Leone	54	-	54	126	-	126
+TN	34.0000000000	9.0000000000	0	163	Tunisie	42	-	42	8	-	8
+CO	4.0000000000	-72.0000000000	0	163	Colombie	36	-	36	-	-	-
+MA	32.0000000000	-5.0000000000	0	163	Maroc	30	-	30	165	-	165
+			0	163	Moyen-Orient, régional	28	-	28	53	-	53
+DZ	28.0000000000	3.0000000000	0	163	Algérie	13	-	13	76	-	76
+NP	28.0000000000	84.0000000000	0	163	Népal	11	-	11	14	-	14
+KH	13.0000000000	105.0000000000	0	163	Cambodge	11	-	11	29	-	29
+			0	163	Divers	20	-	20	865	-	865
+			1	164	Handicap Solidaire	32	-	32	20	-	20
+BF	13.0000000000	-2.0000000000	0	164	Burkina Faso	32	-	32	20	-	20
+			1	165	Hans Haller-Stiftung	49	-	49	70	-	70
+BR	-10.0000000000	-55.0000000000	0	165	Brésil	49	-	49	70	-	70
+			1	166	Heilsarmee	1'878	-	1'878	3'156	-	3'157
+HT	19.0000000000	-72.4166700000	0	166	Haïti	479	-	479	591	-	591
+PK	30.0000000000	70.0000000000	0	166	Pakistan	291	-	291	95	-	95
+KE	1.0000000000	38.0000000000	0	166	Kenya	288	-	288	530	-	530
+BR	-10.0000000000	-55.0000000000	0	166	Brésil	138	-	138	389	-	389
+EC	-2.0000000000	-77.5000000000	0	166	Equateur	97	-	97	107	-	107
+			0	166	Congo (Rép.)	80	-	80	265	-	265
+MM	22.0000000000	98.0000000000	0	166	Myanmar	70	-	70	44	-	44
+ZW	-19.0000000000	29.0000000000	0	166	Zimbabwe	67	-	67	272	-	272
+CL	-30.0000000000	-71.0000000000	0	166	Chili	61	-	61	31	-	31
+KP	40.0000000000	127.0000000000	0	166	Corée du Nord	48	-	48	17	-	17
+			0	166	Afrique de l'Est, régional	41	-	41	-	-	-
+PG	-6.0000000000	147.0000000000	0	166	Inde	29	-	29	10	-	10
+			0	166	Congo (Rép. dém.)	28	-	28	87	-	87
+PY	-22.9933300000	-57.9963900000	0	166	Paraguay	26	-	26	13	-	13
+PH	13.0000000000	122.0000000000	0	166	Philippines	22	-	22	16	-	16
+ZM	-15.0000000000	30.0000000000	0	166	Zambie	19	-	19	286	-	286
+			0	166	Afrique australe, régional	15	-	15	-	-	-
+PA	9.0000000000	-80.0000000000	0	166	Panama	15	-	15	9	-	9
+AO	-12.5000000000	18.5000000000	0	166	Angola	14	-	14	-	-	-
+PE	-10.0000000000	-76.0000000000	0	166	Pérou	11	-	11	3	-	3
+LK	7.0000000000	81.0000000000	0	166	Sri Lanka	11	-	11	13	-	13
+			0	166	Divers	27	-	27	379	-	380
+			1	167	HEKS / EPER	13'187	265	13'452	17'487	238	17'726
+ET	8.0000000000	38.0000000000	0	167	Ethiopie	1'871	-	1'871	1'046	-	1'046
+HT	19.0000000000	-72.4166700000	0	167	Haïti	1'552	-	1'552	2'634	-	2'634
+PH	13.0000000000	122.0000000000	0	167	Philippines	950	-	950	1'275	-	1'275
+ID	-5.0000000000	120.0000000000	0	167	Indonésie	766	-	766	791	-	791
+			0	167	Gaza et Cisjordanie	678	-	678	636	-	636
+BD	24.0000000000	90.0000000000	0	167	Pakistan	676	-	676	1'408	-	1'408
+			0	167	Congo (Rép. dém.)	662	-	662	623	-	623
+NE	18.0000000000	9.0000000000	0	167	Niger	527	-	527	1'075	-	1'075
+BD	24.0000000000	90.0000000000	0	167	Bangladesh	477	-	477	535	-	535
+AL	41.0000000000	20.0000000000	0	167	Albanie	420	-	420	504	-	504
+BR	-10.0000000000	-55.0000000000	0	167	Brésil	417	-	417	466	-	466
+			0	167	PED, non spécifié	397	-	397	178	-	178
+SS	7.5000000000	30.0000000000	0	167	Soudan du Sud	396	-	396	-	-	-
+RS	44.8189200000	20.4599800000	0	167	Serbie	377	-	377	77	-	77
+ZW	-19.0000000000	29.0000000000	0	167	Zimbabwe	369	-	369	589	-	589
+MD	47.0000000000	29.0000000000	0	167	Moldavie	357	-	357	405	-	405
+PG	-6.0000000000	147.0000000000	0	167	Inde	352	-	352	402	-	402
+CO	4.0000000000	-72.0000000000	0	167	Colombie	340	-	340	507	-	507
+RO	46.0000000000	25.0000000000	0	167	Roumanie	-	265	265	-	238	238
+SN	14.0000000000	-14.0000000000	0	167	Sénégal	261	-	261	418	-	418
+ZA	-29.0000000000	24.0000000000	0	167	Afrique du Sud	188	-	188	235	-	235
+GT	15.5000000000	-90.2500000000	0	167	Guatemala	187	-	187	301	-	301
+			0	167	Asie centrale, régional	181	-	181	145	-	145
+			0	167	Europe de l'Est, régional	161	-	161	-	-	-
+KH	13.0000000000	105.0000000000	0	167	Cambodge	156	-	156	317	-	317
+BZ	17.2500000000	-88.7500000000	0	167	Honduras	149	-	149	311	-	311
+			0	167	Erythrée	135	-	135	293	-	293
+AZ	40.5000000000	47.5000000000	0	167	Azerbaïdjan	117	-	117	88	-	88
+AM	40.0000000000	45.0000000000	0	167	Arménie	95	-	95	108	-	108
+TR	39.0590100000	34.9115500000	0	167	Turquie	42	-	42	-	-	-
+LB	33.8333300000	35.8333300000	0	167	Liban	30	-	30	-	-	-
+			0	167	Europe, régional	23	-	23	770	-	770
+MX	23.0000000000	-102.0000000000	0	167	Mexique	20	-	20	34	-	34
+GE	41.9999800000	43.4999000000	0	167	Géorgie	-146	-	-146	177	-	177
+			0	167	Divers	5	-	5	1'138	-	1'138
+			1	168	HELVETAS Swiss Intercooperation	11'162	-	11'162	12'584	..	12'584
+BJ	9.5000000000	2.2500000000	0	168	Bénin	1'272	-	1'272	1'027	..	1'027
+ML	18.0000000000	-2.0000000000	0	168	Mali	1'046	-	1'046	1'296	..	1'296
+GT	15.5000000000	-90.2500000000	0	168	Guatemala	1'018	-	1'018	917	..	917
+MZ	-18.2500000000	35.0000000000	0	168	Mozambique	1'013	-	1'013	987	..	987
+AF	33.0000000000	66.0000000000	0	168	Afghanistan	908	-	908	927	..	927
+NP	28.0000000000	84.0000000000	0	168	Népal	866	-	866	1'398	..	1'398
+BT	27.5000000000	90.5000000000	0	168	Bhoutan	820	-	820	933	..	933
+ET	8.0000000000	38.0000000000	0	168	Ethiopie	799	-	799	1'002	..	1'002
+LA	18.0000000000	105.0000000000	0	168	Laos	745	-	745	737	..	737
+BF	13.0000000000	-2.0000000000	0	168	Burkina Faso	604	-	604	771	..	771
+BZ	17.2500000000	-88.7500000000	0	168	Honduras	587	-	587	528	..	528
+KG	41.0000000000	75.0000000000	0	168	Kirghizistan	586	-	586	729	..	729
+HT	19.0000000000	-72.4166700000	0	168	Haïti	379	-	379	718	..	718
+VN	16.1666700000	107.8333300000	0	168	Viet Nam	314	-	314	400	..	400
+TJ	39.0000000000	71.0000000000	0	168	Tadjikistan	137	-	137	106	..	106
+TZ	-6.0000000000	35.0000000000	0	168	Tanzanie	45	-	45	43	..	43
+LK	7.0000000000	81.0000000000	0	168	Sri Lanka	22	-	22	66	..	66
+			1	169	Hilfe für Tadschikistan	73	-	73	..	..	..
+TJ	39.0000000000	71.0000000000	0	169	Tadjikistan	73	-	73	..	..	..
+			1	170	Hilfsorganisation Nordosten von Brasilien	5	-	5	5	-	5
+			1	171	Horyzon	657	-	657	936	-	936
+			0	171	Gaza et Cisjordanie	156	-	156	166	-	166
+			0	171	Europe de l'Est, régional	145	-	145	-	-	-
+			0	171	PED, non spécifié	127	-	127	174	-	174
+CO	4.0000000000	-72.0000000000	0	171	Colombie	113	-	113	181	-	181
+BD	24.0000000000	90.0000000000	0	171	Bangladesh	68	-	68	200	-	200
+EC	-2.0000000000	-77.5000000000	0	171	Equateur	27	-	27	46	-	46
+AM	40.0000000000	45.0000000000	0	171	Arménie	21	-	21	33	-	33
+			0	171	Divers	-	-	-	135	-	135
+			1	172	IAMANEH Schweiz	1'315	-	1'315	1'128	-	1'128
+SM	43.9367000000	12.4463000000	0	172	Mali	480	-	480	439	-	439
+BA	44.2500000000	17.8333300000	0	172	Bosnie-Herzégovine	253	-	253	179	-	179
+AL	41.0000000000	20.0000000000	0	172	Albanie	195	-	195	141	-	141
+HT	19.0000000000	-72.4166700000	0	172	Haïti	155	-	155	151	-	151
+TG	8.0000000000	1.1666700000	0	172	Togo	125	-	125	39	-	39
+BF	13.0000000000	-2.0000000000	0	172	Burkina Faso	96	-	96	121	-	121
+SN	14.0000000000	-14.0000000000	0	172	Sénégal	11	-	11	59	-	59
+			1	173	IAS - Ingénieurs et Architectes Solidaires	36	-	36	5	-	5
+BJ	9.5000000000	2.2500000000	0	173	Bénin	30	-	30	-	-	-
+			0	173	Divers	6	-	6	5	-	5
+			1	174	IFPD	92	-	92	109	-	109
+ID	-5.0000000000	120.0000000000	0	174	Inde	92	-	92	109	-	109
+			1	175	InfoSud - Agence de Presse	27	-	27	40	-	40
+			0	175	PED, non spécifié	22	-	22	30	-	30
+			0	175	Divers	5	-	5	10	-	10
+			1	176	Insieme per la Pace	739	-	739	606	-	606
+RW	-2.0000000000	30.0000000000	0	176	Rwanda	727	-	727	601	-	601
+XK	42.5833300000	21.0000000000	0	176	Kosovo	11	-	11	6	-	6
+			1	177	Institut Menzingen	510	-	510	551	-	551
+IN	20.0000000000	77.0000000000	0	177	Inde	177	-	177	135	-	135
+ZA	-29.0000000000	24.0000000000	0	177	Afrique du Sud	102	-	102	109	-	109
+LK	7.0000000000	81.0000000000	0	177	Sri Lanka	91	-	91	78	-	78
+CL	-30.0000000000	-71.0000000000	0	177	Chili	49	-	49	100	-	100
+ZM	-15.0000000000	30.0000000000	0	177	Zambie	40	-	40	46	-	46
+			0	177	PED, non spécifié	36	-	36	71	-	71
+			0	177	Divers	14	-	14	13	-	13
+			1	178	Institut Pater Johann Peter	131	-	131	90	-	90
+BR	-10.0000000000	-55.0000000000	0	178	Brésil	131	-	131	90	-	90
+			1	179	Institut Sainte-Ursule	94	-	94	93	-	93
+TD	15.0000000000	19.0000000000	0	179	Tchad	82	-	82	81	-	81
+			0	179	Congo (Rép. dém.)	12	-	12	12	-	12
+			1	180	Interteam	1'473	-	1'473	1'265	-	1'265
+TZ	-6.0000000000	35.0000000000	0	180	Tanzanie	354	-	354	355	-	355
+NA	-22.0000000000	17.0000000000	0	180	Namibie	344	-	344	268	-	268
+CO	4.0000000000	-72.0000000000	0	180	Colombie	309	-	309	213	-	213
+			0	180	Amérique Centrale (avec Mexique), régional	229	-	229	149	-	149
+BO	-17.0000000000	-65.0000000000	0	180	Bolivie	109	-	109	85	-	85
+NI	13.0000000000	-85.0000000000	0	180	Nicaragua	83	-	83	77	-	77
+			0	180	PED, non spécifié	44	-	44	117	-	117
+			1	181	IPA - International Project Aid	580	-	580	658	-	658
+CM	6.0000000000	12.0000000000	0	181	Cameroun	316	-	316	498	-	498
+AL	41.0000000000	20.0000000000	0	181	Albanie	264	-	264	160	-	160
+			1	182	Islamic Relief Suisse	1'821	-	1'821	995	50	1'045
+DJ	11.5000000000	42.5000000000	0	182	Somalie	780	-	780	-	-	-
+NE	18.0000000000	9.0000000000	0	182	Niger	294	-	294	-	-	-
+BD	24.0000000000	90.0000000000	0	182	Pakistan	280	-	280	-	-	-
+AF	33.0000000000	66.0000000000	0	182	Afghanistan	150	-	150	-	-	-
+			0	182	Gaza et Cisjordanie	98	-	98	550	-	550
+AL	41.0000000000	20.0000000000	0	182	Albanie	78	-	78	125	-	125
+MW	-13.5000000000	34.0000000000	0	182	Malawi	52	-	52	57	-	57
+XK	42.5833300000	21.0000000000	0	182	Kosovo	47	-	47	50	-	50
+BA	44.2500000000	17.8333300000	0	182	Bosnie-Herzégovine	43	-	43	50	-	50
+			0	182	Divers	-	-	-	163	50	213
+			1	183	Jura-Afrique	48	-	48	28	-	28
+BJ	9.5000000000	2.2500000000	0	183	Bénin	48	-	48	28	-	28
+			1	2000	Taderass	63	-	63	74	-	74
+NE	18.0000000000	9.0000000000	0	2000	Niger	63	-	63	74	-	74
+			1	2001	TearFund Schweiz	2'361	-	2'361	1'974	-	1'974
+PE	-10.0000000000	-76.0000000000	0	2001	Pérou	421	-	421	424	-	424
+KE	1.0000000000	38.0000000000	0	2001	Kenya	409	-	409	-	-	-
+SS	7.5000000000	30.0000000000	0	2001	Soudan du Sud	281	-	281	-	-	-
+UG	2.0000000000	33.0000000000	0	2001	Ouganda	248	-	248	209	-	209
+BD	24.0000000000	90.0000000000	0	2001	Bangladesh	210	-	210	192	-	192
+			0	2001	PED, non spécifié	197	-	197	167	-	167
+ZM	-15.0000000000	30.0000000000	0	2001	Zambie	120	-	120	119	-	119
+BD	24.0000000000	90.0000000000	0	2001	Pakistan	101	-	101	138	-	138
+HT	19.0000000000	-72.4166700000	0	2001	Haïti	93	-	93	126	-	126
+MW	-13.5000000000	34.0000000000	0	2001	Malawi	86	-	86	123	-	123
+MM	22.0000000000	98.0000000000	0	2001	Myanmar	48	-	48	-	-	-
+			0	2001	Asie, régional	30	-	30	67	-	67
+ZW	-19.0000000000	29.0000000000	0	2001	Zimbabwe	26	-	26	-	-	-
+			0	2001	Soudan (sans le Sud)	26	-	26	207	-	207
+AF	33.0000000000	66.0000000000	0	2001	Afghanistan	22	-	22	67	-	67
+			0	2001	Congo (Rép. dém.)	15	-	15	43	-	43
+NG	10.0000000000	8.0000000000	0	2001	Nigéria	11	-	11	12	-	12
+LK	7.0000000000	81.0000000000	0	2001	Sri Lanka	10	-	10	3	-	3
+			0	2001	Divers	6	-	6	77	-	77
+			1	2002	TECHshare	5	-	5	5	-	5
+			1	2002	Terre des Hommes Schweiz, Basel	1'438	-	1'438	1'274	-	1'274
+CO	4.0000000000	-72.0000000000	0	2002	Colombie	247	-	247	175	-	175
+SV	13.8333300000	-88.9166700000	0	2002	El Salvador	224	-	224	169	-	169
+TZ	-6.0000000000	35.0000000000	0	2002	Tanzanie	151	-	151	200	-	200
+PE	-10.0000000000	-76.0000000000	0	2002	Pérou	139	-	139	174	-	174
+BR	-10.0000000000	-55.0000000000	0	2002	Brésil	132	-	132	80	-	80
+ZA	-29.0000000000	24.0000000000	0	2002	Afrique du Sud	131	-	131	49	-	49
+NI	13.0000000000	-85.0000000000	0	2002	Nicaragua	128	-	128	105	-	105
+			0	2002	Afrique de l'Est, régional	92	-	92	72	-	72
+MZ	-18.2500000000	35.0000000000	0	2002	Mozambique	88	-	88	178	-	178
+			0	2002	Amérique Centrale (avec Mexique), régional	54	-	54	33	-	33
+			0	2002	PED, non spécifié	53	-	53	38	-	38
+			1	2003	Terre des Hommes Suisse, Genève	1'372	-	1'372	2'391	-	2'391
+HT	19.0000000000	-72.4166700000	0	2003	Haïti	368	-	368	986	-	986
+PE	-10.0000000000	-76.0000000000	0	2003	Pérou	238	-	238	271	-	271
+CO	4.0000000000	-72.0000000000	0	2003	Colombie	212	-	212	370	-	370
+BF	13.0000000000	-2.0000000000	0	2003	Burkina Faso	181	-	181	69	-	69
+BR	-10.0000000000	-55.0000000000	0	2003	Brésil	150	-	150	218	-	218
+BO	-17.0000000000	-65.0000000000	0	2003	Bolivie	52	-	52	75	-	75
+ID	-5.0000000000	120.0000000000	0	2003	Inde	44	-	44	263	-	263
+SN	14.0000000000	-14.0000000000	0	2003	Sénégal	43	-	43	54	-	54
+UY	-33.0000000000	-56.0000000000	0	2003	Uruguay	40	-	40	68	-	68
+MG	-20.0000000000	47.0000000000	0	2003	Madagascar	35	-	35	11	-	11
+			0	2003	Divers	9	-	9	7	-	7
+			1	2004	Terre des hommes Valais	2'670	-	2'670	2'457	-	2'457
+			0	2004	PED, non spécifié	2'670	-	2'670	2'457	-	2'457
+			1	2005	Tibet Institut Rikon	149	-	149	51	-	51
+ID	-5.0000000000	120.0000000000	0	2005	Inde	149	-	149	51	-	51
+			1	2006	TO OM RA Schweiz Sozialprojekte Guatemala	18	-	18	..	..	..
+GT	15.5000000000	-90.2500000000	0	2006	Guatemala	18	-	18	..	..	..
+			1	2007	Togo Projekt	98	-	98	95	-	95
+TG	8.0000000000	1.1666700000	0	2007	Togo	98	-	98	95	-	95
+			1	2008	Traditions pour Demain	64	-	64	..	..	..
+			0	2008	Amérique du Sud, régional	22	-	22	..	..	..
+BO	-17.0000000000	-65.0000000000	0	2008	Bolivie	14	-	14	..	..	..
+EC	-2.0000000000	-77.5000000000	0	2008	Equateur	12	-	12	..	..	..
+			0	2008	Divers	16	-	16	-	-	-
+			1	2009	Unsere Kleinen Brüder und Schwestern	613	-	613	815	-	815
+BZ	17.2500000000	-88.7500000000	0	2009	Honduras	117	-	117	139	-	139
+MX	23.0000000000	-102.0000000000	0	2009	Mexique	112	-	112	139	-	139
+HT	19.0000000000	-72.4166700000	0	2009	Haïti	96	-	96	171	-	171
+			0	2009	Dominicaine, République	71	-	71	57	-	57
+NI	13.0000000000	-85.0000000000	0	2009	Nicaragua	63	-	63	106	-	106
+GT	15.5000000000	-90.2500000000	0	2009	Guatemala	46	-	46	57	-	57
+SV	13.8333300000	-88.9166700000	0	2009	El Salvador	43	-	43	73	-	73
+BO	-17.0000000000	-65.0000000000	0	2009	Bolivie	33	-	33	24	-	24
+PE	-10.0000000000	-76.0000000000	0	2009	Pérou	32	-	32	49	-	49
+			1	2010	Verein Afghanistanhilfe Schaffhausen	655	-	655	500	-	500
+AF	33.0000000000	66.0000000000	0	2010	Afghanistan	655	-	655	500	-	500
+			1	2011	Verein Aktion Bujumbura	170	-	170	180	-	180
+BI	-3.5000000000	30.0000000000	0	2011	Burundi	145	-	145	145	-	145
+MG	-20.0000000000	47.0000000000	0	2011	Madagascar	25	-	25	35	-	35
+			1	2012	Verein Baslerinnen für Bosnierinnen	50	-	50	50	-	50
+BA	44.2500000000	17.8333300000	0	2012	Bosnie-Herzégovine	50	-	50	50	-	50
+			1	2013	Verein CopiiiRo	-	58	58	-	50	50
+RO	46.0000000000	25.0000000000	0	2013	Roumanie	-	58	58	-	50	50
+			1	2014	Verein EcuaSur	51	-	51	31	-	31
+EC	-2.0000000000	-77.5000000000	0	2014	Equateur	51	-	51	31	-	31
+			1	2015	Verein Guatemala-Zentralamerika	277	-	277	169	-	169
+GT	15.5000000000	-90.2500000000	0	2015	Guatemala	257	-	257	163	-	163
+MX	23.0000000000	-102.0000000000	0	2015	Mexique	20	-	20	6	-	6
+			1	2016	Verein Hand für Afrika	465	-	465	327	-	327
+SN	14.0000000000	-14.0000000000	0	2016	Sénégal	465	-	465	327	-	327
+			1	2017	Verein Hilfe für Vietnam / Susann's Help for Children	275	-	275	249	-	249
+VN	16.1666700000	107.8333300000	0	2017	Viet Nam	275	-	275	249	-	249
+			1	2018	Verein Indicamino	117	-	117	196	-	196
+PE	-10.0000000000	-76.0000000000	0	2018	Pérou	101	-	101	138	-	138
+BO	-17.0000000000	-65.0000000000	0	2018	Bolivie	17	-	17	57	-	57
+			0	2018	Divers	-	-	-	1	-	1
+			1	2019	Verein Juntos	4	-	4	..	..	..
+			1	2020	Verein Kampagne Olivenöl aus Palästina	241	-	241	-	-	-
+			0	2020	Gaza et Cisjordanie	226	-	226	-	-	-
+LB	33.8333300000	35.8333300000	0	2020	Liban	15	-	15	-	-	-
+			1	2021	Verein Kinder von Tucuman	30	-	30	34	-	34
+AR	-34.0000000000	-64.0000000000	0	2021	Argentine	30	-	30	34	-	34
+			1	2022	Verein Kinderheim Selam	1'400	-	1'400	8	-	8
+ET	8.0000000000	38.0000000000	0	2022	Ethiopie	1'400	-	1'400	8	-	8
+			1	2023	Verein Kinderhilfe Uitikon	70	-	70	-	-	-
+HT	19.0000000000	-72.4166700000	0	2023	Haïti	70	-	70	-	-	-
+			1	2024	Verein Leprahilfe Vietnam	38	-	38	57	-	57
+VN	16.1666700000	107.8333300000	0	2024	Viet Nam	38	-	38	57	-	57
+			1	2025	Verein Malima	79	-	79	..	..	..
+BJ	9.5000000000	2.2500000000	0	2025	Bénin	79	-	79	..	..	..
+			1	2026	Verein MMS Hilfe für Rumänien	-	122	122	-	113	113
+RO	46.0000000000	25.0000000000	0	2026	Roumanie	-	122	122	-	113	113
+			1	2027	Verein Partnerschaft Kinderspitäler Biel-Haïti	122	-	122	455	-	455
+HT	19.0000000000	-72.4166700000	0	2027	Haïti	122	-	122	455	-	455
+			1	2028	Verein Primavera, Zürich	70	-	70	61	-	61
+EC	-2.0000000000	-77.5000000000	0	2028	Equateur	70	-	70	61	-	61
+			1	2029	Verein Sunshine School	75	-	75	..	..	..
+NP	28.0000000000	84.0000000000	0	2029	Népal	75	-	75	..	..	..
+			1	2030	Verein Tamahú	152	-	152	140	-	140
+GT	15.5000000000	-90.2500000000	0	2030	Guatemala	152	-	152	140	-	140
+			1	2031	Verein Togo-Thun	14	-	14	6	-	6
+TG	8.0000000000	1.1666700000	0	2031	Togo	14	-	14	6	-	6
+			1	2032	Verein Tschernobyl Kinder	7	-	7	..	..	..
+			1	2033	Verein Zukunft für Kinder	230	-	230	293	-	293
+ID	-5.0000000000	120.0000000000	0	2033	Indonésie	230	-	230	293	-	293
+			1	2034	Vereinigung Don Bosco Werk	6'332	-	6'332	5'321	-	5'321
+ID	-5.0000000000	120.0000000000	0	2034	Inde	1'536	-	1'536	603	-	603
+CO	4.0000000000	-72.0000000000	0	2034	Colombie	1'056	-	1'056	984	-	984
+BR	-10.0000000000	-55.0000000000	0	2034	Brésil	1'047	-	1'047	524	-	524
+AR	-34.0000000000	-64.0000000000	0	2034	Argentine	501	-	501	693	-	693
+HT	19.0000000000	-72.4166700000	0	2034	Haïti	445	-	445	918	-	918
+PE	-10.0000000000	-76.0000000000	0	2034	Pérou	252	-	252	58	-	58
+			0	2034	Salomon, Îles	225	-	225	261	-	261
+UA	49.0000000000	32.0000000000	0	2034	Ukraine	183	-	183	152	-	152
+UY	-33.0000000000	-56.0000000000	0	2034	Uruguay	155	-	155	285	-	285
+SL	8.5000000000	-11.5000000000	0	2034	Sierra Leone	123	-	123	-	-	-
+BD	24.0000000000	90.0000000000	0	2034	Pakistan	106	-	106	241	-	241
+BO	-17.0000000000	-65.0000000000	0	2034	Bolivie	103	-	103	88	-	88
+EC	-2.0000000000	-77.5000000000	0	2034	Equateur	75	-	75	192	-	192
+PH	13.0000000000	122.0000000000	0	2034	Philippines	69	-	69	-	-	-
+GH	8.1000000000	-1.2000000000	0	2034	Ghana	66	-	66	-	-	-
+LK	7.0000000000	81.0000000000	0	2034	Sri Lanka	63	-	63	-	-	-
+ET	8.0000000000	38.0000000000	0	2034	Ethiopie	51	-	51	1	-	1
+			0	2034	Dominicaine, République	49	-	49	41	-	41
+MX	23.0000000000	-102.0000000000	0	2034	Mexique	47	-	47	54	-	54
+LB	33.8333300000	35.8333300000	0	2034	Liban	46	-	46	-	-	-
+PY	-22.9933300000	-57.9963900000	0	2034	Paraguay	45	-	45	-	-	-
+CL	-30.0000000000	-71.0000000000	0	2034	Chili	25	-	25	78	-	78
+KE	1.0000000000	38.0000000000	0	2034	Kenya	24	-	24	-	-	-
+			0	2034	PED, non spécifié	11	-	11	12	-	12
+			0	2034	Amérique du Sud, régional	10	-	10	-	-	-
+			0	2034	Amérique, régional	10	-	10	35	-	35
+			0	2034	Divers	10	-	10	100	-	100
+			1	2035	VIITOR	-	30	30	..	..	..
+RO	46.0000000000	25.0000000000	0	2035	Roumanie	-	30	30	..	..	..
+			1	2036	Village Suisse ONG	44	-	44	..	..	..
+			0	2036	Afrique, régional	16	-	16	..	..	..
+MA	32.0000000000	-5.0000000000	0	2036	Maroc	11	-	11	..	..	..
+			0	2036	Divers	17	-	17	-	-	-
+			1	2037	Vivere	61	-	61	69	-	69
+			0	2037	Congo (Rép. dém.)	35	-	35	40	-	40
+			0	2037	Divers	27	-	27	28	-	28
+			1	2038	Volkart Stiftung	81	-	81	273	-	273
+PK	30.0000000000	70.0000000000	0	2038	Pakistan	33	-	33	20	-	20
+ID	-5.0000000000	120.0000000000	0	2038	Inde	23	-	23	141	-	141
+ID	-5.0000000000	120.0000000000	0	2038	Indonésie	10	-	10	10	-	10
+			0	2038	Europe de l'Est, régional	10	-	10	-	-	-
+			0	2038	Divers	5	-	5	102	-	102
+			1	2039	VSF - Vétérinaires sans Frontières Suisse	409	-	409	339	-	339
+			0	2039	Congo (Rép. dém.)	210	-	210	203	-	203
+ML	18.0000000000	-2.0000000000	0	2039	Mali	85	-	85	29	-	29
+TG	8.0000000000	1.1666700000	0	2039	Togo	64	-	64	96	-	96
+DJ	11.5000000000	42.5000000000	0	2039	Somalie	50	-	50	11	-	11
+			1	2040	Wasser für die Dritte Welt	161	-	161	397	-	397
+TZ	-6.0000000000	35.0000000000	0	2040	Tanzanie	58	-	58	107	-	107
+PE	-10.0000000000	-76.0000000000	0	2040	Pérou	33	-	33	32	-	32
+MZ	-18.2500000000	35.0000000000	0	2040	Mozambique	31	-	31	41	-	41
+LK	7.0000000000	81.0000000000	0	2040	Sri Lanka	20	-	20	10	-	10
+			0	2040	Amérique Centrale (avec Mexique), régional	18	-	18	31	-	31
+			0	2040	Divers	2	-	2	175	-	175
+			1	2041	WEC International	129	-	129	81	-	81
+SN	14.0000000000	-14.0000000000	0	2041	Sénégal	43	-	43	7	-	7
+KH	13.0000000000	105.0000000000	0	2041	Cambodge	43	-	43	33	-	33
+GM	13.5000000000	-15.5000000000	0	2041	Gambie	24	-	24	14	-	14
+			0	2041	Divers	18	-	18	26	-	26
+			1	2042	Weltgruppe Arlesheim	32	-	32	..	..	..
+HT	19.0000000000	-72.4166700000	0	2042	Haïti	30	-	30	..	..	..
+			0	2042	Divers	2	-	2	-	-	-
+			1	2043	Weltkinderdörfer der Schwestern Maria	2'760	-	2'760	2'700	-	2'700
+PH	13.0000000000	122.0000000000	0	2043	Philippines	2'700	-	2'700	1'400	-	1'400
+GT	15.5000000000	-90.2500000000	0	2043	Guatemala	60	-	60	600	-	600
+			0	2043	Divers	-	-	-	700	-	700
+			1	2044	WHI - Women's Hope International	379	-	379	351	-	351
+			0	2044	PED, non spécifié	186	-	186	160	-	160
+ET	8.0000000000	38.0000000000	0	2044	Ethiopie	158	-	158	112	-	112
+AF	33.0000000000	66.0000000000	0	2044	Afghanistan	35	-	35	14	-	14
+			0	2044	Divers	-	-	-	65	-	65
+			1	2045	World Vision Schweiz	26'378	637	27'014	30'746	759	31'505
+			0	2045	PED, non spécifié	2'775	-	2'775	2'732	-	2'732
+BO	-17.0000000000	-65.0000000000	0	2045	Bolivie	2'331	-	2'331	2'923	-	2'923
+TZ	-6.0000000000	35.0000000000	0	2045	Tanzanie	2'193	-	2'193	2'301	-	2'301
+NI	13.0000000000	-85.0000000000	0	2045	Nicaragua	1'817	-	1'817	2'522	-	2'522
+MZ	-18.2500000000	35.0000000000	0	2045	Mozambique	1'365	-	1'365	1'258	-	1'258
+BD	24.0000000000	90.0000000000	0	2045	Bangladesh	1'325	-	1'325	1'451	-	1'451
+ML	18.0000000000	-2.0000000000	0	2045	Mali	1'319	-	1'319	1'430	-	1'430
+MN	46.0000000000	105.0000000000	0	2045	Mongolie	1'288	-	1'288	1'435	-	1'435
+VN	16.1666700000	107.8333300000	0	2045	Viet Nam	1'282	-	1'282	1'740	-	1'740
+PG	-6.0000000000	147.0000000000	0	2045	Inde	1'275	-	1'275	1'269	-	1'269
+NP	28.0000000000	84.0000000000	0	2045	Népal	888	-	888	784	-	784
+PE	-10.0000000000	-76.0000000000	0	2045	Pérou	835	-	835	1'302	-	1'302
+			0	2045	Dominicaine, République	761	-	761	-	-	-
+GE	41.9999800000	43.4999000000	0	2045	Géorgie	757	-	757	1'122	-	1'122
+TD	15.0000000000	19.0000000000	0	2045	Tchad	731	-	731	998	-	998
+NE	18.0000000000	9.0000000000	0	2045	Niger	727	-	727	825	-	825
+MR	20.0000000000	-12.0000000000	0	2045	Mauritanie	705	-	705	725	-	725
+			0	2045	Afrique de l'Est, régional	645	-	645	-	-	-
+AM	40.0000000000	45.0000000000	0	2045	Arménie	613	-	613	713	-	713
+RO	46.0000000000	25.0000000000	0	2045	Roumanie	-	580	580	-	663	663
+SN	14.0000000000	-14.0000000000	0	2045	Sénégal	519	-	519	624	-	624
+SS	7.5000000000	30.0000000000	0	2045	Soudan du Sud	482	-	482	-	-	-
+			0	2045	Afrique de l'Ouest, régional	314	-	314	-	-	-
+GH	8.1000000000	-1.2000000000	0	2045	Ghana	275	-	275	450	-	450
+KH	13.0000000000	105.0000000000	0	2045	Cambodge	172	-	172	160	-	160
+			0	2045	Moyen-Orient, régional	129	-	129	28	-	28
+BA	44.2500000000	17.8333300000	0	2045	Bosnie-Herzégovine	128	-	128	94	-	94
+KE	1.0000000000	38.0000000000	0	2045	Kenya	100	-	100	18	-	18
+BD	24.0000000000	90.0000000000	0	2045	Pakistan	97	-	97	224	-	224
+LS	-29.5000000000	28.2500000000	0	2045	Lesotho	73	-	73	158	-	158
+DJ	11.5000000000	42.5000000000	0	2045	Somalie	66	-	66	12	-	12
+ET	8.0000000000	38.0000000000	0	2045	Ethiopie	60	-	60	-	-	-
+BR	-10.0000000000	-55.0000000000	0	2045	Brésil	60	-	60	94	-	94
+ID	-5.0000000000	120.0000000000	0	2045	Indonésie	57	-	57	262	-	262
+MM	22.0000000000	98.0000000000	0	2045	Myanmar	57	-	57	114	-	114
+RU	60.0000000000	100.0000000000	0	2045	Russie	-	57	57	-	95	95
+HT	19.0000000000	-72.4166700000	0	2045	Haïti	47	-	47	964	-	964
+LB	33.8333300000	35.8333300000	0	2045	Liban	45	-	45	93	-	93
+ZW	-19.0000000000	29.0000000000	0	2045	Zimbabwe	33	-	33	238	-	238
+AF	33.0000000000	66.0000000000	0	2045	Afghanistan	18	-	18	11	-	11
+UG	2.0000000000	33.0000000000	0	2045	Ouganda	14	-	14	30	-	30
+			0	2045	Divers	-	-	-	1'643	-	1'643
+			1	2046	WWF Schweiz	8'996	-	8'996	5'125	29	5'154
+			0	2046	PED, non spécifié	2'792	-	2'792	747	-	747
+			0	2046	Amérique du Sud, régional	791	-	791	13	-	13
+CN	35.0000000000	105.0000000000	0	2046	Chine	625	-	625	287	-	287
+MG	-20.0000000000	47.0000000000	0	2046	Madagascar	564	-	564	401	-	401
+ID	-5.0000000000	120.0000000000	0	2046	Indonésie	522	-	522	243	-	243
+KH	13.0000000000	105.0000000000	0	2046	Cambodge	472	-	472	259	-	259
+PY	-22.9933300000	-57.9963900000	0	2046	Paraguay	375	-	375	703	-	703
+BR	-10.0000000000	-55.0000000000	0	2046	Brésil	375	-	375	257	-	257
+TZ	-6.0000000000	35.0000000000	0	2046	Tanzanie	357	-	357	368	-	368
+AR	-34.0000000000	-64.0000000000	0	2046	Argentine	304	-	304	80	-	80
+LA	18.0000000000	105.0000000000	0	2046	Laos	293	-	293	159	-	159
+MY	2.5000000000	112.5000000000	0	2046	Malaisie	264	-	264	77	-	77
+VN	16.1666700000	107.8333300000	0	2046	Viet Nam	240	-	240	460	-	460
+PE	-10.0000000000	-76.0000000000	0	2046	Pérou	213	-	213	172	-	172
+GE	41.9999800000	43.4999000000	0	2046	Géorgie	171	-	171	189	-	189
+MZ	-18.2500000000	35.0000000000	0	2046	Mozambique	148	-	148	75	-	75
+CL	-30.0000000000	-71.0000000000	0	2046	Chili	105	-	105	33	-	33
+BD	24.0000000000	90.0000000000	0	2046	Pakistan	100	-	100	253	-	253
+CO	4.0000000000	-72.0000000000	0	2046	Colombie	90	-	90	193	-	193
+BO	-17.0000000000	-65.0000000000	0	2046	Bolivie	85	-	85	100	-	100
+FJ	-18.0000000000	178.0000000000	0	2046	Fidji	85	-	85	-	-	-
+ID	-5.0000000000	120.0000000000	0	2046	Inde	13	-	13	25	-	25
+			0	2046	Divers	12	-	12	33	29	62
+			0	2046	Yens Espoiroumanie Targu Ona	-	84	84	-	-	-
+RO	46.0000000000	25.0000000000	0	2046	Roumanie	-	84	84	-	-	-
+			1	2047	Autres	-	-	-	28'765	823	29'588
+			1	1000	KHB - Kinderhilfe Bethlehem	6'745	187	6'932	7'492	146	7'638
+			0	1000	Gaza et Cisjordanie	6'345	-	6'345	7'000	-	7'000
+IQ	33.0000000000	44.0000000000	0	1000	Iraq	240	-	240	210	-	210
+IL	31.5000000000	34.7500000000	0	1000	Israël	-	187	187	-	146	146
+EG	27.0000000000	30.0000000000	0	1000	Egypte	160	-	160	55	-	55
+			0	1000	Divers	-	-	-	227	-	227
+			1	1001	Kinderhilfsorganisation Camaquito	79	-	79	..	..	..
+CU	22.0000000000	-79.5000000000	0	1001	Cuba	79	-	79	..	..	..
+			1	1002	Kindernothilfe Schweiz	467	-	467	1'280	-	1'280
+ET	8.0000000000	38.0000000000	0	1002	Ethiopie	214	-	214	322	-	322
+ZM	-15.0000000000	30.0000000000	0	1002	Zambie	106	-	106	-	-	-
+ZA	-29.0000000000	24.0000000000	0	1002	Afrique du Sud	88	-	88	-	-	-
+RW	-2.0000000000	30.0000000000	0	1002	Rwanda	59	-	59	-	-	-
+			0	1002	Divers	-	-	-	958	-	958
+			1	1003	Kloster Baldegg	1'008	-	1'008	818	-	818
+TZ	-6.0000000000	35.0000000000	0	1003	Tanzanie	410	-	410	360	-	360
+			0	1003	PED, non spécifié	400	-	400	260	-	260
+PG	-6.0000000000	147.0000000000	0	1003	Papouasie-Nouvelle-Guinée	100	-	100	100	-	100
+			0	1003	Afrique, régional	50	-	50	50	-	50
+PE	-10.0000000000	-76.0000000000	0	1003	Pérou	20	-	20	20	-	20
+ET	8.0000000000	38.0000000000	0	1003	Ethiopie	20	-	20	20	-	20
+			0	1003	Divers	8	-	8	8	-	8
+			1	1004	Kolping Schweiz	371	10	381	288	-	288
+TZ	-6.0000000000	35.0000000000	0	1004	Tanzanie	115	-	115	110	-	110
+PG	-6.0000000000	147.0000000000	0	1004	Inde	100	-	100	-	-	-
+MX	23.0000000000	-102.0000000000	0	1004	Mexique	35	-	35	28	-	28
+XK	42.5833300000	21.0000000000	0	1004	Kosovo	30	-	30	36	-	36
+BO	-17.0000000000	-65.0000000000	0	1004	Bolivie	27	-	27	12	-	12
+AL	41.0000000000	20.0000000000	0	1004	Albanie	24	-	24	-	-	-
+			0	1004	PED, non spécifié	15	-	15	-	-	-
+BJ	9.5000000000	2.2500000000	0	1004	Bénin	10	-	10	-	-	-
+			0	1004	Congo (Rép. dém.)	10 	-	10	-	-	-
+RO	46.0000000000	25.0000000000	0	1004	Roumanie	-	10	10	-	-	-
+			0	1004	Divers	5	-	5	102	-	102
+			1	1005	Komera Ruanda	12	-	12	14	-	14
+RW	-2.0000000000	30.0000000000	0	1005	Rwanda	12	-	12	14	-	14
+			1	1006	Kongregation der Missionare von Mariannhill	32	-	32	7	-	7
+			0	1006	Afrique de l'Est, régional	17	-	17	-	-	-
+HT	19.0000000000	-72.4166700000	0	1006	Haïti	15	-	15	7	-	7
+			1	1007	Kriens hilft Menschen in Not	211	-	211	..	..	..
+			0	1007	PED, non spécifié	71	-	71	..	..	..
+MG	-20.0000000000	47.0000000000	0	1007	Madagascar	30	-	30	..	..	..
+BR	-10.0000000000	-55.0000000000	0	1007	Brésil	20	-	20	..	..	..
+CO	4.0000000000	-72.0000000000	0	1007	Colombie	16	-	16	..	..	..
+NP	28.0000000000	84.0000000000	0	1007	Népal	12	-	12	..	..	..
+KE	1.0000000000	38.0000000000	0	1007	Kenya	10	-	10	..	..	..
+KG	41.0000000000	75.0000000000	0	1007	Kirghizistan	10	-	10	..	..	..
+MW	-13.5000000000	34.0000000000	0	1007	Malawi	10	-	10	..	..	..
+TG	8.0000000000	1.1666700000	0	1007	Togo	10	-	10	..	..	..
+ZW	-19.0000000000	29.0000000000	0	1007	Zimbabwe	10	-	10	..	..	..
+			0	1007	Divers	12	-	12	-	-	-
+			1	1008	Kwa Wazee	118	-	118	97	-	97
+TZ	-6.0000000000	35.0000000000	0	1008	Tanzanie	118	-	118	97	-	97
+			1	1009	Label STEP	-	-	-	102	-	102
+			1	1010	Limmat Stiftung	1'449	-	1'449	1'886	-	1'886
+UG	2.0000000000	33.0000000000	0	1010	Ouganda	435	-	435	36	-	36
+CO	4.0000000000	-72.0000000000	0	1010	Colombie	401	-	401	376	-	376
+ZA	-29.0000000000	24.0000000000	0	1010	Afrique du Sud	276	-	276	-	-	-
+			0	1010	Congo (Rép. dém.)	128	-	128	142	-	142
+ID	-5.0000000000	120.0000000000	0	1010	Inde	60	-	60	157	-	157
+MW	-13.5000000000	34.0000000000	0	1010	Malawi	60	-	60	-	-	-
+			0	1010	Amérique du Sud, régional	44	-	44	36	-	36
+PE	-10.0000000000	-76.0000000000	0	1010	Pérou	22	-	22	-	-	-
+GT	15.5000000000	-90.2500000000	0	1010	Guatemala	13	-	13	57	-	57
+CM	6.0000000000	12.0000000000	0	1010	Cameroun	10	-	10	38	-	38
+			0	1010	Divers	1	-	1	1'044	-	1'044
+			1	1011	Lumière pour Haïti	118	-	118	230	-	230
+HT	19.0000000000	-72.4166700000	0	1011	Haïti	118	-	118	230	-	230
+			1	1012	Lungenliga Schweiz	45	-	45	45	-	45
+BJ	9.5000000000	2.2500000000	0	1012	Bénin	45	-	45	45	-	45
+			1	1013	Lyssa	45	-	45	..	..	..
+EC	-2.0000000000	-77.5000000000	0	1014	Equateur	45	-	45	..	..	..
+			1	1015	M.A.A. - Maasai Aid Association	45	-	45	75	-	75
+KE	1.0000000000	38.0000000000	0	1015	Kenya	43	-	43	75	-	75
+			0	1015	Divers	2	-	2	-	-	-
+			1	1016	Malters hilft Menschen in Not	56	-	56	25	-	25
+			0	1016	PED, non spécifié	20	-	20	-	-	-
+UG	2.0000000000	33.0000000000	0	1016	Ouganda	10	-	10	4	-	4
+			0	1016	Divers	26	-	26	21	-	21
+			1	1017	MdM - Médecins du Monde Suisse	1'581	-	1'581	1'236	-	1'236
+HT	19.0000000000	-72.4166700000	0	1017	Haïti	1'310	-	1'310	1'112	-	1'112
+			0	1017	Gaza et Cisjordanie	209	-	209	22	-	22
+BJ	9.5000000000	2.2500000000	0	1017	Bénin	62	-	62	102	-	102
+			1	1018	MEB - Mission Evangélique Braille	158	-	158	154	-	154
+BF	13.0000000000	-2.0000000000	0	1019	Burkina Faso	92	-	92	87	-	87
+BJ	9.5000000000	2.2500000000	0	1019	Bénin	29	-	29	14	-	14
+			0	1019	Congo (Rép. dém.)	15	-	15	11	-	11
+			0	1019	Divers	22	-	22	41	-	41
+			1	1020	Medair	5'594	-	5'594	3'566	-	3'566
+HT	19.0000000000	-72.4166700000	0	1021	Haïti	1'397	-	1'397	127	-	127
+AF	33.0000000000	66.0000000000	0	1021	Afghanistan	1'219	-	1'219	863	-	863
+SS	7.5000000000	30.0000000000	0	1021	Soudan du Sud	1'067	-	1'067	-	-	-
+			0	1021	Soudan (sans le Sud)	501	-	501	956	-	956
+DJ	11.5000000000	42.5000000000	0	1021	Somalie	474	-	474	123	-	123
+MG	-20.0000000000	47.0000000000	0	1021	Madagascar	467	-	467	215	-	215
+			0	1021	Congo (Rép. dém.)	326	-	326	720	-	720
+ZW	-19.0000000000	29.0000000000	0	1021	Zimbabwe	144	-	144	142	-	142
+			0	1021	Divers	-	-	-	419	-	419
+			1	1022	Medico International Schweiz	465	-	465	487	-	487
+			0	1022	Gaza et Cisjordanie	122	-	122	134	-	134
+SV	13.8333300000	-88.9166700000	0	1022	El Salvador	100	-	100	100	-	100
+NI	13.0000000000	-85.0000000000	0	1022	Nicaragua	65	-	65	80	-	80
+MX	23.0000000000	-102.0000000000	0	1022	Mexique	63	-	63	61	-	61
+			0	1022	Erythrée	50	-	50	4	-	4
+GT	15.5000000000	-90.2500000000	0	1022	Guatemala	43	-	43	54	-	54
+CU	22.0000000000	-79.5000000000	0	1022	Cuba	20	-	20	17	-	17
+			0	1022	Divers	2	-	2	38	-	38
+			1	1023	Medicus Mundi Schweiz	183	-	183	234	-	234
+			0	1023	PED, non spécifié	183	-	183	-	-	-
+			0	1023	Divers	-	-	-	234	-	234
+			1	1024	Meyrin-Sânmartin (Liaison-Roumanie)	-	6	6	..	..	..
+			1	1025	Miblou	106	-	106	108	-	108
+PG	-6.0000000000	147.0000000000	0	1025	Inde	106	-	106	108	-	108
+			1	1026	Mine-ex	879	-	879	872	-	872
+KH	13.0000000000	105.0000000000	0	1026	Cambodge	579	-	579	572	-	572
+AF	33.0000000000	66.0000000000	0	1026	Afghanistan	300	-	300	300	-	300
+			1	1027	Missio - Oeuvres Pontificales Missionaires	3'044	-	3'044	..	..	..
+MG	-20.0000000000	47.0000000000	0	1027	Madagascar	423	-	423	..	..	..
+TH	15.0000000000	100.0000000000	0	1027	Thaïlande	340	-	340	..	..	..
+ID	-5.0000000000	120.0000000000	0	1027	Inde	236	-	236	..	..	..
+KH	13.0000000000	105.0000000000	0	1027	Cambodge	234	-	234	..	..	..
+			0	1027	Congo (Rép. dém.)	230	-	230	..	..	..
+NG	10.0000000000	8.0000000000	0	1027	Nigéria	191	-	191	..	..	..
+MM	22.0000000000	98.0000000000	0	1027	Myanmar	186	-	186	..	..	..
+MU	-20.3000000000	57.5833300000	0	1027	Maurice	143	-	143	..	..	..
+TG	8.0000000000	1.1666700000	0	1027	Togo	129	-	129	..	..	..
+TD	15.0000000000	19.0000000000	0	1027	Tchad	117	-	117	..	..	..
+PG	-6.0000000000	147.0000000000	0	1027	Papouasie-Nouvelle-Guinée	112	-	112	..	..	..
+SN	14.0000000000	-14.0000000000	0	1027	Sénégal	103	-	103	..	..	..
+NI	13.0000000000	-85.0000000000	0	1027	Nicaragua	91	-	91	..	..	..
+SC	-4.5833300000	55.6666700000	0	1027	Seychelles	80	-	80	..	..	..
+KM	-12.2333300000	44.4455300000	0	1027	Comores	56	-	56	..	..	..
+LB	33.8333300000	35.8333300000	0	1027	Liban	55	-	55	..	..	..
+CO	4.0000000000	-72.0000000000	0	1027	Colombie	47	-	47	..	..	..
+UG	2.0000000000	33.0000000000	0	1027	Ouganda	42	-	42	..	..	..
+BD	24.0000000000	90.0000000000	0	1027	Pakistan	42	-	42	..	..	..
+ID	-5.0000000000	120.0000000000	0	1027	Indonésie	40	-	40	..	..	..
+PE	-10.0000000000	-76.0000000000	0	1027	Pérou	39	-	39	..	..	..
+NP	28.0000000000	84.0000000000	0	1027	Népal	33	-	33	..	..	..
+LA	18.0000000000	105.0000000000	0	1027	Laos	21	-	21	..	..	..
+			0	1027	PED, non spécifié	17	-	17	..	..	..
+MA	32.0000000000	-5.0000000000	0	1027	Maroc	14	-	14	..	..	..
+			0	1027	Divers	21	-	21	-	-	-
+			1	1028	Mission am Nil International	2'302	-	2'302	2'366	-	2'366
+ET	8.0000000000	38.0000000000	0	1028	Ethiopie	904	-	904	1'379	-	1'379
+EG	27.0000000000	30.0000000000	0	1028	Egypte	632	-	632	234	-	234
+TZ	-6.0000000000	35.0000000000	0	1028	Tanzanie	229	-	229	141	-	141
+			0	1028	Soudan (sans le Sud)	169	-	169	211	-	211
+			0	1028	Congo (Rép. dém.)	149	-	149	187	-	187
+			0	1028	Erythrée	130	-	130	113	-	113
+			0	1028	PED, non spécifié	88	-	88	101	-	101
+			1	1029	Mission der St. Anna-Schwestern	624	-	624	578	-	578
+PG	-6.0000000000	147.0000000000	0	1029	Inde	348	-	348	255	-	255
+TZ	-6.0000000000	35.0000000000	0	1029	Tanzanie	276	-	276	323	-	323
+			1	1030	Mission Evangélique au Tchad	104	-	104	152	-	152
+TD	15.0000000000	19.0000000000	0	1030	Tchad	104	-	104	152	-	152
+			1	1031	Mission GUS	24	-	24	..	..	..
+UA	49.0000000000	32.0000000000	0	1031	Ukraine	24	-	24	..	..	..
+			1	1032	Mission 21	3'334	4	3'338	4'016	45	4'061
+TZ	-6.0000000000	35.0000000000	0	1032	Tanzanie	504	-	504	375	-	375
+SS	7.5000000000	30.0000000000	0	1032	Soudan du Sud	405	-	405	-	-	-
+ID	-5.0000000000	120.0000000000	0	1032	Indonésie	395	-	395	536	-	536
+			0	1032	PED, non spécifié	364	-	364	518	-	518
+			0	1032	Congo (Rép. dém.)	295	-	295	415	-	415
+CM	6.0000000000	12.0000000000	0	1032	Cameroun	258	-	258	304	-	304
+CL	-30.0000000000	-71.0000000000	0	1032	Chili	197	-	197	220	-	220
+TH	15.0000000000	100.0000000000	0	1032	Thaïlande	186	-	186	-	-	-
+BO	-17.0000000000	-65.0000000000	0	1032	Bolivie	141	-	141	213	-	213
+			0	1032	Amérique du Sud, régional	132	-	132	111	-	111
+PE	-10.0000000000	-76.0000000000	0	1032	Pérou	130	-	130	191	-	191
+NG	10.0000000000	8.0000000000	0	1032	Nigéria	121	-	121	180	-	180
+MY	2.5000000000	112.5000000000	0	1032	Malaisie	70	-	70	196	-	196
+CN	35.0000000000	105.0000000000	0	1032	Chine	60	-	60	32	-	32
+GH	8.1000000000	-1.2000000000	0	1032	Ghana	20	-	20	49	-	49
+			0	1032	Gaza et Cisjordanie	20	-	20	20	-	20
+			0	1032	Soudan (sans le Sud)	19	-	19	454	-	454
+			0	1032	Afrique de l'Est, régional	14	-	14	-	-	-
+			0	1032	Divers	3	4	7	203	45	248
+			1	1033	Missions-Benediktinerinnen	27	3	30	34	-	34
+TZ	-6.0000000000	35.0000000000	0	1033	Tanzanie	16	-	16	22	-	22
+			0	1033	Divers	11	3	14	12	-	12
+			1	1034	Missionsfranziskanerinnen von Maria Immakulata	409	-	409	449	-	449
+EC	-2.0000000000	-77.5000000000	0	1034	Equateur	160	-	160	170	-	170
+			0	1034	Amérique du Sud, régional	100	-	100	40	-	40
+CO	4.0000000000	-72.0000000000	0	1034	Colombie	61	-	61	78	-	78
+PE	-10.0000000000	-76.0000000000	0	1034	Pérou	30	-	30	101	-	101
+SM	43.9367000000	12.4463000000	0	1034	Mali	28	-	28	20	-	20
+SV	13.8333300000	-88.9166700000	0	1034	El Salvador	17	-	17	20	-	20
+ZA	-29.0000000000	24.0000000000	0	1034	Afrique du Sud	10	-	10	10	-	10
+			0	1034	Divers	3	-	3	10	-	10
+			1	1035	Missionsprokur der Ilanzer Dominikanerinnen	375	-	375	364	13	377
+BR	-10.0000000000	-55.0000000000	0	1035	Brésil	323	-	323	336	-	336
+PH	13.0000000000	122.0000000000	0	1035	Philippines	21	-	21	15	-	15
+CN	35.0000000000	105.0000000000	0	1035	Chine	12	-	12	6	-	6
+			0	1035	PED, non spécifié	11	-	11	-	-	-
+			0	1035	Divers	9	-	9	6	13	19
+			1	1036	Missionssekretariat der Schweizer Pallottiner	273	-	273	486	-	486
+ID	-5.0000000000	120.0000000000	0	1036	Inde	259	-	259	366	-	366
+BR	-10.0000000000	-55.0000000000	0	1036	Brésil	14	-	14	-	-	-
+			0	1036	Divers	-	-	-	120	-	120
+			1	1037	MIVA Schweiz	1'770	-	1'770	1'999	-	1'999
+			0	1037	PED, non spécifié	1'770	-	1'770	1'999	-	1'999
+			1	1038	MSF Suisse / MSF Schweiz	9'682	-	9'682	7'291	-	7'291
+LY	28.0000000000	17.0000000000	0	1038	Libye	2'394	-	2'394	-	-	-
+HT	19.0000000000	-72.4166700000	0	1038	Haïti	1'617	-	1'617	2'525	-	2'525
+KE	1.0000000000	38.0000000000	0	1038	Kenya	1'549	-	1'549	413	-	413
+CI	8.0000000000	-5.0000000000	0	1038	Côte d'Ivoire	833	-	833	-	-	-
+DJ	11.5000000000	42.5000000000	0	1038	Somalie	561	-	561	520	-	520
+			0	1038	Congo (Rép. dém.)	530	-	530	320	-	320
+KG	41.0000000000	75.0000000000	0	1038	Kirghizistan	530	-	530	102	-	102
+LB	33.8333300000	35.8333300000	0	1038	Liban	407	-	407	8	-	8
+NE	18.0000000000	9.0000000000	0	1038	Niger	323	-	323	1'352	-	1'352
+IQ	33.0000000000	44.0000000000	0	1038	Iraq	220	-	220	170	-	170
+TD	15.0000000000	19.0000000000	0	1038	Tchad	209	-	209	553	-	553
+MM	22.0000000000	98.0000000000	0	1038	Myanmar	150	-	150	-	-	-
+SZ	-26.5000000000	31.5000000000	0	1038	Swaziland	102	-	102	160	-	160
+GT	15.5000000000	-90.2500000000	0	1038	Guatemala	101	-	101	35	-	35
+GQ	1.7000000000	10.5000000000	0	1038	Guinée	57	-	57	-	-	-
+BZ	17.2500000000	-88.7500000000	0	1038	Honduras	43	-	43	54	-	54
+DJ	11.5000000000	42.5000000000	0	1038	Djibouti	28	-	28	259	-	259
+			0	1038	Soudan (sans le Sud)	18	-	18	271	-	271
+			0	1038	Divers	10	-	10	549	-	549
+			1	1039	Naulekh Stiftung Schweiz-Nepal	50	-	50	98	-	98
+NP	28.0000000000	84.0000000000	0	1039	Népal	50	-	50	98	-	98
+			1	1040	Niños en Xela	65	-	65	50	-	50
+GT	15.5000000000	-90.2500000000	0	1040	Guatemala	65	-	65	50	-	50
+			1	1041	Nordesta Reforestation et Éducation	1'096	-	1'096	1'080	-	1'080
+BR	-10.0000000000	-55.0000000000	0	1041	Brésil	1'096	-	1'096	1'080	-	1'080
+			1	1042	Nouvelle Planète	2'965	-	2'965	3'153	-	3'153
+			0	1042	PED, non spécifié	1'128	-	1'128	935	-	935
+BF	13.0000000000	-2.0000000000	0	1042	Burkina Faso	648	-	648	747	-	747
+SN	14.0000000000	-14.0000000000	0	1042	Sénégal	313	-	313	145	-	145
+VN	16.1666700000	107.8333300000	0	1042	Viet Nam	210	-	210	102	-	102
+MG	-20.0000000000	47.0000000000	0	1042	Madagascar	135	-	135	359	-	359
+PG	-6.0000000000	147.0000000000	0	1042	Inde	119	-	119	101	-	101
+UG	2.0000000000	33.0000000000	0	1042	Ouganda	98	-	98	81	-	81
+PE	-10.0000000000	-76.0000000000	0	1042	Pérou	97	-	97	409	-	409
+CM	6.0000000000	12.0000000000	0	1042	Cameroun	82	-	82	25	-	25
+MM	22.0000000000	98.0000000000	0	1042	Myanmar	71	-	71	78	-	78
+			0	1042	Afrique, régional	50	-	50	-	-	-
+			0	1042	Divers	14	-	14	172	-	172
+			1	1043	Ökozentrum Langenbruck	93	-	93	150	-	150
+BF	13.0000000000	-2.0000000000	0	1043	Burkina Faso	93	-	93	150	-	150
+			1	1044	OMCT - Organisation Mondiale contre la Torture	333	-	333	358	-	358
+			0	1044	PED, non spécifié	333	-	333	358	-	358
+			1	1045	PBI - Peace Brigades International Schweiz	53	-	53	30	-	30
+GT	15.5000000000	-90.2500000000	0	1045	Guatemala	16	-	16	1	-	1
+NP	28.0000000000	84.0000000000	0	1045	Népal	14	-	14	13	-	13
+MX	23.0000000000	-102.0000000000	0	1045	Mexique	12	-	12	8	-	8
+CO	4.0000000000	-72.0000000000	0	1045	Colombie	10	-	10	8	-	8
+			1	1046	Pentru copiii abandonati	-	218	218	..	..	..
+RO	46.0000000000	25.0000000000	0	1046	Roumanie	-	218	218	..	..	..
+			1	1047	Pharmaciens sans Frontières	1	-	1	-	-	-
+			1	1048	Plan International Schweiz	1'253	-	1'253	-	-	-
+HT	19.0000000000	-72.4166700000	0	1048	Haïti	730	-	730	-	-	-
+NP	28.0000000000	84.0000000000	0	1048	Népal	206	-	206	-	-	-
+			0	1048	PED, non spécifié	90	-	90	-	-	-
+SV	13.8333300000	-88.9166700000	0	1048	El Salvador	83	-	83	-	-	-
+LR	6.5000000000	-9.5000000000	0	1048	Libéria	46	-	46	-	-	-
+VN	16.1666700000	107.8333300000	0	1048	Viet Nam	34	-	34	-	-	-
+PK	30.0000000000	70.0000000000	0	1048	Pakistan	28	-	28	-	-	-
+ML	18.0000000000	-2.0000000000	0	1048	Mali	26	-	26	-	-	-
+BF	13.0000000000	-2.0000000000	0	1048	Burkina Faso	10	-	10	-	-	-
+			1	1049	Probigua-Verein Schweiz	75	-	75	88	-	88
+GT	15.5000000000	-90.2500000000	0	1049	Guatemala	75	-	75	88	-	88
+			1	1050	PWS - Peace Watch Switzerland	400	-	400	400	-	400
+			0	1050	Amérique, régional	290	-	290	290	-	290
+			0	1050	Moyen-Orient, régional	110	-	110	110	-	110
+			1	1051	RecifEscola	100	-	100	50	-	50
+BR	-10.0000000000	-55.0000000000	0	1051	Brésil	100	-	100	50	-	50
+			1	1052	Regalo	4	-	4	83	-	83
+			1	1053	REHASWISS	150	-	150	202	-	202
+PG	-6.0000000000	147.0000000000	0	1053	Inde	142	-	142	-	-	-
+			0	1053	Divers	8	-	8	202	-	202
+			1	1054	Roger Federer Foundation	2'215	-	2'215	700	-	700
+MW	-13.5000000000	34.0000000000	0	1054	Malawi	1'420	-	1'420	90	-	90
+ZW	-19.0000000000	29.0000000000	0	1054	Zimbabwe	270	-	270	80	-	80
+ZA	-29.0000000000	24.0000000000	0	1054	Afrique du Sud	180	-	180	230	-	230
+ET	8.0000000000	38.0000000000	0	1054	Ethiopie	170	-	170	170	-	170
+ZM	-15.0000000000	30.0000000000	0	1054	Zambie	100	-	100	-	-	-
+			0	1054	PED, non spécifié	75	-	75	-	-	-
+			0	1054	Divers	-	-	-	130	-	130
+			1	1055	Rokpa International	1'463	-	1'463	1'832	-	1'832
+CN	35.0000000000	105.0000000000	0	1055	Chine	1'332	-	1'332	1'629	-	1'629
+NP	28.0000000000	84.0000000000	0	1055	Népal	74	-	74	186	-	186
+ZW	-19.0000000000	29.0000000000	0	1055	Zimbabwe	57	-	57	17	-	17
+			1	1056	Ruedi Leuppi Stiftung Elfenbeinküste	350	-	350	375	-	375
+CI	8.0000000000	-5.0000000000	0	1056	Côte d'Ivoire	350	-	350	375	-	375
+			1	1057	SAM - Schweizer Allianz Mission	2'728	-	2'728	..	..	..
+BR	-10.0000000000	-55.0000000000	0	1057	Brésil	943	-	943	..	..	..
+PG	-6.0000000000	147.0000000000	0	1057	Guinée	585	-	585	..	..	..
+CM	6.0000000000	12.0000000000	0	1057	Cameroun	531	-	531	..	..	..
+TD	15.0000000000	19.0000000000	0	1057	Tchad	243	-	243	..	..	..
+AO	-12.5000000000	18.5000000000	0	1057	Angola	227	-	227	..	..	..
+LK	7.0000000000	81.0000000000	0	1057	Sri Lanka	96	-	96	..	..	..
+CN	35.0000000000	105.0000000000	0	1057	Chine	54	-	54	..	..	..
+BF	13.0000000000	-2.0000000000	0	1057	Burkina Faso	49	-	49	..	..	..
+			1	1058	Schweizer Redemptoristen Mariawil	348	-	348	473	-	473
+BO	-17.0000000000	-65.0000000000	0	1058	Bolivie	321	-	321	353	-	353
+HT	19.0000000000	-72.4166700000	0	1058	Haïti	20	-	20	120	-	120
+			0	1058	Divers	7	-	7	-	-	-
+			1	1059	Schweizerische Emmaus-Vereinigung	212	-	212	..	..	..
+PG	-6.0000000000	147.0000000000	0	1059	Inde	212	-	212	..	..	..
+			1	1060	Schweizerische Pfingstmission	2'063	258	2'321	1'865	340	2'205
+LS	-29.5000000000	28.2500000000	0	1060	Lesotho	290	-	290	152	-	152
+RO	46.0000000000	25.0000000000	0	1060	Roumanie	-	231	231	-	307	307
+HT	19.0000000000	-72.4166700000	0	1060	Haïti	180	-	180	346	-	346
+ID	-5.0000000000	120.0000000000	0	1060	Inde	171	-	171	234	-	234
+ZM	-15.0000000000	30.0000000000	0	1060	Zambie	141	-	141	51	-	51
+KH	13.0000000000	105.0000000000	0	1060	Cambodge	119	-	119	121	-	121
+			0	1060	Soudan (sans le Sud)	118	-	118	3	-	3
+AR	-34.0000000000	-64.0000000000	0	1060	Argentine	116	-	116	82	-	82
+MD	47.0000000000	29.0000000000	0	1060	Moldavie	102	-	102	7	-	7
+AL	41.0000000000	20.0000000000	0	1060	Albanie	99	-	99	81	-	81
+BY	53.0000000000	28.0000000000	0	1060	Bélarus	92	-	92	93	-	93
+			0	1060	PED, non spécifié	91	-	91	13	-	13
+KE	1.0000000000	38.0000000000	0	1060	Kenya	90	-	90	76	-	76
+			0	1060	Afrique centrale, régional	84	-	84	-	-	-
+UA	49.0000000000	32.0000000000	0	1060	Ukraine	75	-	75	74	-	74
+PE	-10.0000000000	-76.0000000000	0	1060	Pérou	75	-	75	46	-	46
+BR	-10.0000000000	-55.0000000000	0	1060	Brésil	51	-	51	58	-	58
+TZ	-6.0000000000	35.0000000000	0	1060	Tanzanie	45	-	45	13	-	13
+PK	30.0000000000	70.0000000000	0	1060	Pakistan	31	-	31	141	-	141
+RW	-2.0000000000	30.0000000000	0	1060	Rwanda	18	-	18	1	-	1
+IL	31.5000000000	34.7500000000	0	1060	Israël	-	14	14	-	21	21
+DJ	11.5000000000	42.5000000000	0	1060	Somalie	13	-	13	-	-	-
+PH	13.0000000000	122.0000000000	0	1060	Philippines	13	-	13	20	-	20
+BG	43.0000000000	25.0000000000	0	1060	Bulgarie	-	13	13	-	12	12
+AF	33.0000000000	66.0000000000	0	1060	Afghanistan	11	-	11	3	-	3
+			0	1060	Divers	38	-	38	252	-	252
+			1	1061	Schweizerisches Komitee für UNICEF	18'643	-	18'643	16'615	-	16'615
+			0	1061	PED, non spécifié	7'246	-	7'246	540	-	540
+			0	1061	Afrique de l'Est, régional	2'626	-	2'626	500	-	500
+MW	-13.5000000000	34.0000000000	0	1061	Malawi	1'918	-	1'918	3'567	-	3'567
+PG	-6.0000000000	147.0000000000	0	1061	Inde	1'377	-	1'377	800	-	800
+BR	-10.0000000000	-55.0000000000	0	1061	Brésil	1'041	-	1'041	800	-	800
+			0	1061	Erythrée	824	-	824	-	-	-
+			0	1061	Soudan (sans le Sud)	500	-	500	370	-	370
+KG	41.0000000000	75.0000000000	0	1061	Kirghizistan	427	-	427	-	-	-
+ET	8.0000000000	38.0000000000	0	1061	Ethiopie	400	-	400	-	-	-
+LR	6.5000000000	-9.5000000000	0	1061	Libéria	360	-	360	-	-	-
+MR	20.0000000000	-12.0000000000	0	1061	Mauritanie	350	-	350	190	-	190
+EG	27.0000000000	30.0000000000	0	1061	Egypte	347	-	347	-	-	-
+RW	-2.0000000000	30.0000000000	0	1061	Rwanda	321	-	321	1'285	-	1'285
+BF	13.0000000000	-2.0000000000	0	1061	Burkina Faso	250	-	250	-	-	-
+AM	40.0000000000	45.0000000000	0	1061	Arménie	219	-	219	-	-	-
+BO	-17.0000000000	-65.0000000000	0	1061	Bolivie	199	-	199	-	-	-
+			0	1061	Congo (Rép. dém.)	125	-	125	1'300	-	1'300
+BT	27.5000000000	90.5000000000	0	1061	Bhoutan	69	-	69	150	-	150
+ZA	-29.0000000000	24.0000000000	0	1061	Afrique du Sud	45	-	45	39	-	39
+			0	1061	Divers	-	-	-	7'073	-	7'073
+			1	1062	SDI - Secours Dentaire International	48	-	48	3	-	3
+			1	1063	SEED	40	-	40	36	-	36
+EC	-2.0000000000	-77.5000000000	0	1063	Equateur	28	-	28	7	-	7
+			0	1063	Divers	12	-	12	29	-	29
+			1	1064	SEPP	50	-	50	..	..	..
+PK	30.0000000000	70.0000000000	0	1064	Pakistan	50	-	50	..	..	..
+			1	1065	Servants to Asia's Urban Poor	846	-	846	685	-	685
+PH	13.0000000000	122.0000000000	0	1065	Philippines	841	-	841	674	-	674
+			0	1065	Divers	6	-	6	11	-	11
+			1	1066	Services Missionnaires Mennonites SMM	117	-	117	145	-	145
+			0	1066	Afrique de l'Est, régional	74	-	74	-	-	-
+TH	15.0000000000	100.0000000000	0	1066	Thaïlande	20	-	20	-	-	-
+			0	1066	Congo (Rép. dém.)	15	-	15	10	-	10
+			0	1066	Divers	9	-	9	136	-	136
+			1	1067	SidEcole School against Aids	17	-	17	15	-	15
+UG	2.0000000000	33.0000000000	0	1067	Ouganda	13	-	13	11	-	11
+			0	1067	Divers	4	-	4	4	-	4
+			1	1068	SIM International	162	-	162	94	-	94
+BJ	9.5000000000	2.2500000000	0	1068	Bénin	60	-	60	19	-	19
+BF	13.0000000000	-2.0000000000	0	1068	Burkina Faso	44	-	44	9	-	9
+KE	1.0000000000	38.0000000000	0	1068	Kenya	25	-	25	-	-	-
+NG	10.0000000000	8.0000000000	0	1068	Nigéria	20	-	20	9	-	9
+PE	-10.0000000000	-76.0000000000	0	1068	Pérou	13	-	13	13	-	13
+			0	1068	Divers	-	-	-	45	-	45
+			1	1069	SKF - Elisabethenwerk	649	-	649	650	-	650
+PG	-6.0000000000	147.0000000000	0	1069	Inde	247	-	247	240	-	240
+UG	2.0000000000	33.0000000000	0	1069	Ouganda	146	-	146	146	-	146
+BO	-17.0000000000	-65.0000000000	0	1069	Bolivie	128	-	128	128	-	128
+KE	1.0000000000	38.0000000000	0	1069	Kenya	46	-	46	46	-	46
+BF	13.0000000000	-2.0000000000	0	1069	Burkina Faso	15	-	15	15	-	15
+NI	13.0000000000	-85.0000000000	0	1069	Nicaragua	14	-	14	14	-	14
+			0	1069	Divers	54	-	54	62	-	62
+			1	1070	SKP - Stiftung Kinderdorf Pestalozzi	2'193	618	2'811	3'296	274	3'570
+RS	44.8189200000	20.4599800000	0	1070	Serbie	552	-	552	616	-	616
+RU	60.0000000000	100.0000000000	0	1070	Russie	-	484	484	-	-	-
+ET	8.0000000000	38.0000000000	0	1070	Ethiopie	299	-	299	392	-	392
+			0	1070	PED, non spécifié	257	-	257	265	-	265
+MK	41.8333300000	22.0000000000	0	1070	Macédoine	165	-	165	211	-	211
+LA	18.0000000000	105.0000000000	0	1070	Laos	156	-	156	188	-	188
+TH	15.0000000000	100.0000000000	0	1070	Thaïlande	147	-	147	180	-	180
+TZ	-6.0000000000	35.0000000000	0	1070	Tanzanie	140	-	140	125	-	125
+RO	46.0000000000	25.0000000000	0	1070	Roumanie	-	134	134	-	274	274
+SV	13.8333300000	-88.9166700000	0	1070	El Salvador	103	-	103	134	-	134
+MM	22.0000000000	98.0000000000	0	1070	Myanmar	101	-	101	183	-	183
+BZ	17.2500000000	-88.7500000000	0	1070	Honduras	98	-	98	129	-	129
+MD	47.0000000000	29.0000000000	0	1070	Moldavie	89	-	89	247	-	247
+GT	15.5000000000	-90.2500000000	0	1070	Guatemala	81	-	81	184	-	184
+			0	1070	Afrique de l'Est, régional	18	-	18	-	-	-
+			0	1070	Erythrée	-22	-	-22	118	-	118
+			0	1070	Divers	7	-	7	325	-	325
+			1	1071	SLS Seraphisches Liebeswerk Solothurn	1'537	18	1'555	1'557	27	1'584
+PH	13.0000000000	122.0000000000	0	1071	Philippines	1'116	-	1'116	1'079	-	1'079
+ID	-5.0000000000	120.0000000000	0	1071	Inde	128	-	128	149	-	149
+MG	-20.0000000000	47.0000000000	0	1071	Madagascar	93	-	93	109	-	109
+MW	-13.5000000000	34.0000000000	0	1071	Malawi	51	-	51	58	-	58
+BI	-3.5000000000	30.0000000000	0	1071	Burundi	27	-	27	30	-	30
+BR	-10.0000000000	-55.0000000000	0	1071	Brésil	21	-	21	23	-	23
+RO	46.0000000000	25.0000000000	0	1071	Roumanie	-	18	18	-	27	27
+			0	1071	Erythrée	16	-	16	17	-	17
+EG	27.0000000000	30.0000000000	0	1071	Egypte	15	-	15	15	-	15
+PE	-10.0000000000	-76.0000000000	0	1071	Pérou	11	-	11	13	-	13
+ZA	-29.0000000000	24.0000000000	0	1071	Afrique du Sud	11	-	11	11	-	11
+			0	1071	Soudan (sans le Sud)	11	-	11	11	-	11
+UG	2.0000000000	33.0000000000	0	1071	Ouganda	10	-	10	12	-	12
+			0	1071	Divers	27	-	27	30	-	30
+			1	1072	SME - Service Missionnaire Evangélique	413	-	413	480	-	480
+LA	18.0000000000	105.0000000000	0	1072	Laos	148	-	148	219	-	219
+LB	33.8333300000	35.8333300000	0	1072	Liban	65	-	65	42	-	42
+TD	15.0000000000	19.0000000000	0	1072	Tchad	57	-	57	90	-	90
+BF	13.0000000000	-2.0000000000	0	1072	Burkina Faso	51	-	51	60	-	60
+BJ	9.5000000000	2.2500000000	0	1072	Bénin	40	-	40	-	-	-
+NE	18.0000000000	9.0000000000	0	1072	Niger	34	-	34	41	-	41
+NP	28.0000000000	84.0000000000	0	1072	Népal	12	-	12	7	-	7
+			0	1072	Divers	5	-	5	22	-	22
+			1	1073	Soeurs Missionnaires du Saint-Esprit	10	-	10	10	-	10
+			0	1073	Congo (Rép.)	10	-	10	10	-	10
+			1	1074	Solidar Suisse	6'012	40	6'051	5'110	23	5'133
+LK	7.0000000000	81.0000000000	0	1074	Sri Lanka	1'448	-	1'448	743	-	743
+BD	24.0000000000	90.0000000000	0	1074	Pakistan	1'258	-	1'258	585	-	585
+BF	13.0000000000	-2.0000000000	0	1074	Burkina Faso	985	-	985	933	-	933
+ID	-5.0000000000	120.0000000000	0	1074	Indonésie	720	-	720	1'020	-	1'020
+			0	1074	PED, non spécifié	476	-	476	564	-	564
+NI	13.0000000000	-85.0000000000	0	1074	Nicaragua	294	-	294	337	-	337
+RS	44.8189200000	20.4599800000	0	1074	Serbie	222	-	222	87	-	87
+MZ	-18.2500000000	35.0000000000	0	1074	Mozambique	184	-	184	227	-	227
+SV	13.8333300000	-88.9166700000	0	1074	El Salvador	146	-	146	296	-	296
+XK	42.5833300000	21.0000000000	0	1074	Kosovo	97	-	97	159	-	159
+ZA	-29.0000000000	24.0000000000	0	1074	Afrique du Sud	60	-	60	14	-	14
+BO	-17.0000000000	-65.0000000000	0	1074	Bolivie	42	-	42	56	-	56
+			0	1074	Gaza et Cisjordanie	42	-	42	74	-	74
+			0	1074	Hong Kong, Chine	-	40	40	-	23	23
+BJ	9.5000000000	2.2500000000	0	1074	Bénin	37	-	37	13	-	13
+			1	1075	SolidarMed	2'539	-	2'539	2'332	-	2'332
+TZ	-6.0000000000	35.0000000000	0	1075	Tanzanie	1'298	-	1'298	1'261	-	1'261
+ZW	-19.0000000000	29.0000000000	0	1075	Zimbabwe	436	-	436	444	-	444
+MZ	-18.2500000000	35.0000000000	0	1075	Mozambique	406	-	406	316	-	316
+LS	-29.5000000000	28.2500000000	0	1075	Lesotho	392	-	392	311	-	311
+			0	1075	Divers	8	-	8	-	-	-
+			1	1076	Song Kiiba	69	-	69	61	-	61
+BF	13.0000000000	-2.0000000000	0	1076	Burkina Faso	69	-	69	61	-	61
+			1	1077	SRK / CRS	21'180	382	21'561	25'013	327	25'340
+PK	30.0000000000	70.0000000000	0	1077	Pakistan	2'704	-	2'704	1'943	-	1'943
+			0	1077	PED, non spécifié	2'599	-	2'599	2'492	-	2'492
+HT	19.0000000000	-72.4166700000	0	1077	Haïti	1'903	-	1'903	5'770	-	5'770
+SZ	-26.5000000000	31.5000000000	0	1077	Swaziland	1'222	-	1'222	1'776	-	1'776
+VN	16.1666700000	107.8333300000	0	1077	Viet Nam	1'083	-	1'083	322	-	322
+BZ	17.2500000000	-88.7500000000	0	1077	Honduras	816	-	816	597	-	597
+ID	-5.0000000000	120.0000000000	0	1077	Indonésie	676	-	676	3'114	-	3'114
+TG	8.0000000000	1.1666700000	0	1077	Togo	674	-	674	691	-	691
+KE	1.0000000000	38.0000000000	0	1077	Kenya	636	-	636	13	-	13
+GH	8.1000000000	-1.2000000000	0	1077	Ghana	613	-	613	711	-	711
+SM	43.9367000000	12.4463000000	0	1077	Mali	587	-	587	165	-	165
+KG	41.0000000000	75.0000000000	0	1077	Kirghizistan	553	-	553	155	-	155
+PY	-22.9933300000	-57.9963900000	0	1077	Paraguay	498	-	498	457	-	457
+LA	18.0000000000	105.0000000000	0	1077	Laos	493	-	493	332	-	332
+NP	28.0000000000	84.0000000000	0	1077	Népal	489	-	489	425	-	425
+			0	1077	Nord du Sahara, régional	488	-	488	-	-	-
+BY	53.0000000000	28.0000000000	0	1077	Bélarus	488	-	488	290	-	290
+BD	24.0000000000	90.0000000000	0	1077	Bangladesh	463	-	463	669	-	669
+BO	-17.0000000000	-65.0000000000	0	1077	Bolivie	377	-	377	299	-	299
+RO	46.0000000000	25.0000000000	0	1077	Roumanie	-	359	359	-	327	327
+			0	1077	Erythrée	352	-	352	478	-	478
+EG	27.0000000000	30.0000000000	0	1077	Egypte	332	-	332	3	-	3
+SV	13.8333300000	-88.9166700000	0	1077	El Salvador	326	-	326	294	-	294
+ID	-5.0000000000	120.0000000000	0	1077	Inde	305	-	305	409	-	409
+KH	13.0000000000	105.0000000000	0	1077	Cambodge	305	-	305	443	-	443
+SS	7.5000000000	30.0000000000	0	1077	Soudan du Sud	281	-	281	-	-	-
+CL	-30.0000000000	-71.0000000000	0	1077	Chili	258	-	258	2	-	2
+MD	47.0000000000	29.0000000000	0	1077	Moldavie	256	-	256	180	-	180
+CN	35.0000000000	105.0000000000	0	1077	Chine	229	-	229	327	-	327
+			0	1077	Afrique de l'Est, régional	189	-	189	-	-	-
+ET	8.0000000000	38.0000000000	0	1077	Ethiopie	177	-	177	66	-	66
+TR	39.0590100000	34.9115500000	0	1077	Turquie	146	-	146	-	-	-
+BA	44.2500000000	17.8333300000	0	1077	Bosnie-Herzégovine	145	-	145	185	-	185
+CO	4.0000000000	-72.0000000000	0	1077	Colombie	143	-	143	-	-	-
+EC	-2.0000000000	-77.5000000000	0	1077	Equateur	121	-	121	196	-	196
+LB	33.8333300000	35.8333300000	0	1077	Liban	112	-	112	-	-	-
+			0	1077	Amérique du Sud, régional	112	-	112	138	-	138
+ZW	-19.0000000000	29.0000000000	0	1077	Zimbabwe	72	-	72	97	-	97
+BG	43.0000000000	25.0000000000	0	1077	Bulgarie	-	23	23	-	-	-
+			0	1077	Soudan (sans le Sud)	-59	-	-59	1'330	-	1'330
+			0	1077	Divers	16	-	16	644	-	644
+			1	1078	SSI Suisse	650	-	650	600	6	607
+			0	1078	Afrique de l'Ouest, régional	500	-	500	-	-	-
+			0	1078	PED, non spécifié	150	-	150	165	-	165
+			0	1078	Divers	-	-	-	436	6	442
+			1	1079	SSOR	-	29	29	-	188	188
+RO	46.0000000000	25.0000000000	0	1079	Roumanie	-	29	29	-	188	188
+			1	1080	St. Petrus-Claver-Sodalität	1'373	-	1'373	1'020	10	1'030
+PG	-6.0000000000	147.0000000000	0	1080	Inde	490	-	490	621	-	621
+TZ	-6.0000000000	35.0000000000	0	1080	Tanzanie	347	-	347	-	-	-
+KE	1.0000000000	38.0000000000	0	1080	Kenya	101	-	101	-	-	-
+PH	13.0000000000	122.0000000000	0	1080	Philippines	68	-	68	67	-	67
+GH	8.1000000000	-1.2000000000	0	1080	Ghana	63	-	63	-	-	-
+VN	16.1666700000	107.8333300000	0	1080	Viet Nam	50	-	50	109	-	109
+UG	2.0000000000	33.0000000000	0	1080	Ouganda	38	-	38	19	-	19
+HT	19.0000000000	-72.4166700000	0	1080	Haïti	32	-	32	-	-	-
+MG	-20.0000000000	47.0000000000	0	1080	Madagascar	29	-	29	57	-	57
+ET	8.0000000000	38.0000000000	0	1080	Ethiopie	25	-	25	-	-	-
+BF	13.0000000000	-2.0000000000	0	1080	Burkina Faso	19	-	19	-	-	-
+MW	-13.5000000000	34.0000000000	0	1080	Malawi	17	-	17	11	-	11
+MM	22.0000000000	98.0000000000	0	1080	Myanmar	17	-	17	41	-	41
+BD	24.0000000000	90.0000000000	0	1080	Bangladesh	14	-	14	-	-	-
+ZA	-29.0000000000	24.0000000000	0	1080	Afrique du Sud	14	-	14	-	-	-
+LK	7.0000000000	81.0000000000	0	1080	Sri Lanka	14	-	14	34	-	34
+			0	1080	Divers	37	-	37	61	10	71
+			1	1081	Stanley Thomas Johnson Stiftung	395	-	395	646	-	646
+LA	18.0000000000	105.0000000000	0	1081	Laos	110	-	110	-	-	-
+PE	-10.0000000000	-76.0000000000	0	1081	Pérou	100	-	100	100	-	100
+EC	-2.0000000000	-77.5000000000	0	1081	Equateur	70	-	70	-	-	-
+BD	24.0000000000	90.0000000000	0	1081	Bangladesh	30	-	30	-	-	-
+CV	16.0000000000	-24.0000000000	0	1081	Cap-Vert	30	-	30	-	-	-
+NG	10.0000000000	8.0000000000	0	1081	Nigéria	30	-	30	-	-	-
+TZ	-6.0000000000	35.0000000000	0	1081	Tanzanie	25	-	25	70	-	70
+			0	1081	Divers	-	-	-	476	-	476
+			1	1082	Steyler Missionare Schweiz	1'388	19	1'407	1'550	-	1'550
+ID	-5.0000000000	120.0000000000	0	1082	Indonésie	273	-	273	430	-	430
+CO	4.0000000000	-72.0000000000	0	1082	Colombie	215	-	215	-	-	-
+GH	8.1000000000	-1.2000000000	0	1082	Ghana	195	-	195	179	-	179
+BR	-10.0000000000	-55.0000000000	0	1082	Brésil	192	-	192	246	-	246
+ID	-5.0000000000	120.0000000000	0	1082	Inde	120	-	120	117	-	117
+			0	1082	Congo (Rép. dém.)	120	-	120	39	-	39
+PH	13.0000000000	122.0000000000	0	1082	Philippines	115	-	115	19	-	19
+CU	22.0000000000	-79.5000000000	0	1082	Cuba	47	-	47	-	-	-
+PY	-22.9933300000	-57.9963900000	0	1082	Paraguay	28	-	28	81	-	81
+			0	1082	Taipei chinois (Taiwan)	-	19	19	-	-	-
+PG	-6.0000000000	147.0000000000	0	1082	Papouasie-Nouvelle-Guinée	17	-	17	23	-	23
+KE	1.0000000000	38.0000000000	0	1082	Kenya	17	-	17	21	-	21
+BO	-17.0000000000	-65.0000000000	0	1082	Bolivie	14	-	14	11	-	11
+EC	-2.0000000000	-77.5000000000	0	1082	Equateur	13	-	13	92	-	92
+			0	1082	Divers	22	-	22	292	-	292
+			1	1083	Stiftung BPN / BPN Foundation	770	-	770	599	-	599
+KG	41.0000000000	75.0000000000	0	1083	Kirghizistan	325	-	325	242	-	242
+NI	13.0000000000	-85.0000000000	0	1083	Nicaragua	174	-	174	251	-	251
+RW	-2.0000000000	30.0000000000	0	1083	Rwanda	136	-	136	-	-	-
+BJ	9.5000000000	2.2500000000	0	1083	Bénin	99	-	99	106	-	106
+MN	46.0000000000	105.0000000000	0	1083	Mongolie	36	-	36	-	-	-
+			1	1084	Stiftung Calcutta Project Basel	68	-	68	92	-	92
+ID	-5.0000000000	120.0000000000	0	1084	Inde	68	-	68	92	-	92
+			1	1085	Stiftung Green Ethiopia	632	-	632	633	-	633
+ET	8.0000000000	38.0000000000	0	1085	Ethiopie	632	-	632	633	-	633
+			1	1086	Stiftung Interkonfessionelle Aktion Solidarität Dritte Welt	629	-	629	682	-	682
+BR	-10.0000000000	-55.0000000000	0	1086	Brésil	61	-	61	61	-	61
+TZ	-6.0000000000	35.0000000000	0	1086	Tanzanie	41	-	41	41	-	41
+MG	-20.0000000000	47.0000000000	0	1086	Madagascar	40	-	40	42	-	42
+PE	-10.0000000000	-76.0000000000	0	1086	Pérou	39	-	39	31	-	31
+RW	-2.0000000000	30.0000000000	0	1086	Rwanda	38	-	38	38	-	38
+ID	-5.0000000000	120.0000000000	0	1086	Indonésie	37	-	37	37	-	37
+KE	1.0000000000	38.0000000000	0	1086	Kenya	35	-	35	35	-	35
+PH	13.0000000000	122.0000000000	0	1086	Philippines	35	-	35	35	-	35
+BI	-3.5000000000	30.0000000000	0	1086	Burundi	33	-	33	28	-	28
+CL	-30.0000000000	-71.0000000000	0	1086	Chili	27	-	27	27	-	27
+BD	24.0000000000	90.0000000000	0	1086	Pakistan	20	-	20	20	-	20
+LK	7.0000000000	81.0000000000	0	1086	Sri Lanka	20	-	20	20	-	20
+			0	1086	Afrique de l'Ouest, régional	18	-	18	18	-	18
+			0	1086	Soudan (sans le Sud)	18	-	18	18	-	18
+ET	8.0000000000	38.0000000000	0	1086	Ethiopie	18	-	18	18	-	18
+BO	-17.0000000000	-65.0000000000	0	1086	Bolivie	16	-	16	-	-	-
+			0	1086	Gaza et Cisjordanie	15	-	15	14	-	14
+HT	19.0000000000	-72.4166700000	0	1086	Haïti	15	-	15	10	-	10
+CM	6.0000000000	12.0000000000	0	1086	Cameroun	13	-	13	45	-	45
+NI	13.0000000000	-85.0000000000	0	1086	Nicaragua	12	-	12	10	-	10
+			0	1086	Congo (Rép. dém.)	11	-	11	33	-	33
+CO	4.0000000000	-72.0000000000	0	1086	Colombie	10	-	10	10	-	10
+SV	13.8333300000	-88.9166700000	0	1086	El Salvador	10	-	10	10	-	10
+SM	43.9367000000	12.4463000000	0	1086	Mali	10	-	10	10	-	10
+ZM	-15.0000000000	30.0000000000	0	1086	Zambie	10	-	10	10	-	10
+			0	1086	Divers	28	-	28	61	-	61
+			1	1087	Stiftung Kinderdirekthilfe Kolumbien	529	-	529	493	-	493
+CO	4.0000000000	-72.0000000000	0	1087	Colombie	529	-	529	493	-	493
+			1	1088	Stiftung Kinderspital Kantha Bopha	38'800	-	38'800	27'200	-	27'200
+KH	13.0000000000	105.0000000000	0	1088	Cambodge	38'800	-	38'800	27'200	-	27'200
+			1	1089	Stiftung Kunst für den Tropenwald	50	-	50	..	..	..
+			0	1089	Amérique, régional	50	-	50	..	..	..
+			1	1090	Stiftung Lotti Latrous	3'198	-	3'198	2'789	-	2'789
+CI	8.0000000000	-5.0000000000	0	1090	Côte d'Ivoire	3'198	-	3'198	2'789	-	2'789
+			1	1091	Stiftung Martin Stucki für Schulen in Afrika	177	-	177	378	-	378
+CM	6.0000000000	12.0000000000	0	1091	Cameroun	177	-	177	378	-	378
+			1	1092	Stiftung Menschen für Menschen	2'569	-	2'569	2'761	-	2'761
+ET	8.0000000000	38.0000000000	0	1092	Ethiopie	2'569	-	2'569	2'761	-	2'761
+			1	1093	Stiftung NIMA	150	-	150	120	-	120
+CN	35.0000000000	105.0000000000	0	1093	Chine	150	-	150	120	-	120
+			1	1094	Stiftung Novartis für Nachhaltige Entwicklung	5'652	-	5'652	5'969	-	5'969
+			0	1094	PED, non spécifié	1'549	-	1'549	1'497	-	1'497
+TZ	-6.0000000000	35.0000000000	0	1094	Tanzanie	1'541	-	1'541	1'657	-	1'657
+			0	1094	Afrique, régional	1'082	-	1'082	1'045	-	1'045
+ML	18.0000000000	-2.0000000000	0	1094	Mali	554	-	554	569	-	569
+GH	8.1000000000	-1.2000000000	0	1094	Ghana	414	-	414	685	-	685
+ID	-5.0000000000	120.0000000000	0	1094	Inde	266	-	266	280	-	280
+BT	27.5000000000	90.5000000000	0	1094	Bhoutan	100	-	100	50	-	50
+KH	13.0000000000	105.0000000000	0	1094	Cambodge	77	-	77	85	-	85
+BR	-10.0000000000	-55.0000000000	0	1094	Brésil	57	-	57	86	-	86
+CN	35.0000000000	105.0000000000	0	1094	Chine	14	-	14	15	-	15
+			1	1095	Stiftung Osteuropa Mission Schweiz	429	285	714	-	-	-
+RO	46.0000000000	25.0000000000	0	1095	Roumanie	-	285	285	-	-	-
+UA	49.0000000000	32.0000000000	0	1095	Ukraine	160	-	160	-	-	-
+			0	1095	Europe de l'Est, régional	145	-	145	-	-	-
+RS	44.8189200000	20.4599800000	0	1095	Serbie	65	-	65	-	-	-
+GE	41.9999800000	43.4999000000	0	1095	Géorgie	35	-	35	-	-	-
+			0	1095	Amérique du Sud, régional	10	-	10	-	-	-
+			0	1095	Divers	14	-	14	-	-	-
+			1	1096	Stiftung Pro Diamantina	161	-	161	143	-	143
+BR	-10.0000000000	-55.0000000000	0	1096	Brésil	161	-	161	143	-	143
+			1	1097	Stiftung Pukllasunchis	571	-	571	634	-	634
+PE	-10.0000000000	-76.0000000000	0	1097	Pérou	571	-	571	634	-	634
+			1	1098	Stiftung Schulen für Afghanistan	40	-	40	..	..	..
+AF	33.0000000000	66.0000000000	0	1098	Afghanistan	40	-	40	..	..	..
+			1	1099	Stiftung SOS-Kinderdorf Schweiz	12'959	1'062	14'022	12'544	946	13'491
+			0	1099	Afrique, régional	1'896	-	1'896	-	-	-
+			0	1099	Asie, régional	1'760	-	1'760	-	-	-
+			0	1099	Amérique du Sud, régional	1'659	-	1'659	-	-	-
+RU	60.0000000000	100.0000000000	0	1099	Russie	-	1'062	1'062	-	931	931
+			0	1099	Centrafricaine, Rép.	1'048	-	1'048	470	-	470
+MX	23.0000000000	-102.0000000000	0	1099	Mexique	718	-	718	634	-	634
+AO	-12.5000000000	18.5000000000	0	1099	Angola	620	-	620	465	-	465
+GH	8.1000000000	-1.2000000000	0	1099	Ghana	599	-	599	39	-	39
+PE	-10.0000000000	-76.0000000000	0	1099	Pérou	573	-	573	500	-	500
+KZ	48.0000000000	68.0000000000	0	1099	Kazakhstan	561	-	561	403	-	403
+AZ	40.5000000000	47.5000000000	0	1099	Azerbaïdjan	527	-	527	397	-	397
+LS	-29.5000000000	28.2500000000	0	1099	Lesotho	421	-	421	268	-	268
+NI	13.0000000000	-85.0000000000	0	1099	Nicaragua	387	-	387	278	-	278
+PH	13.0000000000	122.0000000000	0	1099	Philippines	369	-	369	285	-	285
+NP	28.0000000000	84.0000000000	0	1099	Népal	365	-	365	261	-	261
+			0	1099	Europe de l'Est, régional	349	-	349	-	-	-
+ET	8.0000000000	38.0000000000	0	1099	Ethiopie	335	-	335	92	-	92
+LK	7.0000000000	81.0000000000	0	1099	Sri Lanka	305	-	305	238	-	238
+CO	4.0000000000	-72.0000000000	0	1099	Colombie	262	-	262	1'559	-	1'559
+			0	1099	Afrique de l'Est, régional	151	-	151	-	-	-
+HT	19.0000000000	-72.4166700000	0	1099	Haïti	54	-	54	220	-	220
+			0	1099	Divers	-	-	-	6'437	15	6'452
+			1	1100	Stiftung Sozialwerke Peter Bachmann	890	-	890	890	-	890
+			0	1100	Sud du Sahara, régional	890	-	890	890	-	890
+			1	1101	Stiftung St. Martin	827	-	827	824	-	824
+CM	6.0000000000	12.0000000000	0	1101	Cameroun	782	-	782	806	-	806
+			0	1101	PED, non spécifié	34	-	34	12	-	12
+			0	1101	Divers	10	-	10	6	-	6
+			1	1102	Stiftung Vivamos Mejor	1'247	-	1'247	904	-	904
+CO	4.0000000000	-72.0000000000	0	1102	Colombie	424	-	424	313	-	313
+GT	15.5000000000	-90.2500000000	0	1102	Guatemala	395	-	395	355	-	355
+NI	13.0000000000	-85.0000000000	0	1102	Nicaragua	263	-	263	95	-	95
+BR	-10.0000000000	-55.0000000000	0	1102	Brésil	164	-	164	142	-	142
+			1	1103	Stiftung Wakina Mama na Watoto	44	-	44	145	-	145
+TZ	-6.0000000000	35.0000000000	0	1103	Tanzanie	44	-	44	145	-	145
+			1	1104	Stiftung Welt ohne Minen	694	-	694	823	-	823
+			0	1104	PED, non spécifié	694	-	694	823	-	823
+			1	1105	Stiftung ZOE - Kinder in Not	221	-	221	225	-	225
+GH	8.1000000000	-1.2000000000	0	1105	Ghana	221	-	221	225	-	225
+			1	1106	SUKE - Schweizerisches Unterstützungskomitee für Eritrea	513	-	513	287	-	287
+			0	1106	Erythrée	513	-	513	287	-	287
+			1	1107	Surya Association Drukpa Suisse	19	-	19	24	-	24
+NP	28.0000000000	84.0000000000	0	1107	Népal	19	-	19	-	-	-
+			0	1107	Divers	-	-	-	24	-	24
+			1	1108	Swiss Aids Care International	2'000	-	2'000	1'050	-	1'050
+ZW	-19.0000000000	29.0000000000	0	1108	Zimbabwe	2'000	-	2'000	1'050	-	1'050
+			1	1109	Swiss Fair Trade	168	-	168	..	..	..
+			0	1109	PED, non spécifié	168	-	168	..	..	..
+			1	1110	Swiss Laos Hospital Project	300	-	300	300	-	300
+LA	18.0000000000	105.0000000000	0	1110	Laos	300	-	300	300	-	300
+			1	1111	Swiss Mongolian Pediatric Project (SMOPP)	63	-	63	..	..	..
+MN	46.0000000000	105.0000000000	0	1111	Mongolie	63	-	63	..	..	..
+			1	1112	Swiss Relief	350	-	350	300	-	300
+			0	1112	PED, non spécifié	350	-	350	-	-	-
+			0	1112	Divers	-	-	-	300	-	300
+			1	1113	SWISSAID	3'713	-	3'713	4'153	-	4'153
+ID	-5.0000000000	120.0000000000	0	1113	Inde	532	-	532	732	-	732
+CO	4.0000000000	-72.0000000000	0	1113	Colombie	523	-	523	619	-	619
+NE	18.0000000000	9.0000000000	0	1113	Niger	420	-	420	297	-	297
+EC	-2.0000000000	-77.5000000000	0	1113	Equateur	410	-	410	633	-	633
+GW	12.0000000000	-15.0000000000	0	1113	Guinée-Bissau	390	-	390	268	-	268
+NI	13.0000000000	-85.0000000000	0	1113	Nicaragua	385	-	385	508	-	508
+TD	15.0000000000	19.0000000000	0	1113	Tchad	355	-	355	308	-	308
+MM	22.0000000000	98.0000000000	0	1113	Myanmar	350	-	350	535	-	535
+TZ	-6.0000000000	35.0000000000	0	1113	Tanzanie	327	-	327	242	-	242
+			0	1113	Afrique, régional	18	-	18	11	-	11
+			1	1114	Swisscontact	6'894	-	6'894	9'960	-	9'960
+ID	-5.0000000000	120.0000000000	0	1114	Indonésie	1'350	-	1'350	1'897	-	1'897
+PE	-10.0000000000	-76.0000000000	0	1114	Pérou	886	-	886	1'484	-	1'484
+BF	13.0000000000	-2.0000000000	0	1114	Burkina Faso	586	-	586	645	-	645
+UG	2.0000000000	33.0000000000	0	1114	Ouganda	487	-	487	725	-	725
+			0	1114	PED, non spécifié	426	-	426	435	-	435
+TZ	-6.0000000000	35.0000000000	0	1114	Tanzanie	402	-	402	152	-	152
+NG	10.0000000000	8.0000000000	0	1114	Niger	399	-	399	489	-	489
+KE	1.0000000000	38.0000000000	0	1114	Kenya	361	-	361	350	-	350
+BO	-17.0000000000	-65.0000000000	0	1114	Bolivie	344	-	344	505	-	505
+CO	4.0000000000	-72.0000000000	0	1114	Colombie	315	-	315	75	-	75
+BJ	9.5000000000	2.2500000000	0	1114	Bénin	238	-	238	536	-	536
+EC	-2.0000000000	-77.5000000000	0	1114	Equateur	200	-	200	167	-	167
+			0	1114	Europe du Sud-Est, régional	190	-	190	167	-	167
+ZA	-29.0000000000	24.0000000000	0	1114	Afrique du Sud	127	-	127	304	-	304
+			0	1114	Dominicaine, République	124	-	124	105	-	105
+ML	18.0000000000	-2.0000000000	0	1114	Mali	114	-	114	140	-	140
+SV	13.8333300000	-88.9166700000	0	1114	El Salvador	96	-	96	183	-	183
+BZ	17.2500000000	-88.7500000000	0	1114	Honduras	92	-	92	533	-	533
+BD	24.0000000000	90.0000000000	0	1114	Bangladesh	65	-	65	87	-	87
+GT	15.5000000000	-90.2500000000	0	1114	Guatemala	50	-	50	-	-	-
+UA	49.0000000000	32.0000000000	0	1114	Ukraine	43	-	43	448	-	448
+			0	1114	Divers	-	-	-	534	-	534
+			1	1115	Swisshand	314	-	314	268	-	268
+UG	2.0000000000	33.0000000000	0	1115	Ouganda	144	-	144	70	-	70
+NG	10.0000000000	8.0000000000	0	1115	Nigéria	66	-	66	51	-	51
+ET	8.0000000000	38.0000000000	0	1115	Ethiopie	35	-	35	48	-	48
+			0	1115	Congo (Rép. dém.)	29	-	29	61	-	61
+KE	1.0000000000	38.0000000000	0	1115	Kenya	19	-	19	20	-	20
+			0	1115	Divers	22	-	22	18	-	18
+			1	1116	Swiss-Nepalese Society	208	-	208	..	..	..
+NP	28.0000000000	84.0000000000	0	1116	Népal	208	-	208	..	..	..
