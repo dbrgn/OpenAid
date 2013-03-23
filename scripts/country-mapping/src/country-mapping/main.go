@@ -19,7 +19,7 @@ func lookup(country string) (string, string, string) {
 
 	var input struct {
 		Query string `json:"query"`
-		Limit int `json:"limit"`
+		Limit int    `json:"limit"`
 	}
 	input.Query = "[ a.countryCode, a.lat, a.lon | " +
 		"a <- geonames, " +
@@ -62,6 +62,7 @@ func lookup(country string) (string, string, string) {
 
 func main() {
 	log.SetFlags(log.Ldate | log.Ltime | log.Lshortfile)
+	var name = flag.String("name", "", "\tattribute name")
 	var in = flag.String("in", "", "\tinput file name")
 	var out = flag.String("out", "", "\toutput file name")
 	flag.Parse()
@@ -72,38 +73,39 @@ func main() {
 	}
 	defer inFile.Close()
 
+	idx := -1
 	inBuf := bufio.NewReader(inFile)
 	output := ""
 	for no := 0; ; no++ {
-		res := ""
-		tab := ""
+		log.Printf("line %v", no)
 
-		str, _ := inBuf.ReadString('\n')
-		if len(str) == 0 {
+		row, _ := inBuf.ReadString('\n')
+		if len(row) == 0 {
 			break
 		}
 
-		log.Printf("line %v", no)
-		if no == 0 {
-			res = "country_code\tlat\tlon\t" + str
-		} else {
-			country := ""
-			for idx, attr := range strings.Split(str, "\t") {
-				if idx == 2 {
-					country = attr
+		tab, prefix := "", ""
+		for i, attr := range strings.Split(row, "\t") {
+			if no == 0 {
+				if attr == *name {
+					idx = i
 				}
-				res += tab + attr
-				tab = "\t"
+				prefix = "country_code\tlat\tlon\t"
+			} else {
+				if i == idx {
+					tab = "\t"
+					code, lat, lon := lookup(attr)
+					if len(code) == 0 {
+						log.Printf("failed to lookup '%v'", attr)
+					}
+					prefix = code + tab + lat + tab + lon + tab
+				}
 			}
 
-			code, lat, lon := lookup(country)
-			if len(code) == 0 {
-				log.Printf("failed to lookup '%v'", country)
-			}
-			res = code + tab + lat + tab + lon + tab + res
 		}
 
-		output += res
+		row = prefix + row
+		output += row
 	}
 
 	ioutil.WriteFile(*out, []byte(output), 0666)
