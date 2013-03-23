@@ -32,6 +32,9 @@ var path = d3.geo.path()
 
 var all_nodes = [], all_links = [];
 
+is_node = function(d) { return d.hasOwnProperty("x") && d.hasOwnProperty("y"); }
+is_link = function(d) { return d.hasOwnProperty("source") && d.hasOwnProperty("target"); }
+
 var svg = d3.select("#svg").append("svg")
     .attr("width", width)
     .attr("height", heights.total);
@@ -261,6 +264,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
     (function(nodelinks, undefined) {
 
+        // Draw links as bézier curves
         svg.selectAll(".link")
             .data(all_links)
           .enter().append("path")
@@ -274,6 +278,9 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                        " " + d.target.x + "," + (d.target.y - (Math.abs(dx) / 2)) + // Second control point
                        " " + d.target.x + "," + d.target.y; // Target point
             });
+
+        // Reorder SVG elements in the DOM (z-index)
+        d3.selectAll("circle, path.link").sort(function(a, b) { return is_link(b) ? 1 : -1; });
 
     }(window.nodelinks = window.nodelinks || {}));
 
