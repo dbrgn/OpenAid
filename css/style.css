@@ -29,6 +29,7 @@ header { text-align: center; margin-bottom: 30px; }
     header .wrapper { position: relative; }
     header p { font-size: 18px; }
     header p.intro { font-size: 24px; color: rgba(255,255,255,0.9); margin: 20px 0 0 0; }
+    header .warning { color: #F05C22; font-size: 1.4em; }
     #languageSwitch { position: absolute; right: 0; font-size: 20px; }
     #languageSwitch li { display: inline-block; margin-left: 10px; }
     #opendata { opacity: 0.7; }
