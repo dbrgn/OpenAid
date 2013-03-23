@@ -263,18 +263,16 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .data(all_links)
           .enter().append("path")
             .attr("class", "link")
-            /*.attr("x1", function(d) { return all_nodes.filter(function(dd) { return dd.id == d.from; })[0].x; })
-            .attr("y1", function(d) { return .y; })
-            .attr("x2", function(d) { return all_nodes.filter(function(dd) { return dd.id == d.to; })[0].x; })
-            .attr("y2", function(d) { return all_nodes.filter(function(dd) { return dd.id == d.to; })[0].y; })*/
             .attr("d", function(d) {
                 var source = all_nodes.filter(function(dd) { return dd.id == d.from; })[0];
                 var target = all_nodes.filter(function(dd) { return dd.id == d.to; })[0];
                 var dx = target.x - source.x,
                     dy = target.y - source.y,
                     dr = Math.sqrt(dx * dx + dy * dy);
-                return "M" + source.x + "," + source.y +
-                       "C" + source.x + "," + source.y + " " + source.x + "," + (source.y + (dy / 2)) + " " + target.x + "," + target.y;
+                return "M" + source.x + "," + source.y +              // Start point
+                       "C" + source.x + "," + (source.y + (Math.abs(dx) / 2)) + // First control point
+                       " " + target.x + "," + (target.y - (Math.abs(dx) / 2)) + // Second control point
+                       " " + target.x + "," + target.y;               // Target point
             });
 
     }(window.nodelinks = window.nodelinks || {}));
