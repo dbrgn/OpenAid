@@ -21,7 +21,7 @@ path {
     stroke-width: 0px;
 }
  
-.cantonbubble {
+.bubble {
     fill: #667;
 }
  
@@ -32,19 +32,33 @@ path {
 <script src="topojson.v0.min.js"></script>
 <script>
  
-var width = 960,
-    height = 500;
+var width = 960;
+var heights = {
+    step1: 800,
+    step2: 700,
+    step3: 500,
+    step4: 700,
+    step5: 900,
+    total: 3600
+};
+var margins = {
+    step1: {top: 100, bottom: 0, left: 60, right: 60},
+    step2: {top: 0, bottom: 0, left: 0, right: 0},
+    step3: {top: 0, bottom: 0, left: 0, right: 0},
+    step4: {top: 0, bottom: 0, left: 0, right: 0},
+    step5: {top: 0, bottom: 0, left: 0, right: 0}
+}
 
 var projection = d3.geo.albers()
     .rotate([0, 0])
     .center([8.43, 46.8])
     .scale(13600);
 
-var cantonbubble_area = d3.scale.linear()
-    .range([20, 5000]);
+var bubble_area = d3.scale.linear()
+    .range([20, 150 * 150 * Math.PI]);
 
-var cantonbubble_radius = function(value) {
-    return Math.sqrt(cantonbubble_area(value) / Math.PI);
+var bubble_radius = function(value) {
+    return Math.sqrt(bubble_area(value) / Math.PI);
 }
  
 var path = d3.geo.path()
@@ -53,115 +67,163 @@ var path = d3.geo.path()
 var force = d3.layout.force()
     .charge(0)
     .gravity(0)
-    .size([width, height]);
+    .size([width, heights.step1]);
  
 var svg = d3.select("body").append("svg")
     .attr("width", width)
-    .attr("height", height);
+    .attr("height", heights.total);
 
 queue()
     .defer(d3.json, "switzerland.topo.json")
     .defer(d3.json, "switzerland.geo.json")
     .defer(d3.tsv, "statistiken_2011.kantone.tsv") // TODO load from data directory directly
+    .defer(d3.tsv, "statistiken_2011.alles.tsv") // TODO load from data directory directly
     .await(ready);
  
-foo = null;
-bar = null;
+function ready(error, topology, canton_shapes, canton_data, summary_data) {
 
-function ready(error, topology, canton_shapes, canton_data) {
+    window.summary_data = summary_data;
 
-    /*** SWITZERLAND ***/
+    var money_items_2010 = d3.nest().key(function(e) { return e.year; }).map(summary_data)["2010"];
+    var total_money_2010 = d3.sum(money_items_2010.map(function(e) { return +e.money; }));
+    bubble_area.domain([0, total_money_2010 / 1000]);
 
-    svg.append("path")
-        .datum(topojson.object(topology, topology.objects["swiss-cantons"]))
-        .attr("d", path)
-        .attr("class", "cantons");
+    (function(step1, undefined) {
+
+        /*** SWITZERLAND ***/
+
+        svg.append("path")
+            .datum(topojson.object(topology, topology.objects["swiss-cantons"]))
+            .attr("d", path)
+            .attr("class", "cantons");
+
+        /*svg.append("path")
+            .datum(topojson.mesh(topology, topology.objects["swiss-municipalities"], function(a, b) { return a.properties.bfsNo !== b.properties.bfsNo }))
+            .attr("d", path)
+            .attr("class", "municipality-boundary");*/
+
+        svg.append("path")
+            .datum(topojson.mesh(topology, topology.objects["swiss-cantons"], function(a, b) { return a.properties.no !== b.properties.no}))
+            .attr("d", path)
+            .attr("class", "canton-boundary");
+
+        svg.append("path")
+            .datum(topojson.mesh(topology, topology.objects["swiss-cantons"], function(a, b) { return a.properties.no === b.properties.no; }))
+            .attr("d", path)
+            .attr("class", "land-boundary");
+
    
-    /*svg.append("path")
-        .datum(topojson.mesh(topology, topology.objects["swiss-municipalities"], function(a, b) { return a.properties.bfsNo !== b.properties.bfsNo }))
-        .attr("d", path)
-        .attr("class", "municipality-boundary");*/
-   
-    svg.append("path")
-        .datum(topojson.mesh(topology, topology.objects["swiss-cantons"], function(a, b) { return a.properties.no !== b.properties.no}))
-        .attr("d", path)
-        .attr("class", "canton-boundary");
-  
-    svg.append("path")
-        .datum(topojson.mesh(topology, topology.objects["swiss-cantons"], function(a, b) { return a.properties.no === b.properties.no; }))
-        .attr("d", path)
-        .attr("class", "land-boundary");
+        /*** DORLING CARTOGRAM ***/
 
+        var idToNode = {};
+        var links = [];
 
-    /*** DORLING CARTOGRAM ***/
+        var canton_data_map = d3.nest()
+            .key(function(e) { return e.abbrev; })
+            .map(canton_data);
 
-    var idToNode = {};
-    var links = [];
-
-    var canton_data_map = d3.nest()
-        .key(function(e) { return e.abbrev; })
-        .map(canton_data);
-
-    max_per_canton = d3.max(canton_data, function(d) { return +d.total_2011; });
-    cantonbubble_area.domain([0, max_per_canton]);
-
-    foo = canton_data;
-    bar = cantonbubble_radius;
-
-    var nodes = canton_shapes.features.map(function(d) {
-        var xy = projection(d3.geo.centroid(d));
-        var value = +canton_data_map[d.properties.abbr][0].total_2011;
-        return idToNode[d.id] = {
-            x: xy[0],
-            y: xy[1],
-            gravity: {x: xy[0], y: xy[1]},
-            r: cantonbubble_radius(value),
-            value: value
-        };
-    });
-
-    force
-        .nodes(nodes)
-        .links(links)
-        .start()
-        .on("tick", function(e) {
-            var k = e.alpha,
-                kg = k * .02;
-            nodes.forEach(function(a, i) {
-                // Apply gravity forces
-                a.x += (a.gravity.x - a.x) * kg;
-                a.y += (a.gravity.y - a.y) * kg;
-                nodes.slice(i + 1).forEach(function(b) {
-                    // Check for collisions
-                    var dx = a.x - b.x,
-                        dy = a.y - b.y,
-                        l = Math.sqrt(dx * dx + dy * dy),
-                        d = a.r + b.r;
-                    if (l < d) {
-                        l = (l - d) / l * k;
-                        dx *= l;
-                        dy *= l;
-                        a.x -= dx;
-                        a.y -= dy;
-                        b.x += dx;
-                        b.y += dy;
-                    }
-                });
-            });
-
-            svg.selectAll("circle")
-                .attr("cx", function(d) { return d.x; })
-                .attr("cy", function(d) { return d.y; });
+        var nodes = canton_shapes.features.map(function(d) {
+            var xy = projection(d3.geo.centroid(d));
+            var value = +canton_data_map[d.properties.abbr][0].total_2010;
+            return idToNode[d.id] = {
+                x: xy[0],
+                y: xy[1],
+                gravity: {x: xy[0], y: xy[1]},
+                r: bubble_radius(value),
+                value: value
+            };
         });
 
-    svg.selectAll("circle")
-        .data(nodes)
-      .enter()
-        .append("circle")
-        .attr("class", "cantonbubble")
-        .attr("cx", function (d) { return d.x; })
-        .attr("cy", function (d) { return d.y; })
-        .attr("r", function (d) { return d.r; });
+        force
+            .nodes(nodes)
+            .links(links)
+            .start()
+            .on("tick", function(e) {
+                var k = e.alpha,
+                    kg = k * .02;
+                nodes.forEach(function(a, i) {
+                    // Apply gravity forces
+                    a.x += (a.gravity.x - a.x) * kg;
+                    a.y += (a.gravity.y - a.y) * kg;
+                    nodes.slice(i + 1).forEach(function(b) {
+                        // Check for collisions
+                        var dx = a.x - b.x,
+                            dy = a.y - b.y,
+                            l = Math.sqrt(dx * dx + dy * dy),
+                            d = a.r + b.r;
+                        if (l < d) {
+                            l = (l - d) / l * k;
+                            dx *= l;
+                            dy *= l;
+                            a.x -= dx;
+                            a.y -= dy;
+                            b.x += dx;
+                            b.y += dy;
+                        }
+                    });
+                });
+
+                svg.selectAll("circle.cantonbubble")
+                    .attr("cx", function(d) { return d.x; })
+                    .attr("cy", function(d) { return d.y; });
+            });
+
+        svg.selectAll("circle.cantonbubble")
+            .data(nodes)
+          .enter()
+            .append("circle")
+            .attr("class", "cantonbubble bubble")
+            .attr("cx", function (d) { return d.x; })
+            .attr("cy", function (d) { return d.y; })
+            .attr("r", function (d) { return d.r; });
+
+    }(window.step1 = window.step1 || {}));
+
+
+    (function(step2, undefined) {
+
+        var summary_data_map = d3.nest()
+            .key(function(e) { return e.year; })
+            .key(function(e) { return e.type; })
+            .key(function(e) { return e.level; })
+            .map(summary_data);
+
+        var data = [
+            (+summary_data_map["2010"]["développement"]["Confédération"][0].money) +
+                (+summary_data_map["2010"]["sudest"]["Confédération"][0].money),
+            (+summary_data_map["2010"]["développement"]["Cantons"][0].money) +
+                (+summary_data_map["2010"]["sudest"]["Cantons"][0].money) +
+                (+summary_data_map["2010"]["développement"]["Communes"][0].money) +
+                (+summary_data_map["2010"]["sudest"]["Communes"][0].money),
+            (+summary_data_map["2010"]["développement"]["ONG"][0].money) +
+                (+summary_data_map["2010"]["sudest"]["ONG"][0].money),
+        ];
+
+        window.data = data;
+        svg.selectAll("circle.step2bubble")
+            .data(data)
+          .enter()
+            .append("circle")
+            .attr("class", "step2bubble bubble")
+            .attr("cx", function(d, i) { return (i + 1) * 2 * (width / 6) - (width / 6); })
+            .attr("cy", heights.step1 + margins.step2.top)
+            .attr("r", function(d) { return bubble_radius(d / 1000); })
+            .attr("transform", function(d, i) {
+                var xoffset = 0;
+                    yoffset = 0;
+                if (i == 0) {
+                    xoffset = 50;
+                    yoffset = 150;
+                } else if (i == 2) {
+                    xoffset = -50;
+                    yoffset = 150;
+                }
+                return "translate(" + xoffset + "," + yoffset + ")"
+            });
+        
+
+    }(window.step2 = window.step2 || {}));
+
 };
  
 </script>
