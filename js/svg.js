@@ -197,10 +197,11 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
         });
 
         // Link all canton nodes to the second aggregation bubble
+        var canton_aggregation_bubble = all_nodes.filter(function(d) { return d.id == 201; })[0];
         all_nodes.filter(function(d) { return d.id < 200; }).forEach(function(d) {
             all_links.push({
-                from: d.id,
-                to: 201,
+                source: d,
+                target: canton_aggregation_bubble,
                 value: 1
             });
         });
@@ -273,15 +274,13 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
           .enter().append("path")
             .attr("class", "link")
             .attr("d", function(d) {
-                var source = all_nodes.filter(function(dd) { return dd.id == d.from; })[0];
-                var target = all_nodes.filter(function(dd) { return dd.id == d.to; })[0];
-                var dx = target.x - source.x,
-                    dy = target.y - source.y,
+                var dx = d.target.x - d.source.x,
+                    dy = d.target.y - d.source.y,
                     dr = Math.sqrt(dx * dx + dy * dy);
-                return "M" + source.x + "," + source.y +              // Start point
-                       "C" + source.x + "," + (source.y + (Math.abs(dx) / 2)) + // First control point
-                       " " + target.x + "," + (target.y - (Math.abs(dx) / 2)) + // Second control point
-                       " " + target.x + "," + target.y;               // Target point
+                return "M" + d.source.x + "," + d.source.y + // Start point
+                       "C" + d.source.x + "," + (d.source.y + (Math.abs(dx) / 2)) + // First control point
+                       " " + d.target.x + "," + (d.target.y - (Math.abs(dx) / 2)) + // Second control point
+                       " " + d.target.x + "," + d.target.y; // Target point
             });
 
     }(window.nodelinks = window.nodelinks || {}));
