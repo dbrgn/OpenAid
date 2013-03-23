@@ -45,7 +45,7 @@ section { background-color: rgba(244,237,217,1); min-height: 800px; }
 
 /* svg styling */
 .wrapper.svgwrap { padding: 0; position: relative; }
-#svg { position: absolute; margin-top: 180px; right: 0; }
+#svg { position: absolute; margin-top: 220px; right: 0; }
 
 /* navigation */
 #navigation { position: fixed; right: 20px; top: 50%; margin-top: -100px; z-index: 200; }

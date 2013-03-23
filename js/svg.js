@@ -179,10 +179,10 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                     yoffset = 0;
                 if (i == 0) {
                     xoffset = 50;
-                    yoffset = 150;
+                    yoffset = 250;
                 } else if (i == 2) {
                     xoffset = -50;
-                    yoffset = 150;
+                    yoffset = 250;
                 }
                 return "translate(" + xoffset + "," + yoffset + ")"
             });
@@ -235,6 +235,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("cx",  width / 2)
             .attr("cy", heights.step1 + heights.step2 + margins.step3.top)
             .attr("r", function(d) { return bubble_radius(d / 1000); })
+            .attr("transform", "translate(0,200)");
 
   }(window.step3 = window.step3 || {}));
 
