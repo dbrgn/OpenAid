@@ -8,12 +8,30 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strconv"
 	"strings"
 )
 
-func lookup(country string) string {
-	query := "{\"query\":\"[ a.countryCode | a <- geonames, a.featureClass == \\\"A\\\" && a.featureCode == \\\"PCLI\\\" && a.altnames =~ \\\"" + country + "\\\" ]\", \"limit\": 1}"
-	r := strings.NewReader(query)
+func lookup(country string) (string, string, string) {
+	if len(country) == 0 {
+		return "", "", ""
+	}
+
+	var input struct {
+		Query string `json:"query"`
+		Limit int `json:"limit"`
+	}
+	input.Query = "[ a.countryCode, a.lat, a.lon | " +
+		"a <- geonames, " +
+		"a.featureClass == \"A\" && a.featureCode == \"PCLI\" && " +
+		"a.altnames =~ \"" + country + "\" ]"
+	input.Limit = 2
+
+	msg, err := json.Marshal(input)
+	if err != nil {
+		log.Fatal(err)
+	}
+	r := strings.NewReader(string(msg))
 	resp, err := http.Post("https://data.mingle.io", "", r)
 	if err != nil {
 		log.Fatal(err)
@@ -24,7 +42,7 @@ func lookup(country string) string {
 	}
 
 	var output struct {
-		Body [][]string
+		Body [][]interface{} `json:"Body"`
 	}
 	err = json.Unmarshal(data, &output)
 	if err != nil {
@@ -32,10 +50,14 @@ func lookup(country string) string {
 	}
 
 	if len(output.Body) != 0 {
-		return output.Body[0][0]
+		x := output.Body[0]
+		code := x[0].(string)
+		lat := x[1].(float64)
+		lon := x[2].(float64)
+		return code, strconv.FormatFloat(lat, 'f', 10, 64), strconv.FormatFloat(lon, 'f', 10, 64)
 	}
 
-	return ""
+	return "", "", ""
 }
 
 func main() {
@@ -63,7 +85,7 @@ func main() {
 
 		log.Printf("line %v", no)
 		if no == 0 {
-			res = "country_code\tlat\tlon" + str
+			res = "country_code\tlat\tlon\t" + str
 		} else {
 			country := ""
 			for idx, attr := range strings.Split(str, "\t") {
@@ -74,11 +96,11 @@ func main() {
 				tab = "\t"
 			}
 
-			code := lookup(country)
+			code, lat, lon := lookup(country)
 			if len(code) == 0 {
 				log.Printf("failed to lookup '%v'", country)
 			}
-			res = code + tab + res
+			res = code + tab + lat + tab + lon + tab + res
 		}
 
 		output += res
