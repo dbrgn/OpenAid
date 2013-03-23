@@ -3,7 +3,6 @@ article, aside, figure, footer, header, hgroup, menu, nav, section { display:blo
 body {
     background-color: #574D4B;
     color: rgba(255,255,255,0.6);
-    padding: 20px 0;
     font-family: "Museo-slab";
     line-height: 1.6;
 }
@@ -13,11 +12,11 @@ section { margin: 0; }
 section, #tabs a { color: rgba(87,77,75,0.8); }
 nav li { list-style: none; }
 
-.wrapper { margin: 0 auto; width: 960px; padding: 20px 0; }
+.wrapper { margin: 0 auto; width: 960px; padding: 20px 0; position: relative; }
 
 /* typography */
 h1,h2 { font-weight: normal; }
-h1 { font-size: 60px; color: #FFF; margin: 20px 0 30px 0; }
+h1 { font-size: 80px; color: #FFF; margin: 0 0 30px 0; line-height: 1; }
 h2 { font-size: 40px; }
 
 /* links */
@@ -27,23 +26,32 @@ p a { text-decoration: underline; }
 
 /* header */
 header { text-align: center; margin-bottom: 30px; }
+    header .wrapper { position: relative; }
     header p { font-size: 18px; }
-    header p.intro { font-size: 24px; color: rgba(255,255,255,0.85); }
-    #languageSwitch { float: right; font-size: 20px; }
+    header p.intro { font-size: 24px; color: rgba(255,255,255,0.9); margin: 20px 0 0 0; }
+    #languageSwitch { position: absolute; right: 0; font-size: 20px; }
     #languageSwitch li { display: inline-block; margin-left: 10px; }
+    #opendata { opacity: 0.7; }
 
 /* sections */
-section { background-color: rgba(244,237,217,1); min-height: 650px; }
+section { background-color: rgba(244,237,217,1); min-height: 800px; }
     .stepColor2 { background-color: rgba(244,237,217,0.95); }
     .stepColor3 { background-color: rgba(244,237,217,0.9); }
     section p { font-size: 16px; color: rgba(87,77,75,0.8); }
-    section .info {  }
+    section .info { z-index: 100; margin-top: 60px; }
         section .info p { padding-right: 140px; }
 
+#contentWrapper { position: relative; }
+
+/* svg styling */
+.wrapper.svgwrap { padding: 0; position: relative; }
+#svg { position: absolute; margin-top: 180px; right: 0; }
+
 /* navigation */
-#navigation { position: fixed; right: 20px; top: 100px; }
+#navigation { position: fixed; right: 20px; top: 50%; margin-top: -100px; z-index: 200; }
     #navigation li { margin-bottom: 10px; }
-    #navigation a { background-color: rgba(255,255,255,0.2); border-radius: 5px; padding: 2px 6px; }
+    #navigation a { background-color: #E1D9C6; color: rgba(87,77,75,1); border-radius: 14px; padding: 5px 10px; }
+    #navigation a:hover, #navigation a.active { background-color: rgba(87,77,75,1); color: #E1D9C6; }
 
 /* tabs */
 #tabs { margin: 0; text-align: center; }

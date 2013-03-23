@@ -4,12 +4,12 @@
         <title></title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!-- todo durch min libraries ersetzen -->
-        
+
         <!--<link type="text/css" rel="stylesheet" href="css/bootstrap-responsive.css"/>-->
         <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
         <link type="text/css" rel="stylesheet" href="css/style.css"/>
         <link type="text/css" rel="stylesheet" href="css/svg.css"/>
-        
+
         <script type="text/javascript" src="//use.typekit.net/mvd5wlj.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     </head>
@@ -19,11 +19,11 @@
             <div class="wrapper">
                 <nav>
                     <ul id="languageSwitch">
-                        <li><a href="#" class="active">D</a></li>
-                        <li><a href="#">F</a></li>
+                        <li><a title="Seite auf Deutsch" href="#" class="active">D</a></li>
+                        <li><a title="Site en Fran&ccedil;ais" href="#">F</a></li>
                     </ul>
                 </nav>
-                <img src="img/logo.png" id="logo" />
+                <object type="image/svg+xml" data="img/opendata.svg" width="220" height="100" id="opendata"></object>
                 <h1>OpenAid</h1>
                 <p class="intro">Schweizer Entwicklungshilfe transparent gemacht</p>
                 <p>Jedes Jahr gibt die Schweiz rund 3 Milliarden für weltweite Entwicklungshilfe aus. Doch welchen Weg fliessen die Spenden und Steuergelder? Im <a href="http://www.publishwhatyoufund.org/index/2012-index/switzerland/">Aid-Transparency-Index</a> belegt die Schweiz einen hinteren Platz und gilt damit als wenig transparent.
@@ -33,7 +33,7 @@
 
         <nav>
             <ul id="navigation">
-                <li><a href="#step1">1</a></li>
+                <li><a href="#step1" class="active">1</a></li>
                 <li><a href="#step2">2</a></li>
                 <li><a href="#step3">3</a></li>
                 <li><a href="#step4">4</a></li>
@@ -48,53 +48,58 @@
             </ul>
         </nav>
 
-        <div id="svg">
+        <div id="contentWrapper">
+
+            <div class="wrapper svgwrap">
+                <div id="svg"></div>
+            </div>
+
+            <section id="step1" class="stepColor1">
+                <div class="wrapper">
+                    <div class="info span6">
+                        <h2>1.</h2>
+                        <p>Kantone und Gemeinden tragen einen Teil der Entwicklungshilfe. Am meisten kommt aus dem Kanton XY. Gemessen an der kantonalen Wirtschaftskraft ist der Kanton XY am spendabelsten und YZ am geizigsten.</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="step2" class="stepColor2">
+                <div class="wrapper">
+                    <div class="info span6">
+                        <h2>2.</h2>
+                        <p>Den grössten Teil bezahlt der Bund durch die Bundessteuern. Einen beträchtlichen Betrag spenden Schweizer Bürger aus ihrem privaten Vermögen.</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="step3" class="stepColor3">
+                <div class="wrapper">
+                    <div class="info span6">
+                        <h2>3.</h2>
+                        <p>Insgesamt leistet die Schweiz jedes Jahr Hilfe im Wert von 3 Milliarden Franken. Damit liegt sie, bezogen auf die Wirtschaftsleistung, im internationalen Mittelfeld. Spitzenreiter ist Schweden.</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="step4" class="stepColor2">
+                <div class="wrapper">
+                    <div class="info span6">
+                        <h2>4.</h2>
+                        <p>Wenn es an die Umsetzung von Projekten geht, kommen verschiedene Hilfsorganisationen ins Spiel. Die meisten der Organsationen haben einen Fokus: Sie sind auf Regionen oder auf bestimmte Probleme spezialisiert.</p>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="step5" class="stepColor1">
+                <div class="wrapper">
+                    <div class="info span6">
+                        <h2>5.</h2>
+                        <p>Jetzt überquert das Geld die Schweizer Grenze. Die Organisationen bauen Projekte in der ganzen Welt auf. 384 ging 2011 nach Afrika, 3838 nach Asien, 383 nach Lateinamerika.</p>
+                    </div>
+                </div>
+            </section>
+
         </div>
-
-        <section id="step1" class="stepColor1">
-            <div class="wrapper">
-                <div class="info span6">
-                    <h2>1.</h2>
-                    <p>Kantone und Gemeinden tragen einen Teil der Entwicklungshilfe. Am meisten kommt aus dem Kanton XY. Gemessen an der kantonalen Wirtschaftskraft ist der Kanton XY am spendabelsten und YZ am geizigsten.</p>
-                </div>
-            </div>
-        </section>
-
-        <section id="step2" class="stepColor2">
-            <div class="wrapper">
-                <div class="info span6">
-                    <h2>2.</h2>
-                    <p>Den grössten Teil bezahlt der Bund durch die Bundessteuern. Einen beträchtlichen Betrag spenden Schweizer Bürger aus ihrem privaten Vermögen.</p>
-                </div>
-            </div>
-        </section>
-
-        <section id="step3" class="stepColor3">
-            <div class="wrapper">
-                <div class="info span6">
-                    <h2>3.</h2>
-                    <p>Insgesamt leistet die Schweiz jedes Jahr Hilfe im Wert von 3 Milliarden Franken. Damit liegt sie, bezogen auf die Wirtschaftsleistung, im internationalen Mittelfeld. Spitzenreiter ist Schweden.</p>
-                </div>
-            </div>
-        </section>
-
-        <section id="step4" class="stepColor2">
-            <div class="wrapper">
-                <div class="info span6">
-                    <h2>4.</h2>
-                    <p>Wenn es an die Umsetzung von Projekten geht, kommen verschiedene Hilfsorganisationen ins Spiel. Die meisten der Organsationen haben einen Fokus: Sie sind auf Regionen oder auf bestimmte Probleme spezialisiert.</p>
-                </div>
-            </div>
-        </section>
-
-        <section id="step5" class="stepColor1">
-            <div class="wrapper">
-                <div class="info span6">
-                    <h2>5.</h2>
-                    <p>Jetzt überquert das Geld die Schweizer Grenze. Die Organisationen bauen Projekte in der ganzen Welt auf. 384 ging 2011 nach Afrika, 3838 nach Asien, 383 nach Lateinamerika.</p>
-                </div>
-            </div>
-        </section>
 
         <footer>
             <div class="wrapper">

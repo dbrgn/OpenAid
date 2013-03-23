@@ -1,11 +1,11 @@
 path {
     fill: none;
-    stroke: #888;
+    stroke: rgba(87,77,75,0.8);
     stroke-width: .5px;
 }
  
 .cantons {
-    fill: #efefef;
+    fill: #E1D9C6;
     stroke: none;
 }
 
@@ -18,5 +18,5 @@ path {
 }
  
 .bubble {
-    fill: #667;
+    fill: rgba(87,77,75,1);
 }
