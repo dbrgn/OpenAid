@@ -42,11 +42,12 @@ var svg = d3.select("#svg").append("svg")
 queue()
     .defer(d3.json, "geodata/switzerland.topo.json")
     .defer(d3.json, "geodata/switzerland.geo.json")
-    .defer(d3.tsv, "cleaned_data/statistiken_2011.kantone.tsv") // TODO load from data directory directly
-    .defer(d3.tsv, "cleaned_data/statistiken_2011.alles.tsv") // TODO load from data directory directly
+    .defer(d3.json, "geodata/world.topo.json")
+    .defer(d3.tsv, "cleaned_data/statistiken_2011.kantone.tsv") 
+    .defer(d3.tsv, "cleaned_data/statistiken_2011.alles.tsv") 
     .await(ready);
  
-function ready(error, topology, canton_shapes, canton_data, summary_data) {
+function ready(error, topology, canton_shapes, world_topo, canton_data, summary_data) {
 
     window.summary_data = summary_data;
 
@@ -61,7 +62,7 @@ function ready(error, topology, canton_shapes, canton_data, summary_data) {
         svg.append("path")
             .datum(topojson.object(topology, topology.objects["swiss-cantons"]))
             .attr("d", path)
-            .attr("class", "cantons");
+            .attr("class", "cantons areaRegion");
 
         /*svg.append("path")
             .datum(topojson.mesh(topology, topology.objects["swiss-municipalities"], function(a, b) { return a.properties.bfsNo !== b.properties.bfsNo }))
@@ -189,5 +190,55 @@ function ready(error, topology, canton_shapes, canton_data, summary_data) {
         
 
     }(window.step2 = window.step2 || {}));
+
+   (function(step3, undefined) {
+        // Total Aid of all channels
+        var summary_data_map = d3.nest()
+            .key(function(e) { return e.year; })
+            .key(function(e) { return e.type; })
+            .key(function(e) { return e.level; })
+            .map(summary_data);
+
+        var data = [
+            (+summary_data_map["2010"]["développement"]["Confédération"][0].money) +
+                (+summary_data_map["2010"]["sudest"]["Confédération"][0].money) +
+                (+summary_data_map["2010"]["développement"]["Cantons"][0].money) +
+                (+summary_data_map["2010"]["sudest"]["Cantons"][0].money) +
+                (+summary_data_map["2010"]["développement"]["Communes"][0].money) +
+                (+summary_data_map["2010"]["sudest"]["Communes"][0].money)+
+                (+summary_data_map["2010"]["développement"]["ONG"][0].money) +
+                (+summary_data_map["2010"]["sudest"]["ONG"][0].money)
+        ];
+
+        window.data = data;
+        svg.selectAll("circle.step3bubble")
+            .data(data)
+          .enter()
+            .append("circle")
+            .attr("class", "step3bubble bubble")
+            .attr("cx",  width / 2)
+            .attr("cy", heights.step1 + heights.step2 + margins.step3.top)
+            .attr("r", function(d) { return bubble_radius(d / 1000); })
+
+  }(window.step3 = window.step3 || {}));
+
+
+   (function(step4, undefined) {   
+
+        /*** World map 
+        var worldProjection = d3.geo.albers()
+            .rotate([0, 0])
+            .center([8.43, 46.8])
+            .scale(100);
+
+       var worldPath = d3.geo.path().projection(worldProjection);
+       svg.append("path")
+            .datum(topojson.object(world_topo, world_topo.objects["countries"]))
+            .attr("d", worldPath)
+            .attr("cx", margins.step4.left)
+            .attr("cy", heights.step1 + heights.step2 + heights.step3 + margins.step3.top)
+            .attr("class", "countries areaRegion");
+            */
+   }(window.step4 = window.step4 || {}));
 
 };

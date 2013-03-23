@@ -4,11 +4,18 @@ path {
     stroke-width: .5px;
 }
  
+/* Usable, if Countries and Cantons should not be displayed the same.
 .cantons {
-    fill: #efefef;
-    stroke: none;
-}
+} 
 
+.countries {
+} 
+*/
+
+.areaRegion {
+   fill: #efefef;
+   stroke: none;
+}
 .canton-boundary {
     stroke-width: 0px;
 }
