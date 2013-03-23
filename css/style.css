@@ -59,3 +59,4 @@ section { background-color: rgba(244,237,217,1); min-height: 800px; }
     #tabs li a { padding: 8px 35px; font-size: 20px; display: block; }
     #tabs li.active, #tabs li:hover { opacity: 1; }
 
+footer .span4 { padding-bottom: 100px; }
