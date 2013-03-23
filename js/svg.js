@@ -1,11 +1,11 @@
 var width = 960;
 var heights = {
     step1: 800,
-    step2: 700,
-    step3: 500,
-    step4: 700,
-    step5: 900,
-    total: 3600
+    step2: 800,
+    step3: 800,
+    step4: 800,
+    step5: 800,
+    total: 4000
 };
 var margins = {
     step1: {top: 100, bottom: 0, left: 60, right: 60},
