@@ -9,4 +9,5 @@ Heroku
     heroku apps:create open-aid
     heroku addons:add zerigo_dns:basic
     heroku domains:add openaid.ch
+    heroku domains:add www.openaid.ch
     git push heroku master
