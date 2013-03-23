@@ -44,8 +44,12 @@ var projection = d3.geo.albers()
     .center([8.43, 46.8])
     .scale(13600);
 
-var cantonbubble_radius = d3.scale.linear()
-    .range([10, 35]);
+var cantonbubble_area = d3.scale.linear()
+    .range([20, 5000]);
+
+var cantonbubble_radius = function(value) {
+    return Math.sqrt(cantonbubble_area(value) / Math.PI);
+}
  
 var path = d3.geo.path()
     .projection(projection);
@@ -103,7 +107,7 @@ function ready(error, topology, canton_shapes, canton_data) {
         .map(canton_data);
 
     max_per_canton = d3.max(canton_data, function(d) { return +d.total_2011; });
-    cantonbubble_radius.domain([0, max_per_canton]);
+    cantonbubble_area.domain([0, max_per_canton]);
 
     foo = canton_data;
     bar = cantonbubble_radius;
