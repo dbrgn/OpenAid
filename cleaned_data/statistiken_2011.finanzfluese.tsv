@@ -1,4 +1,4 @@
-country_code	lat	lontype	continent	country	apd_2011	APD_2010	aide_privee_ong_2011	aide_privee_ong_2010	serv_2011	serv_2010	ide_2011	ide_2010
+country_code	type	continent	country	apd_2011	APD_2010	aide_privee_ong_2011	aide_privee_ong_2010	serv_2011	serv_2010	ide_2011	ide_2010
 AD	développement			2105504	1785427	413256	431581	-176233	55538	7740300	21235600
 NR	développement	Europe		154549	157604	9171	10134	-19415	93549	231300	392700
 	développement	Europe	Pays à revenu moyen	128065	139783	8103	8588	-19415	93549	..	..
