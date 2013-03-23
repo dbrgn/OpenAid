@@ -4,45 +4,106 @@
         <title></title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!-- todo durch min libraries ersetzen -->
-        <link type="text/css" rel="stylesheet" href="css/bootstrap-responsive.css"/>
+        
+        <!--<link type="text/css" rel="stylesheet" href="css/bootstrap-responsive.css"/>-->
         <link type="text/css" rel="stylesheet" href="css/bootstrap.css"/>
+        <link type="text/css" rel="stylesheet" href="css/style.css"/>
+        
+        <script type="text/javascript" src="//use.typekit.net/mvd5wlj.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     </head>
     <body>
-        <h1>OpenAid</h1>
-        <div style="position:absolute;bottom:0;font-size:18px;">
-            <!--  <input type="checkbox" id="voronoi"> <label for="voronoi">show Voronoi</label> -->
-        </div>
-        <script type="text/javascript" src="js/d3.v3.min.js"></script>
-        <script type="text/javascript" src="js/d3.csv.js"></script>
-        <!-- <script type="text/javascript" src="js/d3.geo.js"></script> -->
-        <script type="text/javascript" src="js/d3.geom.js"></script>
-        <script type="text/javascript" src="js/openAid.income.js"></script>
-        <script type="text/javascript" src="js/openAid.outcome.js"></script>
-        <script>
-            var width = 960, height = 500;
 
-            var projection = d3.geo.mercator()
-                    .center([0, 5])
-                    .scale(900)
-                    .rotate([-180, 0]);
+        <header>
+            <div class="wrapper">
+                <nav>
+                    <ul id="languageSwitch">
+                        <li><a href="#" class="active">D</a></li>
+                        <li><a href="#">F</a></li>
+                    </ul>
+                </nav>
+                <img src="img/logo.png" id="logo" />
+                <h1>OpenAid</h1>
+                <p class="intro">Schweizer Entwicklungshilfe transparent gemacht</p>
+                <p>Jedes Jahr gibt die Schweiz rund 3 Milliarden für weltweite Entwicklungshilfe aus. Doch welchen Weg fliessen die Spenden und Steuergelder? Im <a href="http://www.publishwhatyoufund.org/index/2012-index/switzerland/">Aid-Transparency-Index</a> belegt die Schweiz einen hinteren Platz und gilt damit als wenig transparent.
+                    <i>OpenAid</i> will Transparenz schaffen über den Geldfluss. Woher das Geld kommt. Wohin es fliesst. Wem es zu gute kommt.</p>
+            </div>
+        </header>
 
-            var svg = d3.select("body").append("svg")
-                    .attr("width", width)
-                    .attr("height", height);
+        <nav>
+            <ul id="navigation">
+                <li><a href="#step1">1</a></li>
+                <li><a href="#step2">2</a></li>
+                <li><a href="#step3">3</a></li>
+                <li><a href="#step4">4</a></li>
+                <li><a href="#step5">5</a></li>
+            </ul>
+        </nav>
 
-            var path = d3.geo.path().projection(projection);
+        <nav>
+            <ul id="tabs">
+                <li class="active"><a href="">Total</a></li>
+                <li><a href="">Pro Person</a></li>
+            </ul>
+        </nav>
 
-            var g = svg.append("g");
+        <section id="step1" class="stepColor1">
+            <div class="wrapper">
+                <div class="info span6">
+                    <h2>1.</h2>
+                    <p>Kantone und Gemeinden tragen einen Teil der Entwicklungshilfe. Am meisten kommt aus dem Kanton XY. Gemessen an der kantonalen Wirtschaftskraft ist der Kanton XY am spendabelsten und YZ am geizigsten.</p>
+                </div>
+            </div>
+        </section>
 
-// load and display the World
-            d3.json("data/world.topo.json", function(error, topology) {
-                g.selectAll("path")
-                        .data(topojson.object(topology, topology.objects.countries)
-                        .geometries)
-                        .enter()
-                        .append("path")
-                        .attr("d", path)
-            });
-        </script>
+        <section id="step2" class="stepColor2">
+            <div class="wrapper">
+                <div class="info span6">
+                    <h2>2.</h2>
+                    <p>Den grössten Teil bezahlt der Bund durch die Bundessteuern. Einen beträchtlichen Betrag spenden Schweizer Bürger aus ihrem privaten Vermögen.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="step3" class="stepColor3">
+            <div class="wrapper">
+                <div class="info span6">
+                    <h2>3.</h2>
+                    <p>Insgesamt leistet die Schweiz jedes Jahr Hilfe im Wert von 3 Milliarden Franken. Damit liegt sie, bezogen auf die Wirtschaftsleistung, im internationalen Mittelfeld. Spitzenreiter ist Schweden.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="step4" class="stepColor2">
+            <div class="wrapper">
+                <div class="info span6">
+                    <h2>4.</h2>
+                    <p>Wenn es an die Umsetzung von Projekten geht, kommen verschiedene Hilfsorganisationen ins Spiel. Die meisten der Organsationen haben einen Fokus: Sie sind auf Regionen oder auf bestimmte Probleme spezialisiert.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="step5" class="stepColor1">
+            <div class="wrapper">
+                <div class="info span6">
+                    <h2>5.</h2>
+                    <p>Jetzt überquert das Geld die Schweizer Grenze. Die Organisationen bauen Projekte in der ganzen Welt auf. 384 ging 2011 nach Afrika, 3838 nach Asien, 383 nach Lateinamerika.</p>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="wrapper">
+                <div class="span4">
+                    <h3>Team</h3>
+                </div>
+                <div class="span4">
+                    <h3>Technologie</h3>
+                </div>
+                <div class="span4">
+                    <h3>Vision</h3>
+                </div>
+            </div>
+        </footer>
     </body>
 </html>

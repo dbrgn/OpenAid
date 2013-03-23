@@ -1,0 +1,53 @@
+article, aside, figure, footer, header, hgroup, menu, nav, section { display:block; }
+
+body {
+    background-color: #574D4B;
+    color: rgba(255,255,255,0.6);
+    padding: 20px 0;
+    font-family: "Museo-slab";
+    line-height: 1.6;
+}
+
+/* global elements */
+section { margin: 0; }
+section, #tabs a { color: rgba(87,77,75,0.8); }
+nav li { list-style: none; }
+
+.wrapper { margin: 0 auto; width: 960px; padding: 20px 0; }
+
+/* typography */
+h1,h2 { font-weight: normal; }
+h1 { font-size: 60px; color: #FFF; margin: 20px 0 30px 0; }
+h2 { font-size: 40px; }
+
+/* links */
+a { color: rgba(255,255,255,0.5); }
+a:hover, a.active { color: rgba(255,255,255,0.9); text-decoration: none; }
+p a { text-decoration: underline; }
+
+/* header */
+header { text-align: center; margin-bottom: 30px; }
+    header p { font-size: 18px; }
+    header p.intro { font-size: 24px; color: rgba(255,255,255,0.85); }
+    #languageSwitch { float: right; font-size: 20px; }
+    #languageSwitch li { display: inline-block; margin-left: 10px; }
+
+/* sections */
+section { background-color: rgba(244,237,217,1); min-height: 650px; }
+    .stepColor2 { background-color: rgba(244,237,217,0.95); }
+    .stepColor3 { background-color: rgba(244,237,217,0.9); }
+    section p { font-size: 16px; color: rgba(87,77,75,0.8); }
+    section .info {  }
+        section .info p { padding-right: 140px; }
+
+/* navigation */
+#navigation { position: fixed; right: 20px; top: 100px; }
+    #navigation li { margin-bottom: 10px; }
+    #navigation a { background-color: rgba(255,255,255,0.2); border-radius: 5px; padding: 2px 6px; }
+
+/* tabs */
+#tabs { margin: 0; text-align: center; }
+    #tabs li { background-color: #F4EDD9; opacity: 0.5; display: inline-block; margin: 0; }
+    #tabs li a { padding: 8px 35px; font-size: 20px; display: block; }
+    #tabs li.active, #tabs li:hover { opacity: 1; }
+
