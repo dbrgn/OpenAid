@@ -21,7 +21,7 @@ var projection = d3.geo.albers()
     .scale(13600);
 
 var bubble_area = d3.scale.linear()
-    .range([20, 150 * 150 * Math.PI]);
+    .range([20, 180 * 180 * Math.PI]);
 
 var bubble_radius = function(value) {
     return Math.sqrt(bubble_area(value) / Math.PI);
