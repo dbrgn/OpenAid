@@ -241,22 +241,30 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
 
    (function(step4, undefined) {   
+    
+    // List of the NGO's
+    
+ }(window.step4 = window.step4 || {}));
 
-        /*** World map 
-        var worldProjection = d3.geo.albers()
+
+   (function(step5, undefined) {   
+
+        // World map 
+        var offset = [width / 2, heights.step1 + heights.step2 + heights.step3 + heights.step4 + (heights.step5 / 2)];
+      
+        var worldProjection = d3.geo.mercator()
             .rotate([0, 0])
-            .center([8.43, 46.8])
-            .scale(100);
+            /*.center([8.43, 46.8]) */
+            .scale(850)
+            .translate(offset);
 
        var worldPath = d3.geo.path().projection(worldProjection);
        svg.append("path")
             .datum(topojson.object(world_topo, world_topo.objects["countries"]))
             .attr("d", worldPath)
-            .attr("cx", margins.step4.left)
-            .attr("cy", heights.step1 + heights.step2 + heights.step3 + margins.step3.top)
             .attr("class", "countries areaRegion");
-            */
-   }(window.step4 = window.step4 || {}));
+            
+   }(window.step5 = window.step5 || {}));
 
     (function(nodelinks, undefined) {
 
