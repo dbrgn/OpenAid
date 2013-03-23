@@ -1,27 +1,27 @@
-name	dev_2011	sudest_2011	total_2011	dev_2010	sudest_2010	total_2010
-Total	27655	112	27766	32103	642	32745
-Aargau	1205	-	1205	1220	10	1230
-Appenzell	A.Rh.	132	-	132	130	-	130
-Basel-Landschaft	1253	-	1253	1253	-	1253
-Basel-Stadt	1615	20	1635	1650	-	1650
-Bern	2299	-	2299	2559	-	2559
-Fribourg	1095	52	1147	1010	61	1071
-Genève	15148	-	15148	14760	118	14879
-Glarus	189	-	189	125	-	125
-Graubünden	77	8	85	117	8	125
-Jura	374	-	374	320	-	320
-Luzern	95	-	95	95	-	95
-Neuchâtel	360	-	360	305	-	305
-Nidwalden	18	-	18	59	-	59
-Obwalden	15	-	15	27	-	27
-Schaffhausen	155	-	155	173	-	173
-Schwyz	48	-	48	160	-	160
-Solothurn	80	-	80	75	-	75
-St.Gallen	238	20	258	338	-	338
-Thurgau	90	-	90	150	-	150
-Ticino	183	5	188	269	5	274
-Uri	46	4	50	112	-	112
-Valais	475	-	475	292	-	292
-Vaud	1781	3	1784	1584	-	1584
-Zug	140	-	140	725	40	765
-Zürich	545	-	545	4595	400	4995
+name	abbrev	dev_2011	sudest_2011	total_2011	dev_2010	sudest_2010	total_2010
+Aargau	AG	1205	0	1205	1220	10	1230
+Appenzell-Ausserrhoden	AR	132	0	132	130	0	130
+Appenzell-Innerrhoden	AI	0	0	0	0	0	0
+Basel-Landschaft	BL	1253	0	1253	1253	0	1253
+Basel-Stadt	BS	1615	20	1635	1650	0	1650
+Bern	BE	2299	0	2299	2559	0	2559
+Fribourg	FR	1095	52	1147	1010	61	1071
+Genève	GE	15148	0	15148	14760	118	14879
+Glarus	GL	189	0	189	125	0	125
+Graubünden	GR	77	8	85	117	8	125
+Jura	JU	374	0	374	320	0	320
+Luzern	LU	95	0	95	95	0	95
+Neuchâtel	NE	360	0	360	305	0	305
+Nidwalden	NW	18	0	18	59	0	59
+Obwalden	OW	15	0	15	27	0	27
+Schaffhausen	SH	155	0	155	173	0	173
+Schwyz	SZ	48	0	48	160	0	160
+Solothurn	SO	80	0	80	75	0	75
+St.Gallen	SG	238	20	258	338	0	338
+Thurgau	TG	90	0	90	150	0	150
+Ticino	TI	183	5	188	269	5	274
+Uri	UR	46	4	50	112	0	112
+Valais	VS	475	0	475	292	0	292
+Vaud	VD	1781	3	1784	1584	0	1584
+Zug	ZG	140	0	140	725	40	765
+Zürich	ZH	545	0	545	4595	400	4995
