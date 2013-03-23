@@ -20,3 +20,9 @@ path {
 .bubble {
     fill: rgba(87,77,75,1);
 }
+
+.link {
+    stroke: #000;
+    stroke-opacity: 0.6;
+    z-index: -10;
+}

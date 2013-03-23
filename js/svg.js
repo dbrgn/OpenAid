@@ -30,11 +30,8 @@ var bubble_radius = function(value) {
 var path = d3.geo.path()
     .projection(projection);
 
-var force = d3.layout.force()
-    .charge(0)
-    .gravity(0)
-    .size([width, heights.step1]);
- 
+var all_nodes = [], all_links = [];
+
 var svg = d3.select("#svg").append("svg")
     .attr("width", width)
     .attr("height", heights.total);
@@ -42,13 +39,11 @@ var svg = d3.select("#svg").append("svg")
 queue()
     .defer(d3.json, "geodata/switzerland.topo.json")
     .defer(d3.json, "geodata/switzerland.geo.json")
-    .defer(d3.tsv, "cleaned_data/statistiken_2011.kantone.tsv") // TODO load from data directory directly
-    .defer(d3.tsv, "cleaned_data/statistiken_2011.alles.tsv") // TODO load from data directory directly
+    .defer(d3.tsv, "cleaned_data/statistiken_2011.kantone.tsv")
+    .defer(d3.tsv, "cleaned_data/statistiken_2011.alles.tsv")
     .await(ready);
  
 function ready(error, topology, canton_shapes, canton_data, summary_data) {
-
-    window.summary_data = summary_data;
 
     var money_items_2010 = d3.nest().key(function(e) { return e.year; }).map(summary_data)["2010"];
     var total_money_2010 = d3.sum(money_items_2010.map(function(e) { return +e.money; }));
@@ -88,10 +83,11 @@ function ready(error, topology, canton_shapes, canton_data, summary_data) {
             .key(function(e) { return e.abbrev; })
             .map(canton_data);
 
-        var nodes = canton_shapes.features.map(function(d) {
+        var nodes = canton_shapes.features.map(function(d, i) {
             var xy = projection(d3.geo.centroid(d));
             var value = +canton_data_map[d.properties.abbr][0].total_2010;
             return idToNode[d.id] = {
+                id: 100 + i,
                 x: xy[0],
                 y: xy[1],
                 gravity: {x: xy[0], y: xy[1]},
@@ -99,8 +95,12 @@ function ready(error, topology, canton_shapes, canton_data, summary_data) {
                 value: value
             };
         });
+        all_nodes = all_nodes.concat(nodes);
 
-        force
+        d3.layout.force()
+            .charge(0)
+            .gravity(0)
+            .size([width, heights.step1])
             .nodes(nodes)
             .links(links)
             .start()
@@ -165,7 +165,6 @@ function ready(error, topology, canton_shapes, canton_data, summary_data) {
                 (+summary_data_map["2010"]["sudest"]["ONG"][0].money),
         ];
 
-        window.data = data;
         svg.selectAll("circle.step2bubble")
             .data(data)
           .enter()
@@ -186,8 +185,48 @@ function ready(error, topology, canton_shapes, canton_data, summary_data) {
                 }
                 return "translate(" + xoffset + "," + yoffset + ")"
             });
-        
+
+        // Add the three "aggregation bubbles" to the global node list
+        svg.selectAll("circle.step2bubble")[0].forEach(function(e, i) {
+            all_nodes.push({
+                id: 200 + i,
+                x: e.getAttribute("cx"),
+                y: e.getAttribute("cy"),
+            });
+        });
+
+        // Link all canton nodes to the second aggregation bubble
+        all_nodes.filter(function(d) { return d.id < 200; }).forEach(function(d) {
+            all_links.push({
+                from: d.id,
+                to: 201,
+                value: 1
+            });
+        });
 
     }(window.step2 = window.step2 || {}));
+
+
+    (function(nodelinks, undefined) {
+
+        svg.selectAll(".link")
+            .data(all_links)
+          .enter().append("path")
+            .attr("class", "link")
+            /*.attr("x1", function(d) { return all_nodes.filter(function(dd) { return dd.id == d.from; })[0].x; })
+            .attr("y1", function(d) { return .y; })
+            .attr("x2", function(d) { return all_nodes.filter(function(dd) { return dd.id == d.to; })[0].x; })
+            .attr("y2", function(d) { return all_nodes.filter(function(dd) { return dd.id == d.to; })[0].y; })*/
+            .attr("d", function(d) {
+                var source = all_nodes.filter(function(dd) { return dd.id == d.from; })[0];
+                var target = all_nodes.filter(function(dd) { return dd.id == d.to; })[0];
+                var dx = target.x - source.x,
+                    dy = target.y - source.y,
+                    dr = Math.sqrt(dx * dx + dy * dy);
+                return "M" + source.x + "," + source.y +
+                       "C" + source.x + "," + source.y + " " + source.x + "," + (source.y + (dy / 2)) + " " + target.x + "," + target.y;
+            });
+
+    }(window.nodelinks = window.nodelinks || {}));
 
 };
