@@ -1,152 +1,152 @@
 country_code	lat	lontype	continent	country	apd_2011	APD_2010	aide_privee_ong_2011	aide_privee_ong_2010	serv_2011	serv_2010	ide_2011	ide_2010
-AD	développement			2'105'504	1'785'427	413'256	431'581	-176'233	55'538	7'740'300	21'235'600
-NR	développement	Europe		154'549	157'604	9'171	10'134	-19'415	93'549	231'300	392'700
-	développement	Europe	Pays à revenu moyen	128'065	139'783	8'103	8'588	-19'415	93'549	..	..
-AL	développement	Europe	Albanie	11'232	14'803	1'816	2'290	-	-	..	..
-BY	développement	Europe	Bélarus	269	869	616	387	12'817	146'954	..	..
-BA	développement	Europe	Bosnie-Herzégovine	24'335	20'117	970	1'035	-	-	..	..
-HR	développement	Europe	Croatie	-	77	-	286	-	4'331	..	-43'000
-XK	développement	Europe	Kosovo	52'820	55'161	936	677	-	-	..	..
-MK	développement	Europe	Macédoine	6'787	10'937	188	244	-	-	..	..
+AD	développement			2105504	1785427	413256	431581	-176233	55538	7740300	21235600
+NR	développement	Europe		154549	157604	9171	10134	-19415	93549	231300	392700
+	développement	Europe	Pays à revenu moyen	128065	139783	8103	8588	-19415	93549	..	..
+AL	développement	Europe	Albanie	11232	14803	1816	2290	-	-	..	..
+BY	développement	Europe	Bélarus	269	869	616	387	12817	146954	..	..
+BA	développement	Europe	Bosnie-Herzégovine	24335	20117	970	1035	-	-	..	..
+HR	développement	Europe	Croatie	-	77	-	286	-	4331	..	-43000
+XK	développement	Europe	Kosovo	52820	55161	936	677	-	-	..	..
+MK	développement	Europe	Macédoine	6787	10937	188	244	-	-	..	..
 ME	développement	Europe	Monténégro	7	-	-	-	-	-	..	..
-MD	développement	Europe	Moldavie	8'100	9'022	1'501	1'498	-	-	..	..
-RS	développement	Europe	Serbie	13'716	12'421	1'220	858	-	-	..	..
-TR	développement	Europe	Turquie	505	261	191	185	-32'211	-75'540	106'000	37'000
-UA	développement	Europe	Ukraine	10'294	16'117	666	1'127	-21	17'804	95'200	305'000
-	développement	Europe	Projets régionaux et non ventilés	26'484	17'821	1'069	1'547	-	-	..	..
-AD	développement	Afrique		474'482	356'386	136'101	129'903	-1'870	-30'716	1'227'100	1'617'500
-	développement	Afrique	Pays les moins avancés (PMA)	310'325	253'673	90'292	97'742	4'566	-	..	..
-AO	développement	Afrique	Angola	526	417	1'032	589	-	-	..	..
-BJ	développement	Afrique	Bénin	10'778	13'821	3'042	3'302	-	-	..	..
-BF	développement	Afrique	Burkina Faso	26'748	29'430	7'315	7'304	-	-	..	..
-BI	développement	Afrique	Burundi	13'541	12'562	2'709	1'117	-	-	..	..
-CF	développement	Afrique	Centrafricaine, Rép.	1'880	21'760	1'410	1'093	-	-	..	..
+MD	développement	Europe	Moldavie	8100	9022	1501	1498	-	-	..	..
+RS	développement	Europe	Serbie	13716	12421	1220	858	-	-	..	..
+TR	développement	Europe	Turquie	505	261	191	185	-32211	-75540	106000	37000
+UA	développement	Europe	Ukraine	10294	16117	666	1127	-21	17804	95200	305000
+	développement	Europe	Projets régionaux et non ventilés	26484	17821	1069	1547	-	-	..	..
+AD	développement	Afrique		474482	356386	136101	129903	-1870	-30716	1227100	1617500
+	développement	Afrique	Pays les moins avancés (PMA)	310325	253673	90292	97742	4566	-	..	..
+AO	développement	Afrique	Angola	526	417	1032	589	-	-	..	..
+BJ	développement	Afrique	Bénin	10778	13821	3042	3302	-	-	..	..
+BF	développement	Afrique	Burkina Faso	26748	29430	7315	7304	-	-	..	..
+BI	développement	Afrique	Burundi	13541	12562	2709	1117	-	-	..	..
+CF	développement	Afrique	Centrafricaine, Rép.	1880	21760	1410	1093	-	-	..	..
 KM	développement	Afrique	Comores	-	-	56	-	-	-	..	..
-	développement	Afrique	Congo (Rép. dém.)	11'928	6'751	4'226	6'307	-	-	..	..
+	développement	Afrique	Congo (Rép. dém.)	11928	6751	4226	6307	-	-	..	..
 DJ	développement	Afrique	Djibouti	621	162	405	704	-	-	..	..
-ER	développement	Afrique	Erythrée	525	886	2'013	1'337	-	-	..	..
-ET	développement	Afrique	Ethiopie	10'064	6'495	11'419	9'326	-	-	..	..
+ER	développement	Afrique	Erythrée	525	886	2013	1337	-	-	..	..
+ET	développement	Afrique	Ethiopie	10064	6495	11419	9326	-	-	..	..
 GM	développement	Afrique	Gambie	-	-	27	328	-	-	..	..
-PG	développement	Afrique	Guinée	2'452	1'851	1'174	798	-	-	..	..
+PG	développement	Afrique	Guinée	2452	1851	1174	798	-	-	..	..
 GQ	développement	Afrique	Guinée Equatoriale	53	594	y	172	-	-	..	..
 GW	développement	Afrique	Guinée-Bissau	741	549	415	294	-	-	..	..
-LS	développement	Afrique	Lesotho	462	657	1'185	897	-	-	..	..
-LR	développement	Afrique	Libéria	10'227	4'915	409	1	-	-	..	..
-MG	développement	Afrique	Madagascar	5'993	8'058	4'910	4'029	-	-	..	..
-MW	développement	Afrique	Malawi	181	167	3'630	3'975	-	-	..	..
-ML	développement	Afrique	Mali	22'884	19'334	4'576	4'897	-	-	..	..
-MR	développement	Afrique	Mauritanie	205	536	1'349	1'346	-	-	..	..
-MZ	développement	Afrique	Mozambique	27'423	30'609	3'810	3'972	4'566	-	..	..
-NG	développement	Afrique	Niger	17'093	19'505	3'904	5'480	-	-	..	..
-UG	développement	Afrique	Ouganda	1'243	1'869	2'504	3'454	-	-	..	..
-RW	développement	Afrique	Rwanda	3'738	5'686	2'827	4'685	-	-	..	..
-SN	développement	Afrique	Sénégal	2'167	2'061	2'565	2'812	-	-	..	..
+LS	développement	Afrique	Lesotho	462	657	1185	897	-	-	..	..
+LR	développement	Afrique	Libéria	10227	4915	409	1	-	-	..	..
+MG	développement	Afrique	Madagascar	5993	8058	4910	4029	-	-	..	..
+MW	développement	Afrique	Malawi	181	167	3630	3975	-	-	..	..
+ML	développement	Afrique	Mali	22884	19334	4576	4897	-	-	..	..
+MR	développement	Afrique	Mauritanie	205	536	1349	1346	-	-	..	..
+MZ	développement	Afrique	Mozambique	27423	30609	3810	3972	4566	-	..	..
+NG	développement	Afrique	Niger	17093	19505	3904	5480	-	-	..	..
+UG	développement	Afrique	Ouganda	1243	1869	2504	3454	-	-	..	..
+RW	développement	Afrique	Rwanda	3738	5686	2827	4685	-	-	..	..
+SN	développement	Afrique	Sénégal	2167	2061	2565	2812	-	-	..	..
 SL	développement	Afrique	Sierra Leone	466	66	346	449	-	-	..	..
-DJ	développement	Afrique	Somalie	19'891	9'343	3'165	1'963	-	-	..	..
-SS	développement	Afrique	Soudan (sans le Sud)	13'171	17'658	2'673	8'851	-	-	..	..
-TZ	développement	Afrique	Tanzanie	25'679	19'935	11'282	11'811	-	-	..	..
-TD	développement	Afrique	Tchad	11'710	15'580	2'670	3'211	-	-	..	..
-TG	développement	Afrique	Togo	67'386	1'782	2'532	2'369	-	-	..	..
+DJ	développement	Afrique	Somalie	19891	9343	3165	1963	-	-	..	..
+SS	développement	Afrique	Soudan (sans le Sud)	13171	17658	2673	8851	-	-	..	..
+TZ	développement	Afrique	Tanzanie	25679	19935	11282	11811	-	-	..	..
+TD	développement	Afrique	Tchad	11710	15580	2670	3211	-	-	..	..
+TG	développement	Afrique	Togo	67386	1782	2532	2369	-	-	..	..
 ZM	développement	Afrique	Zambie	549	635	711	870	-	-	..	..
-	développement	Afrique	Pays à faible revenu (hors PMA)	29'658	29'548	13'036	14'610	-	-3'209	..	..
-CI	développement	Afrique	Côte d'Ivoire	-	2'683	-	3'764	-	-52	-	118'400
-GH	développement	Afrique	Ghana	-	14'331	-	2'557	-	-	..	..
-KE	développement	Afrique	Kenya	9'986	4'762	6'092	4'047	-	-	32'700	-174'700
-NG	développement	Afrique	Nigéria	-	521	-	387	-	-3'157	-	70'300
-SS	développement	Afrique	Soudan du Sud	7'292	-	3'336	-	-	-	..	..
-ZW	développement	Afrique	Zimbabwe	12'379	7'251	3'608	3'854	-	-	..	..
-	développement	Afrique	Pays à revenu moyen	65'175	34'857	21'830	12'490	-6'436	-27'507	..	..
-ZA	développement	Afrique	Afrique du Sud	6'921	7'777	1'948	2'070	1'772	-	262'500	126'800
-DZ	développement	Afrique	Algérie	2'374	1'185	23	143	-1'817	-207	..	..
-CM	développement	Afrique	Cameroun	1'655	2'313	4'041	4'312	-	-	..	..
-CV	développement	Afrique	Cap-Vert	1'059	745	30	17	-	-	..	..
-	développement	Afrique	Congo (Rép.)	419	11'141	181	411	-	-	..	..
-CI	développement	Afrique	Côte d'Ivoire	6'224	-	4'917	-	-150	-	23'000	-
-EG	développement	Afrique	Egypte	10'516	6'623	2'631	1'714	-4'826	3'896	-60'600	202'200
-GA	développement	Afrique	Gabon	1	10	30	1'174	-	-	..	..
-GH	développement	Afrique	Ghana	15'123	-	2'694	-	-	-	..	..
-LY	développement	Afrique	Libye	4'570	152	2'577	-	-	-	..	..
-MA	développement	Afrique	Maroc	4'100	3'062	318	429	-	-29'801	33'700	57'800
-MU	développement	Afrique	Maurice	-	-	143	-	-1'039	-	..	..
+	développement	Afrique	Pays à faible revenu (hors PMA)	29658	29548	13036	14610	-	-3209	..	..
+CI	développement	Afrique	Côte dIvoire	-	2683	-	3764	-	-52	-	118400
+GH	développement	Afrique	Ghana	-	14331	-	2557	-	-	..	..
+KE	développement	Afrique	Kenya	9986	4762	6092	4047	-	-	32700	-174700
+NG	développement	Afrique	Nigéria	-	521	-	387	-	-3157	-	70300
+SS	développement	Afrique	Soudan du Sud	7292	-	3336	-	-	-	..	..
+ZW	développement	Afrique	Zimbabwe	12379	7251	3608	3854	-	-	..	..
+	développement	Afrique	Pays à revenu moyen	65175	34857	21830	12490	-6436	-27507	..	..
+ZA	développement	Afrique	Afrique du Sud	6921	7777	1948	2070	1772	-	262500	126800
+DZ	développement	Afrique	Algérie	2374	1185	23	143	-1817	-207	..	..
+CM	développement	Afrique	Cameroun	1655	2313	4041	4312	-	-	..	..
+CV	développement	Afrique	Cap-Vert	1059	745	30	17	-	-	..	..
+	développement	Afrique	Congo (Rép.)	419	11141	181	411	-	-	..	..
+CI	développement	Afrique	Côte dIvoire	6224	-	4917	-	-150	-	23000	-
+EG	développement	Afrique	Egypte	10516	6623	2631	1714	-4826	3896	-60600	202200
+GA	développement	Afrique	Gabon	1	10	30	1174	-	-	..	..
+GH	développement	Afrique	Ghana	15123	-	2694	-	-	-	..	..
+LY	développement	Afrique	Libye	4570	152	2577	-	-	-	..	..
+MA	développement	Afrique	Maroc	4100	3062	318	429	-	-29801	33700	57800
+MU	développement	Afrique	Maurice	-	-	143	-	-1039	-	..	..
 NA	développement	Afrique	Namibie	593	732	364	276	-	-	..	..
-NG	développement	Afrique	Nigéria	1'698	-	454	-	782	-	32'700	-
+NG	développement	Afrique	Nigéria	1698	-	454	-	782	-	32700	-
 SC	développement	Afrique	Seychelles	-	-	80	-	-	-	..	..
-SZ	développement	Afrique	Swaziland	200	116	1'333	1'936	-	-	..	..
-TN	développement	Afrique	Tunisie	9'722	1'001	66	8	-1'157	-1'394	37'700	10'400
-	développement	Afrique	Projets régionaux et non ventilés	69'324	38'309	10'943	5'061	-	-	..	..
-AD	développement	Amérique latine		149'232	158'766	73'966	94'051	-94'089	-4'155	292'900	12'620'400
-	développement	Amérique latine	Pays les moins avancés (PMA)	15'419	24'004	21'880	33'600	-	-	..	..
-HT	développement	Amérique latine	Haïti	15'419	24'004	21'880	33'600	-	-	..	..
-	développement	Amérique latine	Pays à revenu moyen	109'504	104'872	48'440	59'372	-94'089	-4'155	..	..
-AR	développement	Amérique latine	Argentine	320	466	1'158	1'149	-851	8'727	1'512'200	-504'500
+SZ	développement	Afrique	Swaziland	200	116	1333	1936	-	-	..	..
+TN	développement	Afrique	Tunisie	9722	1001	66	8	-1157	-1394	37700	10400
+	développement	Afrique	Projets régionaux et non ventilés	69324	38309	10943	5061	-	-	..	..
+AD	développement	Amérique latine		149232	158766	73966	94051	-94089	-4155	292900	12620400
+	développement	Amérique latine	Pays les moins avancés (PMA)	15419	24004	21880	33600	-	-	..	..
+HT	développement	Amérique latine	Haïti	15419	24004	21880	33600	-	-	..	..
+	développement	Amérique latine	Pays à revenu moyen	109504	104872	48440	59372	-94089	-4155	..	..
+AR	développement	Amérique latine	Argentine	320	466	1158	1149	-851	8727	1512200	-504500
 BB	développement	Amérique latine	Barbade	-	-	-	-	-	-	..	..
-BO	développement	Amérique latine	Bolivie	26'363	22'534	5'326	6'155	-	-	120'900	-42'800
-BR	développement	Amérique latine	Brésil	3'563	4'715	8'904	9'330	8'391	34'326	1'249'400	8'318'700
-CL	développement	Amérique latine	Chili	847	1'966	862	1'379	-971	3'884	312'000	204'000
-CO	développement	Amérique latine	Colombie	18'298	15'395	8'541	9'313	2'301	-773	-345'500	206'600
-CR	développement	Amérique latine	Costa Rica	268	419	28	119	-	-	48'400	-410'700
-CU	développement	Amérique latine	Cuba	3'685	5'389	453	421	-	-	..	..
-DO	développement	Amérique latine	Dominicaine, République	9	16	1'005	230	1'352	-	..	..
+BO	développement	Amérique latine	Bolivie	26363	22534	5326	6155	-	-	120900	-42800
+BR	développement	Amérique latine	Brésil	3563	4715	8904	9330	8391	34326	1249400	8318700
+CL	développement	Amérique latine	Chili	847	1966	862	1379	-971	3884	312000	204000
+CO	développement	Amérique latine	Colombie	18298	15395	8541	9313	2301	-773	-345500	206600
+CR	développement	Amérique latine	Costa Rica	268	419	28	119	-	-	48400	-410700
+CU	développement	Amérique latine	Cuba	3685	5389	453	421	-	-	..	..
+DO	développement	Amérique latine	Dominicaine, République	9	16	1005	230	1352	-	..	..
 DM	développement	Amérique latine	Dominique	-	-	-	983	-	-	..	..
-SV	développement	Amérique latine	El Salvador	1'738	1'576	1'444	2'059	-252	-127	..	..
-EC	développement	Amérique latine	Equateur	2'515	3'202	1'680	2'421	417	-94	39'700	-38'000
-GT	développement	Amérique latine	Guatemala	3'342	3'996	3'349	3'769	-8	-4	-43'800	83'000
-BZ	développement	Amérique latine	Honduras	8'796	6'609	1'923	2'337	-	-	..	..
+SV	développement	Amérique latine	El Salvador	1738	1576	1444	2059	-252	-127	..	..
+EC	développement	Amérique latine	Equateur	2515	3202	1680	2421	417	-94	39700	-38000
+GT	développement	Amérique latine	Guatemala	3342	3996	3349	3769	-8	-4	-43800	83000
+BZ	développement	Amérique latine	Honduras	8796	6609	1923	2337	-	-	..	..
 JM	développement	Amérique latine	Jamaique	-	-	-	-	-	-	..	..
-MX	développement	Amérique latine	Mexique	513	342	1'293	1'765	-101'523	-41'858	296'900	3'333'800
-NI	développement	Amérique latine	Nicaragua	19'746	15'582	4'679	5'817	-	-	..	..
+MX	développement	Amérique latine	Mexique	513	342	1293	1765	-101523	-41858	296900	3333800
+NI	développement	Amérique latine	Nicaragua	19746	15582	4679	5817	-	-	..	..
 PA	développement	Amérique latine	Panama	-	-	18	69	-195	-207	..	..
-PY	développement	Amérique latine	Paraguay	283	330	982	1'253	-	-	..	..
-PE	développement	Amérique latine	Pérou	19'185	22'261	6'589	10'373	906	1'000	226'400	600
+PY	développement	Amérique latine	Paraguay	283	330	982	1253	-	-	..	..
+PE	développement	Amérique latine	Pérou	19185	22261	6589	10373	906	1000	226400	600
 LC	développement	Amérique latine	Sainte-Lucie	-	-	-	2	-	-	..	..
 TT	développement	Amérique latine	Trinité-et-Tobago	-	-	-	-	-	-	..	..
-UY	développement	Amérique latine	Uruguay	19	43	198	393	-	-	263'800	196'500
-VE	développement	Amérique latine	Venezuela	13	31	9	33	-3'655	-9'028	382'600	143'800
-	développement	Amérique latine	Projets régionaux et non ventilés	24'310	29'889	3'645	1'079	-	-	..	..
-NR	développement	Asie		362'869	338'423	137'714	140'477	-15'777	-136'395	5'953'600	6'598'800
-	développement	Asie	Pays les moins avancés (PMA)	132'749	103'361	61'374	54'692	-	-	..	..
-AF	développement	Asie	Afghanistan	21'079	18'409	4'282	6'381	-	-	..	..
-BD	développement	Asie	Bangladesh	28'974	21'974	3'524	4'751	-	-	14'800	-3'400
-BT	développement	Asie	Bhoutan	3'898	2'442	989	1'133	-	-	..	..
-KH	développement	Asie	Cambodge	4'800	3'627	41'448	29'945	-	-	..	..
-LA	développement	Asie	Laos	21'811	17'065	2'843	2'460	-	-	..	..
-MM	développement	Asie	Myanmar	10'085	6'454	3'376	4'130	-	-	..	..
-NP	développement	Asie	Népal	35'829	29'134	4'912	5'893	-	-	..	..
+UY	développement	Amérique latine	Uruguay	19	43	198	393	-	-	263800	196500
+VE	développement	Amérique latine	Venezuela	13	31	9	33	-3655	-9028	382600	143800
+	développement	Amérique latine	Projets régionaux et non ventilés	24310	29889	3645	1079	-	-	..	..
+NR	développement	Asie		362869	338423	137714	140477	-15777	-136395	5953600	6598800
+	développement	Asie	Pays les moins avancés (PMA)	132749	103361	61374	54692	-	-	..	..
+AF	développement	Asie	Afghanistan	21079	18409	4282	6381	-	-	..	..
+BD	développement	Asie	Bangladesh	28974	21974	3524	4751	-	-	14800	-3400
+BT	développement	Asie	Bhoutan	3898	2442	989	1133	-	-	..	..
+KH	développement	Asie	Cambodge	4800	3627	41448	29945	-	-	..	..
+LA	développement	Asie	Laos	21811	17065	2843	2460	-	-	..	..
+MM	développement	Asie	Myanmar	10085	6454	3376	4130	-	-	..	..
+NP	développement	Asie	Népal	35829	29134	4912	5893	-	-	..	..
 TL	développement	Asie	Timor-Leste	-	-	-	-	-	-	..	..
-YE	développement	Asie	Yémen	6'272	4'257	-	-	-	-	..	..
-	développement	Asie	Pays à faible revenu (hors PMA)	41'802	94'044	3'642	17'586	-	-28'623	..	..
-KP	développement	Asie	Corée du Nord	8'397	8'624	219	250	-	-	..	..
-KG	développement	Asie	Kirghizistan	20'504	18'387	2'572	1'311	-	-	..	..
-UZ	développement	Asie	Ouzbékistan	-	1'042	-	-	-	-	..	..
-BD	développement	Asie	Pakistan	-	24'668	-	10'116	-	-224	-	14'600
-TJ	développement	Asie	Tadjikistan	12'901	14'426	850	341	-	-	..	..
-VN	développement	Asie	Viet Nam	-	26'897	-	5'568	-	-28'399	-	19'600
-	développement	Asie	Pays à revenu moyen	152'164	103'461	70'011	66'977	-15'777	-107'772	..	..
-AM	développement	Asie	Arménie	3'298	2'746	1'204	1'699	-	-	..	..
-AZ	développement	Asie	Azerbaïdjan	5'184	4'077	644	485	457	-5'009	..	..
-CN	développement	Asie	Chine	9'537	8'548	3'096	3'471	-40'645	-16'297	4'553'500	1'823'800
-	développement	Asie	Gaza et Cisjordanie	23'578	22'045	8'962	9'870	-	-	..	..
-GE	développement	Asie	Géorgie	8'304	6'801	824	1'549	-	1'235	..	..
-PG	développement	Asie	Inde	9'847	10'926	14'902	16'710	23'883	9'929	633'700	1'839'400
-ID	développement	Asie	Indonésie	9'855	5'217	5'975	13'647	-3'262	-4'487	-212'100	722'200
-IR	développement	Asie	Iran	235	181	-	1	-41'152	-87'334	..	..
-IQ	développement	Asie	Iraq	3'722	3'725	1'091	1'003	-	-	..	..
-JO	développement	Asie	Jordanie	4'398	3'760	152	218	-1'757	-1'175	..	..
-KZ	développement	Asie	Kazakhstan	108	10	674	1'190	-2'101	-3'408	..	..
-LB	développement	Asie	Liban	5'950	6'853	1'167	1'002	-860	-884	..	..
-MY	développement	Asie	Malaisie	9	1	341	276	-	-	136'900	139'700
-MN	développement	Asie	Mongolie	13'483	11'816	1'510	2'508	-	-	..	..
-OM	développement	Asie	Oman	-	-	-	-	-	1'202	..	..
-UZ	développement	Asie	Ouzbékistan	1'934	-	-	-	1'208	-	..	..
-BD	développement	Asie	Pakistan	16'672	-	9'998	-	-389	-	34'100	-
-PH	développement	Asie	Philippines	1'092	1'221	8'679	6'941	-	-424	38'200	271'700
-LK	développement	Asie	Sri Lanka	9'564	10'365	4'879	4'626	-346	-358	15'900	25'400
-SY	développement	Asie	Syrie	3'609	2'757	288	732	-	-762	..	..
-TH	développement	Asie	Thaïlande	2'916	2'396	1'002	1'048	6'298	-	177'300	343'600
+YE	développement	Asie	Yémen	6272	4257	-	-	-	-	..	..
+	développement	Asie	Pays à faible revenu (hors PMA)	41802	94044	3642	17586	-	-28623	..	..
+KP	développement	Asie	Corée du Nord	8397	8624	219	250	-	-	..	..
+KG	développement	Asie	Kirghizistan	20504	18387	2572	1311	-	-	..	..
+UZ	développement	Asie	Ouzbékistan	-	1042	-	-	-	-	..	..
+BD	développement	Asie	Pakistan	-	24668	-	10116	-	-224	-	14600
+TJ	développement	Asie	Tadjikistan	12901	14426	850	341	-	-	..	..
+VN	développement	Asie	Viet Nam	-	26897	-	5568	-	-28399	-	19600
+	développement	Asie	Pays à revenu moyen	152164	103461	70011	66977	-15777	-107772	..	..
+AM	développement	Asie	Arménie	3298	2746	1204	1699	-	-	..	..
+AZ	développement	Asie	Azerbaïdjan	5184	4077	644	485	457	-5009	..	..
+CN	développement	Asie	Chine	9537	8548	3096	3471	-40645	-16297	4553500	1823800
+	développement	Asie	Gaza et Cisjordanie	23578	22045	8962	9870	-	-	..	..
+GE	développement	Asie	Géorgie	8304	6801	824	1549	-	1235	..	..
+PG	développement	Asie	Inde	9847	10926	14902	16710	23883	9929	633700	1839400
+ID	développement	Asie	Indonésie	9855	5217	5975	13647	-3262	-4487	-212100	722200
+IR	développement	Asie	Iran	235	181	-	1	-41152	-87334	..	..
+IQ	développement	Asie	Iraq	3722	3725	1091	1003	-	-	..	..
+JO	développement	Asie	Jordanie	4398	3760	152	218	-1757	-1175	..	..
+KZ	développement	Asie	Kazakhstan	108	10	674	1190	-2101	-3408	..	..
+LB	développement	Asie	Liban	5950	6853	1167	1002	-860	-884	..	..
+MY	développement	Asie	Malaisie	9	1	341	276	-	-	136900	139700
+MN	développement	Asie	Mongolie	13483	11816	1510	2508	-	-	..	..
+OM	développement	Asie	Oman	-	-	-	-	-	1202	..	..
+UZ	développement	Asie	Ouzbékistan	1934	-	-	-	1208	-	..	..
+BD	développement	Asie	Pakistan	16672	-	9998	-	-389	-	34100	-
+PH	développement	Asie	Philippines	1092	1221	8679	6941	-	-424	38200	271700
+LK	développement	Asie	Sri Lanka	9564	10365	4879	4626	-346	-358	15900	25400
+SY	développement	Asie	Syrie	3609	2757	288	732	-	-762	..	..
+TH	développement	Asie	Thaïlande	2916	2396	1002	1048	6298	-	177300	343600
 TM	développement	Asie	Turkménistan	-	16	-	-	-	-	..	..
-VN	développement	Asie	Viet Nam	18'870	-	4'622	-	42'889	-	80'000	-
-	développement	Asie	Projets régionaux et non ventilés	36'153	37'557	2'687	1'222	-	-	..	..
-AD	développement	Océanie		213	171	545	739	-	-	35'400	6'200
+VN	développement	Asie	Viet Nam	18870	-	4622	-	42889	-	80000	-
+	développement	Asie	Projets régionaux et non ventilés	36153	37557	2687	1222	-	-	..	..
+AD	développement	Océanie		213	171	545	739	-	-	35400	6200
 	développement	Océanie	Pays les moins avancés (PMA)	-	50	231	567	-	-	..	..
 KI	développement	Océanie	Kiribati	-	-	6	-	-	-	..	..
 WS	développement	Océanie	Samoa	-	50	-	6	-	-	..	..
@@ -159,23 +159,23 @@ FJ	développement	Océanie	Fidji	-	-	85	-	-	-	..	..
 FM	développement	Océanie	Micronésie, Etats fédéraux	26	-	-	-	-	-	..	..
 PG	développement	Océanie	Papouasie-Nouvelle-Guinée	-	-	229	-	-	-	..	..
 	développement	Océanie	Projets régionaux et non ventilés	187	21	-	-	-	-	..	..
-NR	développement	Non spécifié		964'159	774'078	55'758	56'277	-45'081	133'255	-	-
-AD	sudest			1'782	7'058	8'572	6'006	-28'141	-72'794	663'300	-90'600
+NR	développement	Non spécifié		964159	774078	55758	56277	-45081	133255	-	-
+AD	sudest			1782	7058	8572	6006	-28141	-72794	663300	-90600
 JM	sudest		Antilles néerlandaises	-	-	-	-	-168	-238	..	..
-SA	sudest		Arabie saoudite	-	-	-	-	-2'399	-1'801	..	..
-BH	sudest		Bahreïn	-	-	-	-	31'745	-36'390	..	..
+SA	sudest		Arabie saoudite	-	-	-	-	-2399	-1801	..	..
+BH	sudest		Bahreïn	-	-	-	-	31745	-36390	..	..
 BB	sudest		Barbade	2	-	-	-	-	-	..	..
-BG	sudest		Bulgarie	316	232	180	227	-2'094	-168	..	..
-KR	sudest		Corée (République)	83	109	56	74	-1'483	10'153	..	..
+BG	sudest		Bulgarie	316	232	180	227	-2094	-168	..	..
+KR	sudest		Corée (République)	83	109	56	74	-1483	10153	..	..
 HR	sudest		Croatie	59	-	-	-	504	-	..	-
 AE	sudest		Emirats Arabes unis	65	17	-	-	-136	-337	..	..
 HK	sudest		Hong Kong, Chine	135	14	47	109	-	-	..	..
-IL	sudest		Israël	230	260	604	306	-3'576	-1'931	..	..
-KW	sudest		Koweït	-	-	-	-	-608	2'831	..	..
-OM	sudest		Oman	-	-	-	-	4'983	-	..	..
+IL	sudest		Israël	230	260	604	306	-3576	-1931	..	..
+KW	sudest		Koweït	-	-	-	-	-608	2831	..	..
+OM	sudest		Oman	-	-	-	-	4983	-	..	..
 QA	sudest		Qatar	-	-	-	-	-	-992	..	..
-RO	sudest		Roumanie	85	1'515	5'578	3'591	-9'788	-16'167	..	..
-RU	sudest		Russie	655	4'688	2'089	1'686	-96'324	-28'390	..	..
+RO	sudest		Roumanie	85	1515	5578	3591	-9788	-16167	..	..
+RU	sudest		Russie	655	4688	2089	1686	-96324	-28390	..	..
 SG	sudest		Singapour	56	102	-	-	-	637	..	..
-TW	sudest		Taipei chinois (Taiwan)	99	121	19	13	51'204	-	..	..
+TW	sudest		Taipei chinois (Taiwan)	99	121	19	13	51204	-	..	..
 TT	sudest		Trinité-et-Tobago	-	-	-	-	-	-	..	..
