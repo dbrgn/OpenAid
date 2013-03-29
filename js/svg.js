@@ -55,12 +55,12 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
     (function(step1, undefined) {
 
-        /*** SWITZERLAND ***/
+        /*** Switzerland ***/
 
         svg.append("path")
             .datum(topojson.object(topology, topology.objects["swiss-cantons"]))
             .attr("d", path)
-            .attr("class", "cantons areaRegion");
+            .attr("class", "cantons area-region");
 
         /*svg.append("path")
             .datum(topojson.mesh(topology, topology.objects["swiss-municipalities"], function(a, b) { return a.properties.bfsNo !== b.properties.bfsNo }))
@@ -78,7 +78,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("class", "land-boundary");
 
    
-        /*** DORLING CARTOGRAM ***/
+        /*** Dorling Cartogram ***/
 
         var idToNode = {};
         var links = [];
@@ -241,34 +241,45 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("r", function(d) { return bubble_radius(d / 1000); })
             .attr("transform", "translate(0,200)");
 
-  }(window.step3 = window.step3 || {}));
+    }(window.step3 = window.step3 || {}));
 
 
-   (function(step4, undefined) {   
+    (function(step4, undefined) {
     
     // List of the NGO's
     
- }(window.step4 = window.step4 || {}));
+    }(window.step4 = window.step4 || {}));
 
 
-   (function(step5, undefined) {   
+    (function(step5, undefined) {
 
-        // World map 
+        /*** World map ***/
+
+        // Remove antarctica from dataset
+        for (var i = 0; i < world_topo.objects["countries"].geometries.length; i++) {
+            console.log('Element ' + i);
+            if (world_topo.objects["countries"].geometries[i].id == "ATA") {
+                console.log('Deleting Element ' + i);
+                world_topo.objects["countries"].geometries.splice(i, 1);
+                break;
+            }
+        }
+
+        // Calculate projection and position
         var offset = [width / 2, heights.step1 + heights.step2 + heights.step3 + heights.step4 + (heights.step5 / 2)];
-      
-        var worldProjection = d3.geo.mercator()
+        var world_projection = d3.geo.mercator()
             .rotate([0, 0])
-            /*.center([8.43, 46.8]) */
             .scale(850)
             .translate(offset);
 
-       var worldPath = d3.geo.path().projection(worldProjection);
-       svg.append("path")
+        // Draw countries
+        var world_path = d3.geo.path().projection(world_projection);
+        svg.append("path")
             .datum(topojson.object(world_topo, world_topo.objects["countries"]))
-            .attr("d", worldPath)
-            .attr("class", "countries areaRegion");
+            .attr("d", world_path)
+            .attr("class", "countries area-region");
             
-   }(window.step5 = window.step5 || {}));
+    }(window.step5 = window.step5 || {}));
 
     (function(nodelinks, undefined) {
 
