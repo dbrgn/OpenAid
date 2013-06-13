@@ -67,6 +67,17 @@ function get_real_position(obj) {
     return {x: x + x_offset, y: y + y_offset};
 }
 
+function money_format(amount) {
+    if (amount > 1e9) {
+        return (Math.round(amount / 1e8) / 10) + " Mrd";
+    } else if (amount > 1e6) {
+        return (Math.round(amount / 1e5) / 10) + " Mio";
+    } else if (amount > 1e3) {
+        return (Math.round(amount / 1e2) / 10) + " Tsd";
+    }
+    return amount;
+}
+
 
 /*** Load and process data ***/
 
@@ -87,6 +98,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
     var svg_background = svg.append("svg:g");
     var svg_lines = svg.append("svg:g");
     var svg_bubbles = svg.append("svg:g");
+    var svg_labels = svg.append("svg:g");
 
     (function(step1, undefined) { // Step 1 {{{
 
@@ -194,39 +206,81 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .key(function(e) { return e.level; })
             .map(summary_data);
         var data = [
-            (+summary_data_map["2010"]["développement"]["Confédération"][0].money) +
-                (+summary_data_map["2010"]["sudest"]["Confédération"][0].money),
-            (+summary_data_map["2010"]["développement"]["Cantons"][0].money) +
-                (+summary_data_map["2010"]["sudest"]["Cantons"][0].money) +
-                (+summary_data_map["2010"]["développement"]["Communes"][0].money) +
-                (+summary_data_map["2010"]["sudest"]["Communes"][0].money),
-            (+summary_data_map["2010"]["développement"]["ONG"][0].money) +
-                (+summary_data_map["2010"]["sudest"]["ONG"][0].money),
+            {
+                label: ["Bund"],
+                amount:
+                    (+summary_data_map["2010"]["développement"]["Confédération"][0].money) +
+                    (+summary_data_map["2010"]["sudest"]["Confédération"][0].money)
+            }, {
+                label: ["Kantone &", "Gemeinden"],
+                amount:
+                    (+summary_data_map["2010"]["développement"]["Cantons"][0].money) +
+                    (+summary_data_map["2010"]["sudest"]["Cantons"][0].money) +
+                    (+summary_data_map["2010"]["développement"]["Communes"][0].money) +
+                    (+summary_data_map["2010"]["sudest"]["Communes"][0].money)
+            }, {
+                label: ["Private", "Spenden"],
+                amount:
+                    (+summary_data_map["2010"]["développement"]["ONG"][0].money) +
+                    (+summary_data_map["2010"]["sudest"]["ONG"][0].money)
+            }
         ];
 
         // Add step 2 bubbles
+        var step2bubble_xpos = function(d, i) {
+            var base = (i + 1) * 2 * (width / 6) - (width / 6);
+            if (i == 0) {
+                return base + 50;
+            } else if (i == 2) {
+                return base - 50;
+            }
+            return base;
+        }
+        var step2bubble_ypos = function(d, i) {
+            var base = heights.step1 + margins.step2.top;
+            if (i == 0 || i == 2) {
+                return base + 250;
+            }
+            return base;
+        }
         svg_bubbles.selectAll("circle.step2bubble")
             .data(data)
           .enter()
             .append("circle")
             .attr("class", "step2bubble bubble")
-            .attr("cx", function(d, i) {
-                var base = (i + 1) * 2 * (width / 6) - (width / 6);
-                if (i == 0) {
-                    return base + 50;
-                } else if (i == 2) {
-                    return base - 50;
-                }
-                return base;
-            })
-            .attr("cy", function(d, i) {
-                var base = heights.step1 + margins.step2.top;
-                if (i == 0 || i == 2) {
-                    return base + 250;
-                }
-                return base;
-            })
-            .attr("r", function(d) { return bubble_radius(d / 1000); });
+            .attr("cx", step2bubble_xpos)
+            .attr("cy", step2bubble_ypos)
+            .attr("r", function(d) { return bubble_radius(d.amount / 1000); });
+
+        // Add labels
+        svg_labels.selectAll("g.step2.label")
+            .data(data)
+          .enter()
+            .append("g.step2.label");
+        svg_labels.selectAll("g.step2.label")
+            .data(data)
+          .enter()
+            .append("text")
+            .attr("x", step2bubble_xpos)
+            .attr("y", step2bubble_ypos)
+            .text(function(d) { return d.label[0]; })
+            .attr("font-family", "Museo-slab")
+            .attr("font-size", "25px")
+            .attr("text-anchor", "middle")
+            .attr("fill", "#888280")
+            .attr("transform", "translate(0,-10)");
+        svg_labels.selectAll("g.step2.label")
+            .data(data)
+          .enter()
+            .append("text")
+            .attr("x", step2bubble_xpos)
+            .attr("y", step2bubble_ypos)
+            .text(function(d) { return money_format(d.amount); })
+            .attr("font-family", "Museo-slab")
+            .attr("font-size", "25px")
+            .attr("text-anchor", "middle")
+            .attr("fill", "white")
+            .attr("transform", "translate(0,14)");
 
         // Add the three "aggregation bubbles" to the global node list
         svg_bubbles.selectAll("circle.step2bubble")[0].forEach(function(e, i) {
@@ -261,7 +315,10 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                        "C" + d.source.x + "," + (d.source.y + (Math.abs(dx) / 2)) + // First control point
                        " " + d.target.x + "," + (d.target.y - (Math.abs(dx) / 2)) + // Second control point
                        " " + d.target.x + "," + d.target.y; // Target point
-            });
+            })
+          .append("text")
+              .text("Bund");
+
 
     }(window.step2 = window.step2 || {})); // }}}
 
