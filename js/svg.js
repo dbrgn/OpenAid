@@ -319,8 +319,8 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                     dy = d.target.y - d.source.y,
                     dr = Math.sqrt(dx * dx + dy * dy);
                 return "M" + d.source.x + "," + d.source.y + // Start point
-                       "C" + d.source.x + "," + (d.source.y + (Math.abs(dx) / 2)) + // First control point
-                       " " + d.target.x + "," + (d.target.y - (Math.abs(dx) / 2)) + // Second control point
+                       "C" + d.source.x + "," + (d.source.y + (Math.abs(dy) / 1.6)) + // First control point
+                       " " + d.target.x + "," + (d.target.y - (Math.abs(dy) / 1.6)) + // Second control point
                        " " + d.target.x + "," + d.target.y; // Target point
             });
 
