@@ -88,7 +88,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
     var svg_lines = svg.append("svg:g");
     var svg_bubbles = svg.append("svg:g");
 
-    (function(step1, undefined) {
+    (function(step1, undefined) { // Step 1 {{{
 
         /*** Switzerland ***/
 
@@ -182,10 +182,10 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("cy", function (d) { return d.y; })
             .attr("r", function (d) { return d.r; });
 
-    }(window.step1 = window.step1 || {}));
+    }(window.step1 = window.step1 || {})); // }}}
 
 
-    (function(step2, undefined) {
+    (function(step2, undefined) { // Step 2 {{{
 
         // Prepare data
         var summary_data_map = d3.nest()
@@ -263,10 +263,10 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                        " " + d.target.x + "," + d.target.y; // Target point
             });
 
-    }(window.step2 = window.step2 || {}));
+    }(window.step2 = window.step2 || {})); // }}}
 
 
-    (function(step3, undefined) {
+    (function(step3, undefined) { // Step 3 {{{
 
         // Total Aid of all channels
         var summary_data_map = d3.nest()
@@ -325,16 +325,17 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                        " " + d.target.x + "," + d.target.y; // Target point
             });
 
-    }(window.step3 = window.step3 || {}));
+    }(window.step3 = window.step3 || {})); // }}}
 
-    (function(step4, undefined) {
+
+    (function(step4, undefined) { // Step 4 {{{
     
     // List of the NGO's
     
-    }(window.step4 = window.step4 || {}));
+    }(window.step4 = window.step4 || {})); // }}}
 
 
-    (function(step5, undefined) {
+    (function(step5, undefined) { // Step 5 {{{
 
         /*** World map ***/
 
@@ -360,6 +361,6 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("d", world_path)
             .attr("class", "countries area-region");
             
-    }(window.step5 = window.step5 || {}));
+    }(window.step5 = window.step5 || {})); // }}}
 
 };
