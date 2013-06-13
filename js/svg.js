@@ -1,3 +1,5 @@
+/*** Configuration variables ***/
+
 var width = 960;
 var heights = {
     step1: 800,
@@ -15,6 +17,9 @@ var margins = {
     step5: {top: 0, bottom: 0, left: 0, right: 0}
 }
 
+
+/*** D3/SVG setup ***/
+
 var projection = d3.geo.albers()
     .rotate([0, 0])
     .center([8.43, 46.8])
@@ -30,14 +35,40 @@ var bubble_radius = function(value) {
 var path = d3.geo.path()
     .projection(projection);
 
-var all_nodes = [], all_links = [];
-
-is_node = function(d) { return d.hasOwnProperty("x") && d.hasOwnProperty("y"); }
-is_link = function(d) { return d.hasOwnProperty("source") && d.hasOwnProperty("target"); }
+var step_1_2_nodes = [], step_1_2_links = [],
+    step_2_3_nodes = [], step_2_3_links = [];
 
 var svg = d3.select("#svg").append("svg")
     .attr("width", width)
     .attr("height", heights.total);
+
+
+/*** Helper functions ***/
+
+function is_node(d) {
+    return d.hasOwnProperty("x") && d.hasOwnProperty("y");
+}
+
+function is_link(d) {
+    return d.hasOwnProperty("source") && d.hasOwnProperty("target");
+}
+
+function get_real_position(obj) {
+    // Get original position
+    var x = +obj.getAttribute("cx"),
+        y = +obj.getAttribute("cy");
+
+    // Get offset
+    var matrix = obj.getCTM(),
+        x_offset = matrix.e,
+        y_offset = matrix.f;
+
+    // Return real position
+    return {x: x + x_offset, y: y + y_offset};
+}
+
+
+/*** Load and process data ***/
 
 queue()
     .defer(d3.json, "geodata/switzerland.topo.json")
@@ -92,14 +123,14 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             var value = +canton_data_map[d.properties.abbr][0].total_2010;
             return idToNode[d.id] = {
                 id: 100 + i,
-                x: xy[0],
-                y: xy[1],
+                x: +xy[0],
+                y: +xy[1],
                 gravity: {x: xy[0], y: xy[1]},
                 r: bubble_radius(value),
                 value: value
             };
         });
-        all_nodes = all_nodes.concat(nodes);
+        step_1_2_nodes = step_1_2_nodes.concat(nodes);
 
         d3.layout.force()
             .charge(0)
@@ -152,12 +183,12 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
     (function(step2, undefined) {
 
+        // Prepare data
         var summary_data_map = d3.nest()
             .key(function(e) { return e.year; })
             .key(function(e) { return e.type; })
             .key(function(e) { return e.level; })
             .map(summary_data);
-
         var data = [
             (+summary_data_map["2010"]["développement"]["Confédération"][0].money) +
                 (+summary_data_map["2010"]["sudest"]["Confédération"][0].money),
@@ -169,49 +200,73 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                 (+summary_data_map["2010"]["sudest"]["ONG"][0].money),
         ];
 
+        // Add step 2 bubbles
         svg.selectAll("circle.step2bubble")
             .data(data)
           .enter()
             .append("circle")
             .attr("class", "step2bubble bubble")
-            .attr("cx", function(d, i) { return (i + 1) * 2 * (width / 6) - (width / 6); })
-            .attr("cy", heights.step1 + margins.step2.top)
-            .attr("r", function(d) { return bubble_radius(d / 1000); })
-            .attr("transform", function(d, i) {
-                var xoffset = 0;
-                    yoffset = 0;
+            .attr("cx", function(d, i) {
+                var base = (i + 1) * 2 * (width / 6) - (width / 6);
                 if (i == 0) {
-                    xoffset = 50;
-                    yoffset = 250;
+                    return base + 50;
                 } else if (i == 2) {
-                    xoffset = -50;
-                    yoffset = 250;
+                    return base - 50;
                 }
-                return "translate(" + xoffset + "," + yoffset + ")"
-            });
+                return base;
+            })
+            .attr("cy", function(d, i) {
+                var base = heights.step1 + margins.step2.top;
+                if (i == 0 || i == 2) {
+                    return base + 250;
+                }
+                return base;
+            })
+            .attr("r", function(d) { return bubble_radius(d / 1000); });
 
         // Add the three "aggregation bubbles" to the global node list
         svg.selectAll("circle.step2bubble")[0].forEach(function(e, i) {
-            all_nodes.push({
+            var pos = get_real_position(e);
+            step_1_2_nodes.push({
                 id: 200 + i,
-                x: e.getAttribute("cx"),
-                y: e.getAttribute("cy"),
+                x: pos.x,
+                y: pos.y,
             });
         });
 
         // Link all canton nodes to the second aggregation bubble
-        var canton_aggregation_bubble = all_nodes.filter(function(d) { return d.id == 201; })[0];
-        all_nodes.filter(function(d) { return d.id < 200; }).forEach(function(d) {
-            all_links.push({
+        var canton_aggregation_bubble = step_1_2_nodes.filter(function(d) { return d.id == 201; })[0];
+        step_1_2_nodes.filter(function(d) { return d.id < 200; }).forEach(function(d) {
+            step_1_2_links.push({
                 source: d,
                 target: canton_aggregation_bubble,
                 value: 1
             });
         });
 
+        // Draw links as bézier curves
+        svg.selectAll(".link.step1.step2")
+            .data(step_1_2_links)
+          .enter().append("path")
+            .attr("class", "link step1 step2")
+            .attr("d", function(d) {
+                var dx = d.target.x - d.source.x,
+                    dy = d.target.y - d.source.y,
+                    dr = Math.sqrt(dx * dx + dy * dy);
+                return "M" + d.source.x + "," + d.source.y + // Start point
+                       "C" + d.source.x + "," + (d.source.y + (Math.abs(dx) / 2)) + // First control point
+                       " " + d.target.x + "," + (d.target.y - (Math.abs(dx) / 2)) + // Second control point
+                       " " + d.target.x + "," + d.target.y; // Target point
+            });
+
+        // Reorder SVG elements in the DOM (z-index)
+        svg.selectAll("circle.cantonbubble, path.link").sort(function(a, b) { return is_link(b) ? 1 : -1; });
+
     }(window.step2 = window.step2 || {}));
 
-   (function(step3, undefined) {
+
+    (function(step3, undefined) {
+
         // Total Aid of all channels
         var summary_data_map = d3.nest()
             .key(function(e) { return e.year; })
@@ -230,7 +285,6 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                 (+summary_data_map["2010"]["sudest"]["ONG"][0].money)
         ];
 
-        window.data = data;
         svg.selectAll("circle.step3bubble")
             .data(data)
           .enter()
@@ -241,8 +295,36 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("r", function(d) { return bubble_radius(d / 1000); })
             .attr("transform", "translate(0,200)");
 
-    }(window.step3 = window.step3 || {}));
+        // Create node and link lists for step 2/3
+        var step3bubble = svg.select(".step3bubble")[0][0];
+        var step3node = get_real_position(step3bubble);
+        svg.selectAll(".step2bubble")[0].forEach(function(d, i) {
+            var node = get_real_position(d);
+            step_2_3_nodes.push(node);
+            var link = {
+                source: node,
+                target: step3node
+            }
+            step_2_3_links.push(link);
+        });
+        step_2_3_nodes.push(step3node);
 
+        // Draw links as bézier curves
+        svg.selectAll(".link.step2.step3")
+            .data(step_2_3_links)
+          .enter().append("path")
+            .attr("class", "link step2 step3")
+            .attr("d", function(d) {
+                var dx = d.target.x - d.source.x,
+                    dy = d.target.y - d.source.y,
+                    dr = Math.sqrt(dx * dx + dy * dy);
+                return "M" + d.source.x + "," + d.source.y + // Start point
+                       "C" + d.source.x + "," + (d.source.y + (Math.abs(dx) / 2)) + // First control point
+                       " " + d.target.x + "," + (d.target.y - (Math.abs(dx) / 2)) + // Second control point
+                       " " + d.target.x + "," + d.target.y; // Target point
+            });
+
+    }(window.step3 = window.step3 || {}));
 
     (function(step4, undefined) {
     
@@ -255,11 +337,9 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
         /*** World map ***/
 
-        // Remove antarctica from dataset
+        // Remove Antarctica from dataset
         for (var i = 0; i < world_topo.objects["countries"].geometries.length; i++) {
-            console.log('Element ' + i);
             if (world_topo.objects["countries"].geometries[i].id == "ATA") {
-                console.log('Deleting Element ' + i);
                 world_topo.objects["countries"].geometries.splice(i, 1);
                 break;
             }
@@ -280,27 +360,5 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("class", "countries area-region");
             
     }(window.step5 = window.step5 || {}));
-
-    (function(nodelinks, undefined) {
-
-        // Draw links as bézier curves
-        svg.selectAll(".link")
-            .data(all_links)
-          .enter().append("path")
-            .attr("class", "link")
-            .attr("d", function(d) {
-                var dx = d.target.x - d.source.x,
-                    dy = d.target.y - d.source.y,
-                    dr = Math.sqrt(dx * dx + dy * dy);
-                return "M" + d.source.x + "," + d.source.y + // Start point
-                       "C" + d.source.x + "," + (d.source.y + (Math.abs(dx) / 2)) + // First control point
-                       " " + d.target.x + "," + (d.target.y - (Math.abs(dx) / 2)) + // Second control point
-                       " " + d.target.x + "," + d.target.y; // Target point
-            });
-
-        // Reorder SVG elements in the DOM (z-index)
-        d3.selectAll("circle, path.link").sort(function(a, b) { return is_link(b) ? 1 : -1; });
-
-    }(window.nodelinks = window.nodelinks || {}));
 
 };

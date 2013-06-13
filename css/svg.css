@@ -26,6 +26,7 @@ path {
  
 .bubble {
     fill: rgba(87,77,75,1);
+    z-index: 10;
 }
 
 .link {
@@ -33,4 +34,9 @@ path {
     stroke-width: 1.5;
     stroke-opacity: 0.15;
     z-index: -10;
+}
+
+.link.step2.step3 {
+    stroke-width: 2;
+    stroke-opacity: 0.3;
 }
