@@ -84,11 +84,15 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
     var total_money_2010 = d3.sum(money_items_2010.map(function(e) { return +e.money; }));
     bubble_area.domain([0, total_money_2010 / 1000]);
 
+    var svg_background = svg.append("svg:g");
+    var svg_lines = svg.append("svg:g");
+    var svg_bubbles = svg.append("svg:g");
+
     (function(step1, undefined) {
 
         /*** Switzerland ***/
 
-        svg.append("path")
+        svg_background.append("path")
             .datum(topojson.object(topology, topology.objects["swiss-cantons"]))
             .attr("d", path)
             .attr("class", "cantons area-region");
@@ -98,12 +102,12 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("d", path)
             .attr("class", "municipality-boundary");*/
 
-        svg.append("path")
+        svg_background.append("path")
             .datum(topojson.mesh(topology, topology.objects["swiss-cantons"], function(a, b) { return a.properties.no !== b.properties.no}))
             .attr("d", path)
             .attr("class", "canton-boundary");
 
-        svg.append("path")
+        svg_background.append("path")
             .datum(topojson.mesh(topology, topology.objects["swiss-cantons"], function(a, b) { return a.properties.no === b.properties.no; }))
             .attr("d", path)
             .attr("class", "land-boundary");
@@ -164,12 +168,12 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                     });
                 });
 
-                svg.selectAll("circle.cantonbubble")
+                svg_bubbles.selectAll("circle.cantonbubble")
                     .attr("cx", function(d) { return d.x; })
                     .attr("cy", function(d) { return d.y; });
             });
 
-        svg.selectAll("circle.cantonbubble")
+        svg_bubbles.selectAll("circle.cantonbubble")
             .data(nodes)
           .enter()
             .append("circle")
@@ -201,7 +205,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
         ];
 
         // Add step 2 bubbles
-        svg.selectAll("circle.step2bubble")
+        svg_bubbles.selectAll("circle.step2bubble")
             .data(data)
           .enter()
             .append("circle")
@@ -225,7 +229,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("r", function(d) { return bubble_radius(d / 1000); });
 
         // Add the three "aggregation bubbles" to the global node list
-        svg.selectAll("circle.step2bubble")[0].forEach(function(e, i) {
+        svg_bubbles.selectAll("circle.step2bubble")[0].forEach(function(e, i) {
             var pos = get_real_position(e);
             step_1_2_nodes.push({
                 id: 200 + i,
@@ -245,7 +249,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
         });
 
         // Draw links as bézier curves
-        svg.selectAll(".link.step1.step2")
+        svg_lines.selectAll(".link.step1.step2")
             .data(step_1_2_links)
           .enter().append("path")
             .attr("class", "link step1 step2")
@@ -258,9 +262,6 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                        " " + d.target.x + "," + (d.target.y - (Math.abs(dx) / 2)) + // Second control point
                        " " + d.target.x + "," + d.target.y; // Target point
             });
-
-        // Reorder SVG elements in the DOM (z-index)
-        svg.selectAll("circle.cantonbubble, path.link").sort(function(a, b) { return is_link(b) ? 1 : -1; });
 
     }(window.step2 = window.step2 || {}));
 
@@ -285,7 +286,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                 (+summary_data_map["2010"]["sudest"]["ONG"][0].money)
         ];
 
-        svg.selectAll("circle.step3bubble")
+        svg_bubbles.selectAll("circle.step3bubble")
             .data(data)
           .enter()
             .append("circle")
@@ -296,9 +297,9 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("transform", "translate(0,200)");
 
         // Create node and link lists for step 2/3
-        var step3bubble = svg.select(".step3bubble")[0][0];
+        var step3bubble = svg_bubbles.select(".step3bubble")[0][0];
         var step3node = get_real_position(step3bubble);
-        svg.selectAll(".step2bubble")[0].forEach(function(d, i) {
+        svg_bubbles.selectAll(".step2bubble")[0].forEach(function(d, i) {
             var node = get_real_position(d);
             step_2_3_nodes.push(node);
             var link = {
@@ -310,7 +311,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
         step_2_3_nodes.push(step3node);
 
         // Draw links as bézier curves
-        svg.selectAll(".link.step2.step3")
+        svg_lines.selectAll(".link.step2.step3")
             .data(step_2_3_links)
           .enter().append("path")
             .attr("class", "link step2 step3")
@@ -354,7 +355,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
         // Draw countries
         var world_path = d3.geo.path().projection(world_projection);
-        svg.append("path")
+        svg_lines.append("path")
             .datum(topojson.object(world_topo, world_topo.objects["countries"]))
             .attr("d", world_path)
             .attr("class", "countries area-region");
