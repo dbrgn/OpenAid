@@ -82,9 +82,9 @@ function money_format(amount) {
 /*** Load and process data ***/
 
 queue()
-    .defer(d3.json, "geodata/switzerland.topo.json")
-    .defer(d3.json, "geodata/switzerland.geo.json")
-    .defer(d3.json, "geodata/world.topo.json")
+    .defer(d3.json, "geodata/switzerland.topojson")
+    .defer(d3.json, "geodata/switzerland.geojson")
+    .defer(d3.json, "geodata/world.topojson")
     .defer(d3.tsv, "cleaned_data/statistiken_2011.kantone.tsv") 
     .defer(d3.tsv, "cleaned_data/statistiken_2011.alles.tsv") 
     .await(ready);
