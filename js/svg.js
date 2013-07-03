@@ -226,7 +226,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             }
         ];
 
-        // Add step 2 bubbles
+        // Compute location of step 2 bubbles
         var step2bubble_xpos = function(d, i) {
             var base = (i + 1) * 2 * (width / 6) - (width / 6);
             if (i == 0) {
@@ -243,6 +243,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             }
             return base;
         }
+        // Add step 2 bubbles
         svg_bubbles.selectAll("circle.step2bubble")
             .data(data)
           .enter()
@@ -290,6 +291,11 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                 x: pos.x,
                 y: pos.y,
             });
+            step_2_3_nodes.push({
+                id: 200 + i,
+                x: pos.x,
+                y: pos.y,
+            });
         });
 
         // Link all canton nodes to the second aggregation bubble
@@ -323,9 +329,9 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
     }(window.step2 = window.step2 || {})); // }}}
 
 
-    (function(step3, undefined) { // Step 3 {{{
+    (function(step3, undefined) { // Step 3 (TOTAL aid of ALL channels) {{{
 
-        // Total Aid of all channels
+        // Prepare data
         var summary_data_map = d3.nest()
             .key(function(e) { return e.year; })
             .key(function(e) { return e.type; })
@@ -333,7 +339,10 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .map(summary_data);
 
         var data = [
-            (+summary_data_map["2010"]["développement"]["Confédération"][0].money) +
+            {
+                label: ["Gesamt"],
+                amount:
+            	(+summary_data_map["2010"]["développement"]["Confédération"][0].money) +
                 (+summary_data_map["2010"]["sudest"]["Confédération"][0].money) +
                 (+summary_data_map["2010"]["développement"]["Cantons"][0].money) +
                 (+summary_data_map["2010"]["sudest"]["Cantons"][0].money) +
@@ -341,52 +350,77 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                 (+summary_data_map["2010"]["sudest"]["Communes"][0].money)+
                 (+summary_data_map["2010"]["développement"]["ONG"][0].money) +
                 (+summary_data_map["2010"]["sudest"]["ONG"][0].money)
+        	}
         ];
-
+        
+        // Compute location of step 3 bubble
+        var step3bubble_xpos = function(d, i) {
+            return width / 2;
+        }
+        var step3bubble_ypos = function(d, i) {
+            return heights.step1 + heights.step2 + margins.step3.top;
+        }
+        // Add step 3 bubble
         svg_bubbles.selectAll("circle.step3bubble")
             .data(data)
           .enter()
             .append("circle")
             .attr("class", "step3bubble bubble")
-            .attr("cx",  width / 2)
-            .attr("cy", heights.step1 + heights.step2 + margins.step3.top)
-            .attr("r", function(d) { return bubble_radius(d / 1000); })
+            .attr("cx",  step3bubble_xpos)
+            .attr("cy", step3bubble_ypos)
+            .attr("r", function(d) { return bubble_radius(d.amount / 1000); })
             .attr("transform", "translate(0,200)");
             
+        // Add labels
+        svg_labels.selectAll("g.step3.label")
+            .data(data)
+          .enter()
+            .append("g.step3.label");
+        svg_labels.selectAll("g.step3.label")
+            .data(data)
+          .enter()
+            .append("text")
+            .attr("x", step3bubble_xpos)
+            .attr("y", step3bubble_ypos)
+            .text(function(d) { return d.label[0]; })
+            .attr("font-family", "Museo-slab")
+            .attr("font-size", "25px")
+            .attr("text-anchor", "middle")
+            .attr("fill", "#888280")
+            .attr("transform", "translate(0,190)");
+        svg_labels.selectAll("g.step3.label")
+            .data(data)
+          .enter()
+            .append("text")
+            .attr("x", step3bubble_xpos)
+            .attr("y", step3bubble_ypos)
+            .text(function(d) { return money_format(d.amount); })
+            .attr("font-family", "Museo-slab")
+            .attr("font-size", "25px")
+            .attr("text-anchor", "middle")
+            .attr("fill", "white")
+            .attr("transform", "translate(0,214)");            
+            
        // Add the total bubble to the global node list
-        svg.selectAll("circle.step3bubble")[0].forEach(function(e, i) {
-            all_nodes.push({
+        svg_bubbles.selectAll("circle.step3bubble")[0].forEach(function(e, i) {
+            var pos = get_real_position(e);
+            step_2_3_nodes.push({
                 id: 300 + i,
-                x: e.getAttribute("cx"),
-                y: e.getAttribute("cy"),
+                x: pos.x,
+                y: pos.y,
             });
         });
-
+                
         // Link all second aggregation bubbles to the total bubble.
-        var total_bubble = all_nodes.filter(function(d) { return d.id == 300; })[0];
-        all_nodes.filter(function(d) { return d.id >= 200 & d.id < 300; }).forEach(function(d) {
-            all_links.push({
+        var total_bubble = step_2_3_nodes.filter(function(d) { return d.id == 300; })[0];
+        step_2_3_nodes.filter(function(d) { return d.id >= 200 & d.id < 300; }).forEach(function(d) {
+            step_2_3_links.push({
                 source: d,
                 target: total_bubble,
                 value: 1
             });
         });
             
-
-        // Create node and link lists for step 2/3
-        var step3bubble = svg_bubbles.select(".step3bubble")[0][0];
-        var step3node = get_real_position(step3bubble);
-        svg_bubbles.selectAll(".step2bubble")[0].forEach(function(d, i) {
-            var node = get_real_position(d);
-            step_2_3_nodes.push(node);
-            var link = {
-                source: node,
-                target: step3node
-            }
-            step_2_3_links.push(link);
-        });
-        step_2_3_nodes.push(step3node);
-
         // Draw links as bézier curves
         svg_lines.selectAll(".link.step2.step3")
             .data(step_2_3_links)
