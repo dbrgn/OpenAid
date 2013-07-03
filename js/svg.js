@@ -36,7 +36,8 @@ var path = d3.geo.path()
     .projection(projection);
 
 var step_1_2_nodes = [], step_1_2_links = [],
-    step_2_3_nodes = [], step_2_3_links = [];
+    step_2_3_nodes = [], step_2_3_links = [],
+    step_3_4_nodes = [], step_3_4_links = [];
 
 var svg = d3.select("#svg").append("svg")
     .attr("width", width)
@@ -99,6 +100,8 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
     var svg_lines = svg.append("svg:g");
     var svg_bubbles = svg.append("svg:g");
     var svg_labels = svg.append("svg:g");
+    
+    /*** Step 1: Cantons ***/
 
     (function(step1, undefined) { // Step 1 {{{
 
@@ -196,6 +199,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
     }(window.step1 = window.step1 || {})); // }}}
 
+    /*** Step 2: Confederation, Cantons and private ***/
 
     (function(step2, undefined) { // Step 2 {{{
 
@@ -328,8 +332,9 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
     }(window.step2 = window.step2 || {})); // }}}
 
+    /*** Step 3: TOTAL aid of ALL channels ***/
 
-    (function(step3, undefined) { // Step 3 (TOTAL aid of ALL channels) {{{
+    (function(step3, undefined) { // Step 3 {{{
 
         // Prepare data
         var summary_data_map = d3.nest()
@@ -438,6 +443,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
     }(window.step3 = window.step3 || {})); // }}}
 
+    /*** Step 4: Distribution by NGO ***/
 
     (function(step4, undefined) { // Step 4 {{{
     
@@ -445,6 +451,7 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
     
     }(window.step4 = window.step4 || {})); // }}}
 
+    /*** Step 5: distribution by Country ***/
 
     (function(step5, undefined) { // Step 5 {{{
 
