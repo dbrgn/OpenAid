@@ -237,6 +237,26 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
             .attr("cy", heights.step1 + heights.step2 + margins.step3.top)
             .attr("r", function(d) { return bubble_radius(d / 1000); })
             .attr("transform", "translate(0,200)");
+            
+       // Add the total bubble to the global node list
+        svg.selectAll("circle.step3bubble")[0].forEach(function(e, i) {
+            all_nodes.push({
+                id: 300 + i,
+                x: e.getAttribute("cx"),
+                y: e.getAttribute("cy"),
+            });
+        });
+
+        // Link all second aggregation bubbles to the total bubble.
+        var total_bubble = all_nodes.filter(function(d) { return d.id == 300; })[0];
+        all_nodes.filter(function(d) { return d.id >= 200 & d.id < 300; }).forEach(function(d) {
+            all_links.push({
+                source: d,
+                target: total_bubble,
+                value: 1
+            });
+        });
+            
 
   }(window.step3 = window.step3 || {}));
 
