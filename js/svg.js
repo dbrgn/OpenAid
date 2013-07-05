@@ -79,6 +79,28 @@ function money_format(amount) {
     return amount;
 }
 
+function condense_ngo_top10(ngo_detailed_data) {
+   var ngo_details_sorted = ngo_detailed_data.slice(0); // Clone the original array to leave it untouched by resort.
+   ngo_details_sorted.sort(ngo_by_amount_desc);
+   var result = new Array(11);
+    var otherMoney = 0;
+    ngo_details_sorted.forEach(function(e, i) {
+        if (i < 10) {
+            result[i] = {label: [e.organization], amount: (Number(e.money))};
+        } else {
+        	// Not within the top10, add to "rest".
+        	otherMoney += Number(e.money);
+        }
+    });
+    result[10] =  {label: ["andere"], amount: (otherMoney)};
+    return result;
+}
+/*
+ * Comparator for two ngo records. Sorts by amount descending. 
+ */
+function ngo_by_amount_desc(ngo1, ngo2) {
+    return Number(ngo2.money) - Number(ngo1.money);
+}
 
 /*** Load and process data ***/
 
@@ -88,12 +110,16 @@ queue()
     .defer(d3.json, "geodata/world.topojson")
     .defer(d3.tsv, "cleaned_data/statistiken_2011.kantone.tsv") 
     .defer(d3.tsv, "cleaned_data/statistiken_2011.alles.tsv") 
+    .defer(d3.csv, "cleaned_data/deza_auftragsstatistik_2010_agg.csv")
     .await(ready);
  
-function ready(error, topology, canton_shapes, world_topo, canton_data, summary_data) {
+function ready(error, topology, canton_shapes, world_topo, canton_data, summary_data, ngo_data) {
 
     var money_items_2010 = d3.nest().key(function(e) { return e.year; }).map(summary_data)["2010"];
     var total_money_2010 = d3.sum(money_items_2010.map(function(e) { return +e.money; }));
+    // condense ngo data to top ngo data
+    var ngo_top = condense_ngo_top10(ngo_data);
+    
     bubble_area.domain([0, total_money_2010 / 1000]);
 
     var svg_background = svg.append("svg:g");
@@ -414,6 +440,11 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
                 x: pos.x,
                 y: pos.y,
             });
+            step_3_4_nodes.push({
+                id: 300 + i,
+                x: pos.x,
+                y: pos.y,
+            });
         });
                 
         // Link all second aggregation bubbles to the total bubble.
@@ -447,7 +478,101 @@ function ready(error, topology, canton_shapes, world_topo, canton_data, summary_
 
     (function(step4, undefined) { // Step 4 {{{
     
-    // List of the NGO's
+        // Prepare data
+        var data = ngo_top;
+      
+        // Compute location of step 4 bubble
+        var step4bubble_xpos = function(d, i) {
+            var base = width / 11;
+            base += i * (width / 13);
+            return base;
+        }
+        var step4bubble_ypos = function(d, i) {
+            var base = heights.step1 + heights.step2 + heights.step3 + margins.step4.top - 460;
+            /* Variante 1: zwei Reihen 
+            if (i % 2 == 0) {
+              base += 200;
+            } */
+            /* Variante 2: Linear schräg */
+            base += ((heights.step4 / 11) * (11 - i)); 
+            return base;
+        }
+        // Add step 4 bubble
+        svg_bubbles.selectAll("circle.step4bubble")
+            .data(data)
+          .enter()
+            .append("circle")
+            .attr("class", "step4bubble bubble")
+            .attr("cx",  step4bubble_xpos)
+            .attr("cy", step4bubble_ypos)
+            .attr("r", function(d) { return bubble_radius(d.amount / 1000); })
+            .attr("transform", "translate(0,200)");
+            
+        // Add labels
+        svg_labels.selectAll("g.step4.label")
+            .data(data)
+          .enter()
+            .append("g.step4.label");
+        svg_labels.selectAll("g.step4.label")
+            .data(data)
+          .enter()
+            .append("text")
+            .attr("x", step4bubble_xpos)
+            .attr("y", step4bubble_ypos)
+            .text(function(d) { return d.label[0]; })
+            .attr("font-family", "Museo-slab")
+            .attr("font-size", "12.5px")
+            .attr("text-anchor", "middle")
+            .attr("fill", "#888280")
+            .attr("transform", "translate(0,190)");
+        svg_labels.selectAll("g.step4.label")
+            .data(data)
+          .enter()
+            .append("text")
+            .attr("x", step4bubble_xpos)
+            .attr("y", step4bubble_ypos)
+            .text(function(d) { return money_format(d.amount); })
+            .attr("font-family", "Museo-slab")
+            .attr("font-size", "12.5px")
+            .attr("text-anchor", "middle")
+            .attr("fill", "white")
+            .attr("transform", "translate(0,214)");            
+            
+       // Add the total bubble to the global node list
+        svg_bubbles.selectAll("circle.step4bubble")[0].forEach(function(e, i) {
+            var pos = get_real_position(e);
+            step_3_4_nodes.push({
+                id: 400 + i,
+                x: pos.x,
+                y: pos.y,
+            });
+        });
+                
+        // Link all second aggregation bubbles to the total bubble.
+        var total_bubble = step_3_4_nodes.filter(function(d) { return d.id == 300; })[0];
+        step_3_4_nodes.filter(function(d) { return d.id >= 400 & d.id < 500; }).forEach(function(d) {
+            step_3_4_links.push({
+                source: total_bubble,
+                target: d,
+                value: 1
+            });
+        });
+            
+        // Draw links as bézier curves
+        svg_lines.selectAll(".link.step3.step4")
+            .data(step_3_4_links)
+          .enter().append("path")
+            .attr("class", "link step3 step4")
+            .attr("d", function(d) {
+                var dx = d.target.x - d.source.x,
+                    dy = d.target.y - d.source.y,
+                    dr = Math.sqrt(dx * dx + dy * dy);
+                return "M" + d.source.x + "," + d.source.y + // Start point
+                       "C" + d.source.x + "," + (d.source.y + (Math.abs(dy) / 1.6)) + // First control point
+                       " " + d.target.x + "," + (d.target.y - (Math.abs(dy) / 1.6)) + // Second control point
+                       " " + d.target.x + "," + d.target.y; // Target point
+            });
+    
     
     }(window.step4 = window.step4 || {})); // }}}
 
